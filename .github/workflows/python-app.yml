@@ -24,6 +24,9 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install feedparser
+    - name: Install dependencies
+      run: |
+        python update_readme.py
     - name: Update README.md file
       run: |
         git pull
