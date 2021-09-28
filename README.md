@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2021/9/27 - [BaekJoon] 1747번 : 소수&팰린드롬 (Python)](https://somjang.tistory.com/entry/BaekJoon-1747%EB%B2%88-%EC%86%8C%EC%88%98%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC-Python) <br>
 [2021/9/26 - [FastAPI] Base64 형식으로 파일을 요청 받고 활용하는 방법 (Python)](https://somjang.tistory.com/entry/FastAPI-Base64-%ED%98%95%EC%8B%9D%EC%9C%BC%EB%A1%9C-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%9A%94%EC%B2%AD-%EB%B0%9B%EA%B3%A0-%ED%99%9C%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-Python) <br>
 [2021/9/26 - [BaekJoon] 1251번 : 단어 나누기 (Python)](https://somjang.tistory.com/entry/BaekJoon-1251%EB%B2%88-%EB%8B%A8%EC%96%B4-%EB%82%98%EB%88%84%EA%B8%B0-Python) <br>
 [2021/9/26 - 독립문 영천시장 맛집 - 식스센스 떡갈비 - 최가상회! - 위치, 가격, 웨이팅, 떡갈비 후기](https://somjang.tistory.com/entry/%EB%8F%85%EB%A6%BD%EB%AC%B8-%EC%98%81%EC%B2%9C%EC%8B%9C%EC%9E%A5-%EB%A7%9B%EC%A7%91-%EC%8B%9D%EC%8A%A4%EC%84%BC%EC%8A%A4-%EB%96%A1%EA%B0%88%EB%B9%84-%EC%B5%9C%EA%B0%80%EC%83%81%ED%9A%8C-%EC%9C%84%EC%B9%98-%EA%B0%80%EA%B2%A9-%EC%9B%A8%EC%9D%B4%ED%8C%85-%EB%96%A1%EA%B0%88%EB%B9%84-%ED%9B%84%EA%B8%B0) <br>
@@ -18,4 +19,3 @@
 [2021/9/24 - 동작구 코로나 19 예방접종센터 코로나19 백신 1차 접종 후기 - 화이자](https://somjang.tistory.com/entry/%EB%8F%99%EC%9E%91%EA%B5%AC-%EC%BD%94%EB%A1%9C%EB%82%98-19-%EC%98%88%EB%B0%A9%EC%A0%91%EC%A2%85%EC%84%BC%ED%84%B0-%EC%BD%94%EB%A1%9C%EB%82%9819-%EB%B0%B1%EC%8B%A0-1%EC%B0%A8-%EC%A0%91%EC%A2%85-%ED%9B%84%EA%B8%B0-%ED%99%94%EC%9D%B4%EC%9E%90) <br>
 [2021/9/24 - [BaekJoon] 2884번 : 알람 시계 (Python)](https://somjang.tistory.com/entry/BaekJoon-2884%EB%B2%88-%EC%95%8C%EB%9E%8C-%EC%8B%9C%EA%B3%84-Python) <br>
 [2021/9/23 - [BaekJoon] 2864번 : 5와 6의 차이 (Python)](https://somjang.tistory.com/entry/BaekJoon-2864%EB%B2%88-5%EC%99%80-6%EC%9D%98-%EC%B0%A8%EC%9D%B4-Python) <br>
-[2021/9/22 - 5차 재난지원금 ( 국민지원금 ) 애플 프리스비 사용 가능 점포/카드](https://somjang.tistory.com/entry/5%EC%B0%A8-%EC%9E%AC%EB%82%9C%EC%A7%80%EC%9B%90%EA%B8%88-%EA%B5%AD%EB%AF%BC%EC%A7%80%EC%9B%90%EA%B8%88-%EC%95%A0%ED%94%8C-%ED%94%84%EB%A6%AC%EC%8A%A4%EB%B9%84-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5-%EC%A0%90%ED%8F%AC%EC%B9%B4%EB%93%9C) <br>
