@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2021/10/13 - [BaekJoon] 11179번 : 2진수 뒤집기 (Python)](https://somjang.tistory.com/entry/BaekJoon-11179%EB%B2%88-2%EC%A7%84%EC%88%98-%EB%92%A4%EC%A7%91%EA%B8%B0-Python) <br>
 [2021/10/11 - [BaekJoon] 12605번 : 단어순서 뒤집기 (Python)](https://somjang.tistory.com/entry/BaekJoon-12605%EB%B2%88-%EB%8B%A8%EC%96%B4%EC%88%9C%EC%84%9C-%EB%92%A4%EC%A7%91%EA%B8%B0-Python) <br>
 [2021/10/11 - [CU] 편스토랑 32회차 우승상품! - 김재원의 알로하 코코넛 쉬림프커리 후기!](https://somjang.tistory.com/entry/CU-%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91-32%ED%9A%8C%EC%B0%A8-%EC%9A%B0%EC%8A%B9%EC%83%81%ED%92%88-%EA%B9%80%EC%9E%AC%EC%9B%90%EC%9D%98-%EC%95%8C%EB%A1%9C%ED%95%98-%EC%BD%94%EC%BD%94%EB%84%9B-%EC%89%AC%EB%A6%BC%ED%94%84%EC%BB%A4%EB%A6%AC-%ED%9B%84%EA%B8%B0) <br>
 [2021/10/11 - [CU] 편스토랑 31회차 우승상품! - 류수영 스윗마요 떡볶이 후기!](https://somjang.tistory.com/entry/CU-%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91-31%ED%9A%8C%EC%B0%A8-%EC%9A%B0%EC%8A%B9%EC%83%81%ED%92%88-%EB%A5%98%EC%88%98%EC%98%81-%EC%8A%A4%EC%9C%97%EB%A7%88%EC%9A%94-%EB%96%A1%EB%B3%B6%EC%9D%B4-%ED%9B%84%EA%B8%B0) <br>
@@ -18,4 +19,3 @@
 [2021/10/11 - [강남 배달 맛집] 밥밥디라라 - 토핑이 배터지게 올라간 맛있는 덮밥집! - 치킨타워덮밥! - 위치, 메뉴, 가격](https://somjang.tistory.com/entry/%EA%B0%95%EB%82%A8-%EB%B0%B0%EB%8B%AC-%EB%A7%9B%EC%A7%91-%EB%B0%A5%EB%B0%A5%EB%94%94%EB%9D%BC%EB%9D%BC-%ED%86%A0%ED%95%91%EC%9D%B4-%EB%B0%B0%ED%84%B0%EC%A7%80%EA%B2%8C-%EC%98%AC%EB%9D%BC%EA%B0%84-%EB%A7%9B%EC%9E%88%EB%8A%94-%EB%8D%AE%EB%B0%A5%EC%A7%91-%EC%B9%98%ED%82%A8%ED%83%80%EC%9B%8C%EB%8D%AE%EB%B0%A5-%EC%9C%84%EC%B9%98-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9) <br>
 [2021/10/10 - [BaekJoon] 3449번 : 해밍 거리 (Python)](https://somjang.tistory.com/entry/BaekJoon-3449%EB%B2%88-%ED%95%B4%EB%B0%8D-%EA%B1%B0%EB%A6%AC-Python) <br>
 [2021/10/9 - [BaekJoon] 9498번 : 시험 성적 (Python)](https://somjang.tistory.com/entry/BaekJoon-9498%EB%B2%88-%EC%8B%9C%ED%97%98-%EC%84%B1%EC%A0%81-Python) <br>
-[2021/10/8 - 카카오뷰에 연동한 티스토리 게시글 썸네일이 보이지 않는 경우 해결방법!](https://somjang.tistory.com/entry/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B7%B0%EC%97%90-%EC%97%B0%EB%8F%99%ED%95%9C-%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%8D%B8%EB%84%A4%EC%9D%BC%EC%9D%B4-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B2%BD%EC%9A%B0-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95) <br>
