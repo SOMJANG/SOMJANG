@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2021/10/24 - [GS25] 갓생기획! 신상기획팀 - 참깨수제비 후기!](https://somjang.tistory.com/entry/GS25-%EA%B0%93%EC%83%9D%EA%B8%B0%ED%9A%8D-%EC%8B%A0%EC%83%81%EA%B8%B0%ED%9A%8D%ED%8C%80-%EC%B0%B8%EA%B9%A8%EC%88%98%EC%A0%9C%EB%B9%84-%ED%9B%84%EA%B8%B0) <br>
+[2021/10/24 - [BaekJoon] 10951번 : A+B - 4 (Python)](https://somjang.tistory.com/entry/BaekJoon-10951%EB%B2%88-AB-4-Python) <br>
 [2021/10/23 - 영화 듄 솔직 후기(스포 無)쿠키영상 개수/원작안봐도될까/IMAX로 보면 좋은 점(feat.용아맥)](https://somjang.tistory.com/entry/%EC%98%81%ED%99%94-%EB%93%84-%EC%86%94%EC%A7%81-%ED%9B%84%EA%B8%B0%EC%8A%A4%ED%8F%AC-%E7%84%A1%EC%BF%A0%ED%82%A4%EC%98%81%EC%83%81-%EA%B0%9C%EC%88%98%EC%9B%90%EC%9E%91%EC%95%88%EB%B4%90%EB%8F%84%EB%90%A0%EA%B9%8CIMAX%EB%A1%9C-%EB%B3%B4%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%A0%90) <br>
 [2021/10/23 - [BaekJoon] 10815번 : 숫자 카드 (Python)](https://somjang.tistory.com/entry/BaekJoon-10815%EB%B2%88-%EC%88%AB%EC%9E%90-%EC%B9%B4%EB%93%9C-Python) <br>
 [2021/10/22 - [SW Expert Academy] 2050번 : 알파벳을 숫자로 변환 (Python)](https://somjang.tistory.com/entry/SW-Expert-Academy-2050%EB%B2%88-%EC%95%8C%ED%8C%8C%EB%B2%B3%EC%9D%84-%EC%88%AB%EC%9E%90%EB%A1%9C-%EB%B3%80%ED%99%98-Python) <br>
@@ -17,5 +19,3 @@
 [2021/10/18 - [BaekJoon] 10039번 : 평균 점수 (Python)](https://somjang.tistory.com/entry/BaekJoon-10039%EB%B2%88-%ED%8F%89%EA%B7%A0-%EC%A0%90%EC%88%98-Python) <br>
 [2021/10/17 - 페스트7 초파리트랩 - 하루만에 80마리 잡은 초파리 트랩 추천!](https://somjang.tistory.com/entry/%ED%8E%98%EC%8A%A4%ED%8A%B87-%EC%B4%88%ED%8C%8C%EB%A6%AC%ED%8A%B8%EB%9E%A9-%ED%95%98%EB%A3%A8%EB%A7%8C%EC%97%90-80%EB%A7%88%EB%A6%AC-%EC%9E%A1%EC%9D%80-%EC%B4%88%ED%8C%8C%EB%A6%AC-%ED%8A%B8%EB%9E%A9-%EC%B6%94%EC%B2%9C) <br>
 [2021/10/17 - [더현대서울 맛집] 번패티번 BUNPATTYBUN - 수제버거, 위치, 영업시간, 웨이팅, 메뉴, 가격](https://somjang.tistory.com/entry/%EB%8D%94%ED%98%84%EB%8C%80%EC%84%9C%EC%9A%B8-%EB%A7%9B%EC%A7%91-%EB%B2%88%ED%8C%A8%ED%8B%B0%EB%B2%88-BUNPATTYBUN-%EC%88%98%EC%A0%9C%EB%B2%84%EA%B1%B0-%EC%9C%84%EC%B9%98-%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84-%EC%9B%A8%EC%9D%B4%ED%8C%85-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9) <br>
-[2021/10/17 - [여의도 카페 추천] 더현대서울 블루보틀 - 주말엔 웨이팅 필수 - 위치, 메뉴, 가격, 영업시간, 주차](https://somjang.tistory.com/entry/%EC%97%AC%EC%9D%98%EB%8F%84-%EC%B9%B4%ED%8E%98-%EC%B6%94%EC%B2%9C-%EB%8D%94%ED%98%84%EB%8C%80%EC%84%9C%EC%9A%B8-%EB%B8%94%EB%A3%A8%EB%B3%B4%ED%8B%80-%EC%A3%BC%EB%A7%90%EC%97%94-%EC%9B%A8%EC%9D%B4%ED%8C%85-%ED%95%84%EC%88%98-%EC%9C%84%EC%B9%98-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9-%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84-%EC%A3%BC%EC%B0%A8) <br>
-[2021/10/17 - [BaekJoon] 15719번 : 중복된 숫자 (Python)](https://somjang.tistory.com/entry/BaekJoon-15719%EB%B2%88-%EC%A4%91%EB%B3%B5%EB%90%9C-%EC%88%AB%EC%9E%90-Python) <br>
