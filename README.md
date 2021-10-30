@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2021/10/29 - [BaekJoon] A+B - 3 (Python)](https://somjang.tistory.com/entry/BaekJoon-AB-3-Python) <br>
 [2021/10/26 - [Python] AttributeError: 'NoneType' object has no attribute 'encoding' using pymysql 해결방법](https://somjang.tistory.com/entry/Python-AttributeError-NoneType-object-has-no-attribute-encoding-using-pymysql-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95) <br>
 [2021/10/26 - [BaekJoon] 5893번 : 17배 (Python)](https://somjang.tistory.com/entry/BaekJoon-5893%EB%B2%88-17%EB%B0%B0-Python) <br>
 [2021/10/25 - [BaekJoon] 10156번 : 과자 (Python)](https://somjang.tistory.com/entry/BaekJoon-10156%EB%B2%88-%EA%B3%BC%EC%9E%90-Python) <br>
@@ -18,4 +19,3 @@
 [2021/10/22 - [SW Expert Academy] 2050번 : 알파벳을 숫자로 변환 (Python)](https://somjang.tistory.com/entry/SW-Expert-Academy-2050%EB%B2%88-%EC%95%8C%ED%8C%8C%EB%B2%B3%EC%9D%84-%EC%88%AB%EC%9E%90%EB%A1%9C-%EB%B3%80%ED%99%98-Python) <br>
 [2021/10/21 - [SW Expert Academy] 2070번 : 큰 놈, 작은 놈, 같은 놈 (Python)](https://somjang.tistory.com/entry/SW-Expert-Academy-2070%EB%B2%88-%ED%81%B0-%EB%86%88-%EC%9E%91%EC%9D%80-%EB%86%88-%EA%B0%99%EC%9D%80-%EB%86%88-Python) <br>
 [2021/10/19 - [BaekJoon] 10797번 : 10부제 (Python)](https://somjang.tistory.com/entry/BaekJoon-10797%EB%B2%88-10%EB%B6%80%EC%A0%9C-Python) <br>
-[2021/10/18 - 2021 애플 10월 이벤트! - 새로 나온 맥북프로! 무엇이 달라졌는가! - 간단정리, 요약 - 이번엔 진짜 프로를 위한 노트북으로 나온 맥북프로 14인치, 16인치](https://somjang.tistory.com/entry/2021-%EC%95%A0%ED%94%8C-10%EC%9B%94-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%83%88%EB%A1%9C-%EB%82%98%EC%98%A8-%EB%A7%A5%EB%B6%81%ED%94%84%EB%A1%9C-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%AC%EB%9D%BC%EC%A1%8C%EB%8A%94%EA%B0%80-%EC%9A%94%EC%95%BD-%EB%A7%A5%EB%B6%81%ED%94%84%EB%A1%9C-14%EC%9D%B8%EC%B9%98-16%EC%9D%B8%EC%B9%98) <br>
