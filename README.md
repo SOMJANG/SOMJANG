@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2021/11/6 - [BaekJoon] 1550번 : 16진수 (Python)](https://somjang.tistory.com/entry/BaekJoon-1550%EB%B2%88-16%EC%A7%84%EC%88%98-Python) <br>
 [2021/11/5 - [BaekJoon] 10936번 : BASE64 디코딩 (Python)](https://somjang.tistory.com/entry/BaekJoon-10936%EB%B2%88-BASE64-%EB%94%94%EC%BD%94%EB%94%A9-Python) <br>
 [2021/11/2 - [BaekJoon] 10935번 : BASE64 인코딩 (Python)](https://somjang.tistory.com/entry/BaekJoon-10935%EB%B2%88-BASE64-%EC%9D%B8%EC%BD%94%EB%94%A9-Python) <br>
 [2021/11/1 - [MySQL] DB 테이블 수정 쿼리 - Table Column 추가, 수정, 삭제](https://somjang.tistory.com/entry/MySQL-DB-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%88%98%EC%A0%95-%EC%BF%BC%EB%A6%AC-Table-Column-%EC%B6%94%EA%B0%80-%EC%88%98%EC%A0%95-%EC%82%AD%EC%A0%9C) <br>
@@ -18,4 +19,3 @@
 [2021/10/26 - [Python] AttributeError: 'NoneType' object has no attribute 'encoding' using pymysql 해결방법](https://somjang.tistory.com/entry/Python-AttributeError-NoneType-object-has-no-attribute-encoding-using-pymysql-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95) <br>
 [2021/10/26 - [BaekJoon] 5893번 : 17배 (Python)](https://somjang.tistory.com/entry/BaekJoon-5893%EB%B2%88-17%EB%B0%B0-Python) <br>
 [2021/10/25 - [BaekJoon] 10156번 : 과자 (Python)](https://somjang.tistory.com/entry/BaekJoon-10156%EB%B2%88-%EA%B3%BC%EC%9E%90-Python) <br>
-[2021/10/24 - [GS25] 갓생기획! 신상기획팀 - 참깨수제비 후기!](https://somjang.tistory.com/entry/GS25-%EA%B0%93%EC%83%9D%EA%B8%B0%ED%9A%8D-%EC%8B%A0%EC%83%81%EA%B8%B0%ED%9A%8D%ED%8C%80-%EC%B0%B8%EA%B9%A8%EC%88%98%EC%A0%9C%EB%B9%84-%ED%9B%84%EA%B8%B0) <br>
