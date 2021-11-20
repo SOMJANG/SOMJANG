@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2021/11/19 - [BaekJoon] 1712번 : 손익분기점 (Python)](https://somjang.tistory.com/entry/BaekJoon-1712%EB%B2%88-%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90-Python) <br>
 [2021/11/17 - [BaekJoon] 5635번 : 생일 (Python)](https://somjang.tistory.com/entry/BaekJoon-5635%EB%B2%88-%EC%83%9D%EC%9D%BC-Python) <br>
 [2021/11/15 - [SW Expert Academy] 2058번 : 자릿수 더하기 (Python)](https://somjang.tistory.com/entry/SW-Expert-Academy-2058%EB%B2%88-%EC%9E%90%EB%A6%BF%EC%88%98-%EB%8D%94%ED%95%98%EA%B8%B0-Python) <br>
 [2021/11/15 - [SW Expert Academy] 1989번 : 초심자의 회문 검사 (Python)](https://somjang.tistory.com/entry/SW-Expert-Academy-1989%EB%B2%88-%EC%B4%88%EC%8B%AC%EC%9E%90%EC%9D%98-%ED%9A%8C%EB%AC%B8-%EA%B2%80%EC%82%AC-Python) <br>
@@ -18,4 +19,3 @@
 [2021/11/11 - [SW Expert Academy] 1983번 : 조교의 성적 매기기 (Python)](https://somjang.tistory.com/entry/SW-Expert-Academy-1983%EB%B2%88-%EC%A1%B0%EA%B5%90%EC%9D%98-%EC%84%B1%EC%A0%81-%EB%A7%A4%EA%B8%B0%EA%B8%B0-Python) <br>
 [2021/11/11 - [부산 맛집] 합천 국밥집! - 맑은 국물의 깔끔한 돼지국밥이 맛있는 곳! - 위치, 메뉴, 가격, 주차](https://somjang.tistory.com/entry/%EB%B6%80%EC%82%B0-%EB%A7%9B%EC%A7%91-%ED%95%A9%EC%B2%9C-%EA%B5%AD%EB%B0%A5%EC%A7%91-%EB%A7%91%EC%9D%80-%EA%B5%AD%EB%AC%BC%EC%9D%98-%EA%B9%94%EB%81%94%ED%95%9C-%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5%EC%9D%B4-%EB%A7%9B%EC%9E%88%EB%8A%94-%EA%B3%B3-%EC%9C%84%EC%B9%98-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9-%EC%A3%BC%EC%B0%A8) <br>
 [2021/11/11 - 역대 애플 제품 중 기기 호환성이 가장 좋은 제품! - 애플 광택용 천 후기! (Polising Cloth)](https://somjang.tistory.com/entry/%EC%97%AD%EB%8C%80-%EC%95%A0%ED%94%8C-%EC%A0%9C%ED%92%88-%EC%A4%91-%EA%B8%B0%EA%B8%B0-%ED%98%B8%ED%99%98%EC%84%B1%EC%9D%B4-%EA%B0%80%EC%9E%A5-%EC%A2%8B%EC%9D%80-%EC%A0%9C%ED%92%88-%EC%95%A0%ED%94%8C-%EA%B4%91%ED%83%9D%EC%9A%A9-%EC%B2%9C-%ED%9B%84%EA%B8%B0-Polising-Cloth) <br>
-[2021/11/10 - [GS25] 갓생기획! 신상기획팀 - 노티드 젤리 후기! ( Knotted 도넛! )](https://somjang.tistory.com/entry/GS25-%EA%B0%93%EC%83%9D%EA%B8%B0%ED%9A%8D-%EC%8B%A0%EC%83%81%EA%B8%B0%ED%9A%8D%ED%8C%80-%EB%85%B8%ED%8B%B0%EB%93%9C-%EC%A0%A4%EB%A6%AC-%ED%9B%84%EA%B8%B0-Knotted-%EB%8F%84%EB%84%9B) <br>
