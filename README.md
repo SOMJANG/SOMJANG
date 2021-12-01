@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2021/11/30 - [SW Expert Academy] 1976번 : 시각 덧셈 (Python)](https://somjang.tistory.com/entry/SW-Expert-Academy-1976%EB%B2%88-%EC%8B%9C%EA%B0%81-%EB%8D%A7%EC%85%88-Python) <br>
 [2021/11/29 - [SW Expert Academy] 1966번 : 숫자를 정렬하자 (Python)](https://somjang.tistory.com/entry/SW-Expert-Academy-1966%EB%B2%88-%EC%88%AB%EC%9E%90%EB%A5%BC-%EC%A0%95%EB%A0%AC%ED%95%98%EC%9E%90-Python) <br>
 [2021/11/28 - [논현역 맛집] 논현역 직장인 점심 추천 - 나베나루 - 밀푀유 나베가 맛있는 곳! - 위치, 영업시간, 메뉴, 가격](https://somjang.tistory.com/entry/%EB%85%BC%ED%98%84%EC%97%AD-%EB%A7%9B%EC%A7%91-%EB%85%BC%ED%98%84%EC%97%AD-%EC%A7%81%EC%9E%A5%EC%9D%B8-%EC%A0%90%EC%8B%AC-%EC%B6%94%EC%B2%9C-%EB%82%98%EB%B2%A0%EB%82%98%EB%A3%A8-%EB%B0%80%ED%91%80%EC%9C%A0-%EB%82%98%EB%B2%A0%EA%B0%80-%EB%A7%9B%EC%9E%88%EB%8A%94-%EA%B3%B3-%EC%9C%84%EC%B9%98-%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9) <br>
 [2021/11/28 - [서대문/모래내시장 맛집] 신흥떡볶이 - 떡볶퀸도 인정한 학교 앞 분식집 스타일 떡볶이 맛집! - 위치, 영업시간, 메뉴, 가격](https://somjang.tistory.com/entry/%EC%84%9C%EB%8C%80%EB%AC%B8%EB%AA%A8%EB%9E%98%EB%82%B4%EC%8B%9C%EC%9E%A5-%EB%A7%9B%EC%A7%91-%EC%8B%A0%ED%9D%A5%EB%96%A1%EB%B3%B6%EC%9D%B4-%EB%96%A1%EB%B3%B6%ED%80%B8%EB%8F%84-%EC%9D%B8%EC%A0%95%ED%95%9C-%ED%95%99%EA%B5%90-%EC%95%9E-%EB%B6%84%EC%8B%9D%EC%A7%91-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%96%A1%EB%B3%B6%EC%9D%B4-%EB%A7%9B%EC%A7%91-%EC%9C%84%EC%B9%98-%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9) <br>
@@ -18,4 +19,3 @@
 [2021/11/27 - [SW Expert Academy] 1948번 : 날짜 계산기 (Python)](https://somjang.tistory.com/entry/SW-Expert-Academy-1948%EB%B2%88-%EB%82%A0%EC%A7%9C-%EA%B3%84%EC%82%B0%EA%B8%B0-Python) <br>
 [2021/11/26 - [SW Expert Academy] 2063번 : 중간값 찾기 (Python)](https://somjang.tistory.com/entry/SW-Expert-Academy-2063%EB%B2%88-%EC%A4%91%EA%B0%84%EA%B0%92-%EC%B0%BE%EA%B8%B0-Python) <br>
 [2021/11/24 - [BaekJoon] 1026번 : 보물 (Python)](https://somjang.tistory.com/entry/BaekJoon-1026%EB%B2%88-%EB%B3%B4%EB%AC%BC-Python) <br>
-[2021/11/23 - [BaekJoon] 2953번 : 나는 요리사다 (Python)](https://somjang.tistory.com/entry/BaekJoon-2953%EB%B2%88-%EB%82%98%EB%8A%94-%EC%9A%94%EB%A6%AC%EC%82%AC%EB%8B%A4-Python) <br>
