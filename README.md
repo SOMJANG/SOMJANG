@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2021/12/1 - [Python] telegram.Bot 사용 시 AttributeError: module 'telegram' has no attribute 'Bot' 발생 오류 해결 방법](https://somjang.tistory.com/entry/Python-telegramBot-%EC%82%AC%EC%9A%A9-%EC%8B%9C-AttributeError-module-telegram-has-no-attribute-Bot-%EB%B0%9C%EC%83%9D-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95) <br>
+[2021/12/1 - [SW Expert Academy] 2029번 : 몫과 나머지 출력하기 (Python)](https://somjang.tistory.com/entry/SW-Expert-Academy-2029%EB%B2%88-%EB%AA%AB%EA%B3%BC-%EB%82%98%EB%A8%B8%EC%A7%80-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0-Python) <br>
 [2021/11/30 - [SW Expert Academy] 1976번 : 시각 덧셈 (Python)](https://somjang.tistory.com/entry/SW-Expert-Academy-1976%EB%B2%88-%EC%8B%9C%EA%B0%81-%EB%8D%A7%EC%85%88-Python) <br>
 [2021/11/29 - [SW Expert Academy] 1966번 : 숫자를 정렬하자 (Python)](https://somjang.tistory.com/entry/SW-Expert-Academy-1966%EB%B2%88-%EC%88%AB%EC%9E%90%EB%A5%BC-%EC%A0%95%EB%A0%AC%ED%95%98%EC%9E%90-Python) <br>
 [2021/11/28 - [논현역 맛집] 논현역 직장인 점심 추천 - 나베나루 - 밀푀유 나베가 맛있는 곳! - 위치, 영업시간, 메뉴, 가격](https://somjang.tistory.com/entry/%EB%85%BC%ED%98%84%EC%97%AD-%EB%A7%9B%EC%A7%91-%EB%85%BC%ED%98%84%EC%97%AD-%EC%A7%81%EC%9E%A5%EC%9D%B8-%EC%A0%90%EC%8B%AC-%EC%B6%94%EC%B2%9C-%EB%82%98%EB%B2%A0%EB%82%98%EB%A3%A8-%EB%B0%80%ED%91%80%EC%9C%A0-%EB%82%98%EB%B2%A0%EA%B0%80-%EB%A7%9B%EC%9E%88%EB%8A%94-%EA%B3%B3-%EC%9C%84%EC%B9%98-%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9) <br>
@@ -17,5 +19,3 @@
 [2021/11/28 - [SW Expert Academy] 4406번 : 모음이 보이지 않는 사람 (Python)](https://somjang.tistory.com/entry/SW-Expert-Academy-4406%EB%B2%88-%EB%AA%A8%EC%9D%8C%EC%9D%B4-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%82%AC%EB%9E%8C-Python) <br>
 [2021/11/27 - [합정 맛집] 옥동식 - 맑은 국물에 토렴하여 주는 돼지곰탕 맛집! ( feat. 미슐랭 )](https://somjang.tistory.com/entry/%ED%95%A9%EC%A0%95-%EB%A7%9B%EC%A7%91-%EC%98%A5%EB%8F%99%EC%8B%9D-%EB%A7%91%EC%9D%80-%EA%B5%AD%EB%AC%BC%EC%97%90-%ED%86%A0%EB%A0%B4%ED%95%98%EC%97%AC-%EC%A3%BC%EB%8A%94-%EB%8F%BC%EC%A7%80%EA%B3%B0%ED%83%95-%EB%A7%9B%EC%A7%91-feat-%EB%AF%B8%EC%8A%90%EB%9E%AD) <br>
 [2021/11/27 - [SW Expert Academy] 1948번 : 날짜 계산기 (Python)](https://somjang.tistory.com/entry/SW-Expert-Academy-1948%EB%B2%88-%EB%82%A0%EC%A7%9C-%EA%B3%84%EC%82%B0%EA%B8%B0-Python) <br>
-[2021/11/26 - [SW Expert Academy] 2063번 : 중간값 찾기 (Python)](https://somjang.tistory.com/entry/SW-Expert-Academy-2063%EB%B2%88-%EC%A4%91%EA%B0%84%EA%B0%92-%EC%B0%BE%EA%B8%B0-Python) <br>
-[2021/11/24 - [BaekJoon] 1026번 : 보물 (Python)](https://somjang.tistory.com/entry/BaekJoon-1026%EB%B2%88-%EB%B3%B4%EB%AC%BC-Python) <br>
