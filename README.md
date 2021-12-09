@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2021/12/8 - [BaekJoon] 11021번 : A+B - 7 (Python)](https://somjang.tistory.com/entry/BaekJoon-11021%EB%B2%88-AB-7-Python) <br>
 [2021/12/7 - [BaekJoon] 9076번 : 점수 집계 (Python)](https://somjang.tistory.com/entry/BaekJoon-9076%EB%B2%88-%EC%A0%90%EC%88%98-%EC%A7%91%EA%B3%84-Python) <br>
 [2021/12/6 - [포티투마루] CLASS42 캘리그라피 원데이클래스 후기! - 영문 캘리그라피 - Merry Christmas 카드 써보기! ( feat. 42마일스톤 2.0 )](https://somjang.tistory.com/entry/%ED%8F%AC%ED%8B%B0%ED%88%AC%EB%A7%88%EB%A3%A8-CLASS42-%EC%BA%98%EB%A6%AC%EA%B7%B8%EB%9D%BC%ED%94%BC-%EC%9B%90%EB%8D%B0%EC%9D%B4%ED%81%B4%EB%9E%98%EC%8A%A4-%ED%9B%84%EA%B8%B0-%EC%98%81%EB%AC%B8-%EC%BA%98%EB%A6%AC%EA%B7%B8%EB%9D%BC%ED%94%BC-Merry-Christmas-%EC%B9%B4%EB%93%9C-%EC%8D%A8%EB%B3%B4%EA%B8%B0-feat-42%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4-20) <br>
 [2021/12/6 - [BaekJoon] 1735번 : 분수 합 (Python)](https://somjang.tistory.com/entry/BaekJoon-1735%EB%B2%88-%EB%B6%84%EC%88%98-%ED%95%A9-Python) <br>
@@ -18,4 +19,3 @@
 [2021/12/3 - [BaekJoon] 11659번 : 구간 합 구하기 4 (Python)](https://somjang.tistory.com/entry/BaekJoon-11659%EB%B2%88-%EA%B5%AC%EA%B0%84-%ED%95%A9-%EA%B5%AC%ED%95%98%EA%B8%B0-4-Python) <br>
 [2021/12/2 - [BaekJoon] 10952번 : A+B - 5 (Python)](https://somjang.tistory.com/entry/BaekJoon-10952%EB%B2%88-AB-5-Python) <br>
 [2021/12/1 - [Python] telegram.Bot 사용 시 AttributeError: module 'telegram' has no attribute 'Bot' 발생 오류 해결 방법](https://somjang.tistory.com/entry/Python-telegramBot-%EC%82%AC%EC%9A%A9-%EC%8B%9C-AttributeError-module-telegram-has-no-attribute-Bot-%EB%B0%9C%EC%83%9D-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95) <br>
-[2021/12/1 - [SW Expert Academy] 2029번 : 몫과 나머지 출력하기 (Python)](https://somjang.tistory.com/entry/SW-Expert-Academy-2029%EB%B2%88-%EB%AA%AB%EA%B3%BC-%EB%82%98%EB%A8%B8%EC%A7%80-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0-Python) <br>
