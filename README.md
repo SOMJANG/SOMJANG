@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2021/12/10 - [BaekJoon] 2442번 : 별 찍기 - 5 (Python)](https://somjang.tistory.com/entry/BaekJoon-2442%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-5-Python) <br>
 [2021/12/9 - [BaekJoon] 2441번 : 별 찍기 - 4 (Python)](https://somjang.tistory.com/entry/BaekJoon-2441%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-4-Python) <br>
 [2021/12/8 - [BaekJoon] 11021번 : A+B - 7 (Python)](https://somjang.tistory.com/entry/BaekJoon-11021%EB%B2%88-AB-7-Python) <br>
 [2021/12/7 - [BaekJoon] 9076번 : 점수 집계 (Python)](https://somjang.tistory.com/entry/BaekJoon-9076%EB%B2%88-%EC%A0%90%EC%88%98-%EC%A7%91%EA%B3%84-Python) <br>
@@ -18,4 +19,3 @@
 [2021/12/5 - [BaekJoon] 2752번 : 세수정렬 (Python)](https://somjang.tistory.com/entry/BaekJoon-2752%EB%B2%88-%EC%84%B8%EC%88%98%EC%A0%95%EB%A0%AC-Python) <br>
 [2021/12/4 - [BaekJoon] 2910번 : 빈도 정렬 (Python)](https://somjang.tistory.com/entry/BaekJoon-2910%EB%B2%88-%EB%B9%88%EB%8F%84-%EC%A0%95%EB%A0%AC-Python) <br>
 [2021/12/3 - [BaekJoon] 11659번 : 구간 합 구하기 4 (Python)](https://somjang.tistory.com/entry/BaekJoon-11659%EB%B2%88-%EA%B5%AC%EA%B0%84-%ED%95%A9-%EA%B5%AC%ED%95%98%EA%B8%B0-4-Python) <br>
-[2021/12/2 - [BaekJoon] 10952번 : A+B - 5 (Python)](https://somjang.tistory.com/entry/BaekJoon-10952%EB%B2%88-AB-5-Python) <br>
