@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2021/12/13 - [BaekJoon] 8393번 : 합 (Python)](https://somjang.tistory.com/entry/BaekJoon-8393%EB%B2%88-%ED%95%A9-Python) <br>
 [2021/12/12 - [Python] 파이썬과 텔레그램으로 스파이더맨 노웨이홈 예매 알리미 만드는 방법!](https://somjang.tistory.com/entry/Python-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%ED%85%94%EB%A0%88%EA%B7%B8%EB%9E%A8%EC%9C%BC%EB%A1%9C-%EC%8A%A4%ED%8C%8C%EC%9D%B4%EB%8D%94%EB%A7%A8-%EB%85%B8%EC%9B%A8%EC%9D%B4%ED%99%88-%EC%98%88%EB%A7%A4-%EC%95%8C%EB%A6%AC%EB%AF%B8-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95) <br>
 [2021/12/12 - 텔레그램 BotFather를 활용하여 텔레그램 봇 생성하고 chat_id를 얻는 방법!](https://somjang.tistory.com/entry/%ED%85%94%EB%A0%88%EA%B7%B8%EB%9E%A8-BotFather%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%ED%85%94%EB%A0%88%EA%B7%B8%EB%9E%A8-%EB%B4%87-%EC%83%9D%EC%84%B1%ED%95%98%EA%B3%A0-chatid%EB%A5%BC-%EC%96%BB%EB%8A%94-%EB%B0%A9%EB%B2%95) <br>
 [2021/12/12 - [BaekJoon] 17295번 : 엔드게임 스포일러 (Python)](https://somjang.tistory.com/entry/BaekJoon-17295%EB%B2%88-%EC%97%94%EB%93%9C%EA%B2%8C%EC%9E%84-%EC%8A%A4%ED%8F%AC%EC%9D%BC%EB%9F%AC-Python) <br>
@@ -18,4 +19,3 @@
 [2021/12/8 - [BaekJoon] 11021번 : A+B - 7 (Python)](https://somjang.tistory.com/entry/BaekJoon-11021%EB%B2%88-AB-7-Python) <br>
 [2021/12/7 - [BaekJoon] 9076번 : 점수 집계 (Python)](https://somjang.tistory.com/entry/BaekJoon-9076%EB%B2%88-%EC%A0%90%EC%88%98-%EC%A7%91%EA%B3%84-Python) <br>
 [2021/12/6 - [포티투마루] CLASS42 캘리그라피 원데이클래스 후기! - 영문 캘리그라피 - Merry Christmas 카드 써보기! ( feat. 42마일스톤 2.0 )](https://somjang.tistory.com/entry/%ED%8F%AC%ED%8B%B0%ED%88%AC%EB%A7%88%EB%A3%A8-CLASS42-%EC%BA%98%EB%A6%AC%EA%B7%B8%EB%9D%BC%ED%94%BC-%EC%9B%90%EB%8D%B0%EC%9D%B4%ED%81%B4%EB%9E%98%EC%8A%A4-%ED%9B%84%EA%B8%B0-%EC%98%81%EB%AC%B8-%EC%BA%98%EB%A6%AC%EA%B7%B8%EB%9D%BC%ED%94%BC-Merry-Christmas-%EC%B9%B4%EB%93%9C-%EC%8D%A8%EB%B3%B4%EA%B8%B0-feat-42%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4-20) <br>
-[2021/12/6 - [BaekJoon] 1735번 : 분수 합 (Python)](https://somjang.tistory.com/entry/BaekJoon-1735%EB%B2%88-%EB%B6%84%EC%88%98-%ED%95%A9-Python) <br>
