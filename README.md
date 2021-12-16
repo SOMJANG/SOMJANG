@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2021/12/15 - [BaekJoon] 15740번 : A+B - 9 (Python)](https://somjang.tistory.com/entry/BaekJoon-15740%EB%B2%88-AB-9-Python) <br>
 [2021/12/14 - [BaekJoon] 11022번 : A+B - 8 (Python)](https://somjang.tistory.com/entry/BaekJoon-11022%EB%B2%88-AB-8-Python) <br>
 [2021/12/13 - [BaekJoon] 8393번 : 합 (Python)](https://somjang.tistory.com/entry/BaekJoon-8393%EB%B2%88-%ED%95%A9-Python) <br>
 [2021/12/12 - [Python] 파이썬과 텔레그램으로 스파이더맨 노웨이홈 예매 알리미 만드는 방법!](https://somjang.tistory.com/entry/Python-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%ED%85%94%EB%A0%88%EA%B7%B8%EB%9E%A8%EC%9C%BC%EB%A1%9C-%EC%8A%A4%ED%8C%8C%EC%9D%B4%EB%8D%94%EB%A7%A8-%EB%85%B8%EC%9B%A8%EC%9D%B4%ED%99%88-%EC%98%88%EB%A7%A4-%EC%95%8C%EB%A6%AC%EB%AF%B8-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95) <br>
@@ -18,4 +19,3 @@
 [2021/12/10 - [BaekJoon] 2442번 : 별 찍기 - 5 (Python)](https://somjang.tistory.com/entry/BaekJoon-2442%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-5-Python) <br>
 [2021/12/9 - [BaekJoon] 2441번 : 별 찍기 - 4 (Python)](https://somjang.tistory.com/entry/BaekJoon-2441%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-4-Python) <br>
 [2021/12/8 - [BaekJoon] 11021번 : A+B - 7 (Python)](https://somjang.tistory.com/entry/BaekJoon-11021%EB%B2%88-AB-7-Python) <br>
-[2021/12/7 - [BaekJoon] 9076번 : 점수 집계 (Python)](https://somjang.tistory.com/entry/BaekJoon-9076%EB%B2%88-%EC%A0%90%EC%88%98-%EC%A7%91%EA%B3%84-Python) <br>
