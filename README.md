@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2021/12/16 - [BaekJoon] 2443번 : 별 찍기 - 6 (Python)](https://somjang.tistory.com/entry/BaekJoon-2443%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-6-Python) <br>
 [2021/12/15 - [BaekJoon] 15740번 : A+B - 9 (Python)](https://somjang.tistory.com/entry/BaekJoon-15740%EB%B2%88-AB-9-Python) <br>
 [2021/12/14 - [BaekJoon] 11022번 : A+B - 8 (Python)](https://somjang.tistory.com/entry/BaekJoon-11022%EB%B2%88-AB-8-Python) <br>
 [2021/12/13 - [BaekJoon] 8393번 : 합 (Python)](https://somjang.tistory.com/entry/BaekJoon-8393%EB%B2%88-%ED%95%A9-Python) <br>
@@ -18,4 +19,3 @@
 [2021/12/11 - [BaekJoon] 2475번 : 검증수 (Python)](https://somjang.tistory.com/entry/BaekJoon-2475%EB%B2%88-%EA%B2%80%EC%A6%9D%EC%88%98-Python) <br>
 [2021/12/10 - [BaekJoon] 2442번 : 별 찍기 - 5 (Python)](https://somjang.tistory.com/entry/BaekJoon-2442%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-5-Python) <br>
 [2021/12/9 - [BaekJoon] 2441번 : 별 찍기 - 4 (Python)](https://somjang.tistory.com/entry/BaekJoon-2441%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-4-Python) <br>
-[2021/12/8 - [BaekJoon] 11021번 : A+B - 7 (Python)](https://somjang.tistory.com/entry/BaekJoon-11021%EB%B2%88-AB-7-Python) <br>
