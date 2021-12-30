@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2021/12/29 - [BaekJoon] 2523번 : 별 찍기 - 13 (Python)](https://somjang.tistory.com/entry/BaekJoon-2523%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-13-Python) <br>
 [2021/12/28 - [BaekJoon] 2522번 : 별 찍기 - 12 (Python)](https://somjang.tistory.com/entry/BaekJoon-2522%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-12-Python) <br>
 [2021/12/27 - [BaekJoon] 2407번 : 조합 (Python)](https://somjang.tistory.com/entry/BaekJoon-2407%EB%B2%88-%EC%A1%B0%ED%95%A9-Python) <br>
 [2021/12/25 - [BaekJoon] 10991번 : 별 찍기 - 16 (Python)](https://somjang.tistory.com/entry/BaekJoon-10991%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-16-Python) <br>
@@ -18,4 +19,3 @@
 [2021/12/24 - [BaekJoon] 20366번 : 같이 눈사람 만들래? (Python)](https://somjang.tistory.com/entry/BaekJoon-20366%EB%B2%88-%EA%B0%99%EC%9D%B4-%EB%88%88%EC%82%AC%EB%9E%8C-%EB%A7%8C%EB%93%A4%EB%9E%98-Python) <br>
 [2021/12/22 - [BaekJoon] 4101번 : 크냐? (Python)](https://somjang.tistory.com/entry/BaekJoon-4101-%ED%81%AC%EB%83%90-Python) <br>
 [2021/12/20 - [BaekJoon] 2446번 : 별 찍기 - 9 (Python)](https://somjang.tistory.com/entry/BaekJoon-2446%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-9-Python) <br>
-[2021/12/19 - 스파이더맨 노웨이홈 - 스포일러 가득한 솔직후기! - 2 - 기존 마블작품과의 연계점, 완벽한 리부트, 쿠키영상 개수, 쿠키영상 해석](https://somjang.tistory.com/entry/%EC%8A%A4%ED%8C%8C%EC%9D%B4%EB%8D%94%EB%A7%A8-%EB%85%B8%EC%9B%A8%EC%9D%B4%ED%99%88-%EC%8A%A4%ED%8F%AC%EC%9D%BC%EB%9F%AC-%EA%B0%80%EB%93%9D%ED%95%9C-%EC%86%94%EC%A7%81%ED%9B%84%EA%B8%B0-2-%EA%B8%B0%EC%A1%B4-%EB%A7%88%EB%B8%94%EC%9E%91%ED%92%88%EA%B3%BC%EC%9D%98-%EC%97%B0%EA%B3%84%EC%A0%90-%EC%99%84%EB%B2%BD%ED%95%9C-%EB%A6%AC%EB%B6%80%ED%8A%B8-%EC%BF%A0%ED%82%A4%EC%98%81%EC%83%81%EA%B0%9C%EC%88%98-%EC%BF%A0%ED%82%A4%EC%98%81%EC%83%81%ED%95%B4%EC%84%9D) <br>
