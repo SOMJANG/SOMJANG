@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/1/6 - [BaekJoon] 10988번 : 팰린드롬인지 확인하기 (Python)](https://somjang.tistory.com/entry/BaekJoon-10988%EB%B2%88-%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%9D%B8%EC%A7%80-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-Python) <br>
 [2022/1/4 - [BaekJoon] 5543번 : 상근날드 (Python)](https://somjang.tistory.com/entry/BaekJoon-5543%EB%B2%88-%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C-Python) <br>
 [2022/1/4 - [BaekJoon] 11866번 : 요세푸스 문제 0 (Python)](https://somjang.tistory.com/entry/BaekJoon-11866%EB%B2%88-%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4-%EB%AC%B8%EC%A0%9C-0-Python) <br>
 [2022/1/2 - [BaekJoon] 2566번 : 최댓값 (Python)](https://somjang.tistory.com/entry/BaekJoon-2566%EB%B2%88-%EC%B5%9C%EB%8C%93%EA%B0%92-Python) <br>
@@ -18,4 +19,3 @@
 [2021/12/30 - [BaekJoon] 10995번 : 별 찍기 - 20 (Python)](https://somjang.tistory.com/entry/BaekJoon-10995%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-20-Python-1) <br>
 [2021/12/30 - [BaekJoon] 10995번 : 별 찍기 - 20 (Python)](https://somjang.tistory.com/entry/BaekJoon-10995%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-20-Python) <br>
 [2021/12/30 - [Python] 여러 개의 엑셀파일 하나로 합치는 방법! ( feat. pandas )](https://somjang.tistory.com/entry/Python-%EC%97%AC%EB%9F%AC-%EA%B0%9C%EC%9D%98-%EC%97%91%EC%85%80%ED%8C%8C%EC%9D%BC-%ED%95%98%EB%82%98%EB%A1%9C-%ED%95%A9%EC%B9%98%EB%8A%94-%EB%B0%A9%EB%B2%95-feat-pandas) <br>
-[2021/12/30 - [Python] BeautifulSoup - FeatureNotFound: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library? 해결 방법](https://somjang.tistory.com/entry/Python-BeautifulSoup-FeatureNotFound-Couldnt-find-a-tree-builder-with-the-features-you-requested-lxml-Do-you-need-to-install-a-parser-library-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95) <br>
