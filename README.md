@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2022/1/7 - [BaekJoon] 3046번 : R2 (Python)](https://somjang.tistory.com/entry/BaekJoon-3046%EB%B2%88-R2-Python) <br>
+[2022/1/7 - [BaekJoon] 15873번 : 공백 없는 A+B (Python)](https://somjang.tistory.com/entry/BaekJoon-15873%EB%B2%88-%EA%B3%B5%EB%B0%B1-%EC%97%86%EB%8A%94-AB-Python) <br>
 [2022/1/6 - [BaekJoon] 10988번 : 팰린드롬인지 확인하기 (Python)](https://somjang.tistory.com/entry/BaekJoon-10988%EB%B2%88-%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%9D%B8%EC%A7%80-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-Python) <br>
 [2022/1/4 - [BaekJoon] 5543번 : 상근날드 (Python)](https://somjang.tistory.com/entry/BaekJoon-5543%EB%B2%88-%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C-Python) <br>
 [2022/1/4 - [BaekJoon] 11866번 : 요세푸스 문제 0 (Python)](https://somjang.tistory.com/entry/BaekJoon-11866%EB%B2%88-%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4-%EB%AC%B8%EC%A0%9C-0-Python) <br>
@@ -17,5 +19,3 @@
 [2021/12/31 - [Python] url 형식으로 한글을 인코딩 하는 방법! ( Percent-Encoding )](https://somjang.tistory.com/entry/Python-url-%ED%98%95%EC%8B%9D%EC%9C%BC%EB%A1%9C-%ED%95%9C%EA%B8%80%EC%9D%84-%EC%9D%B8%EC%BD%94%EB%94%A9-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-Percent-Encoding) <br>
 [2021/12/30 - [BaekJoon] 10992번 : 별 찍기 - 17 (Python)](https://somjang.tistory.com/entry/BaekJoon-10992%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-17-Python) <br>
 [2021/12/30 - [BaekJoon] 10995번 : 별 찍기 - 20 (Python)](https://somjang.tistory.com/entry/BaekJoon-10995%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-20-Python-1) <br>
-[2021/12/30 - [BaekJoon] 10995번 : 별 찍기 - 20 (Python)](https://somjang.tistory.com/entry/BaekJoon-10995%EB%B2%88-%EB%B3%84-%EC%B0%8D%EA%B8%B0-20-Python) <br>
-[2021/12/30 - [Python] 여러 개의 엑셀파일 하나로 합치는 방법! ( feat. pandas )](https://somjang.tistory.com/entry/Python-%EC%97%AC%EB%9F%AC-%EA%B0%9C%EC%9D%98-%EC%97%91%EC%85%80%ED%8C%8C%EC%9D%BC-%ED%95%98%EB%82%98%EB%A1%9C-%ED%95%A9%EC%B9%98%EB%8A%94-%EB%B0%A9%EB%B2%95-feat-pandas) <br>
