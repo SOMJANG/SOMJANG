@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2022/1/24 - [CU] 편스토랑 35회차 우승상품! - 어남선생 류수영의 사과치킨크림파스타 후기! - 가격, 조리방법, 맛!](https://somjang.tistory.com/entry/CU-%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91-35%ED%9A%8C%EC%B0%A8-%EC%9A%B0%EC%8A%B9%EC%83%81%ED%92%88-%EC%96%B4%EB%82%A8%EC%84%A0%EC%83%9D-%EB%A5%98%EC%88%98%EC%98%81%EC%9D%98-%EC%82%AC%EA%B3%BC%EC%B9%98%ED%82%A8%ED%81%AC%EB%A6%BC%ED%8C%8C%EC%8A%A4%ED%83%80-%ED%9B%84%EA%B8%B0-%EA%B0%80%EA%B2%A9-%EC%A1%B0%EB%A6%AC%EB%B0%A9%EB%B2%95-%EB%A7%9B) <br>
+[2022/1/24 - [leetCode] 1291. Sequential Digits (Python)](https://somjang.tistory.com/entry/leetCode-1291-Sequential-Digits-Python) <br>
 [2022/1/23 - [leetCode] 2129. Capitalize the Title (Python)](https://somjang.tistory.com/entry/leetCode-2129-Capitalize-the-Title-Python) <br>
 [2022/1/23 - [압구정로데오/청담 맛집] 승우아빠 레스토랑 - 키친 마이야르! - 예약방법, 주말 웨이팅 꿀팁, 위치, 주차, 영업시간, 메뉴, 가격](https://somjang.tistory.com/entry/%EC%95%95%EA%B5%AC%EC%A0%95%EB%A1%9C%EB%8D%B0%EC%98%A4%EC%B2%AD%EB%8B%B4-%EB%A7%9B%EC%A7%91-%EC%8A%B9%EC%9A%B0%EC%95%84%EB%B9%A0-%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91-%ED%82%A4%EC%B9%9C-%EB%A7%88%EC%9D%B4%EC%95%BC%EB%A5%B4-%EC%98%88%EC%95%BD%EB%B0%A9%EB%B2%95-%EC%A3%BC%EB%A7%90-%EC%9B%A8%EC%9D%B4%ED%8C%85-%EA%BF%80%ED%8C%81-%EC%9C%84%EC%B9%98-%EC%A3%BC%EC%B0%A8-%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9) <br>
 [2022/1/22 - [leetCode] 2114. Maximum Number of Words Found in Sentences (Python)](https://somjang.tistory.com/entry/leetCode-2114-Maximum-Number-of-Words-Found-in-Sentences-Python) <br>
@@ -17,5 +19,3 @@
 [2022/1/21 - [BaekJoon] 4378번 : 트ㅏㅊ; (Python)](https://somjang.tistory.com/entry/BaekJoon-4378%EB%B2%88-%ED%8A%B8%E3%85%8F%E3%85%8A-Python) <br>
 [2022/1/21 - 화이자 2차 접종 3개월 이후 부스터샷 화이자 3차접종 후기! - 청화병원](https://somjang.tistory.com/entry/%ED%99%94%EC%9D%B4%EC%9E%90-2%EC%B0%A8-%EC%A0%91%EC%A2%85-3%EA%B0%9C%EC%9B%94-%EC%9D%B4%ED%9B%84-%EB%B6%80%EC%8A%A4%ED%84%B0%EC%83%B7-%ED%99%94%EC%9D%B4%EC%9E%90-3%EC%B0%A8%EC%A0%91%EC%A2%85-%ED%9B%84%EA%B8%B0-%EC%B2%AD%ED%99%94%EB%B3%91%EC%9B%90) <br>
 [2022/1/21 - [BaekJoon] 1037번 : 약수 (Python)](https://somjang.tistory.com/entry/BaekJoon-1037%EB%B2%88-%EC%95%BD%EC%88%98-Python) <br>
-[2022/1/20 - [Docker] ubuntu:16.04 에서 deadsnakes PPA를 통한 Python 설치 지원 종료 및 해결 방법](https://somjang.tistory.com/entry/Docker-ubuntu1604-%EC%97%90%EC%84%9C-deadsnakes-PPA%EB%A5%BC-%ED%86%B5%ED%95%9C-Python-%EC%84%A4%EC%B9%98-%EC%A7%80%EC%9B%90-%EC%A2%85%EB%A3%8C-%EB%B0%8F-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95) <br>
-[2022/1/19 - [BaekJoon] 2985번 : 세 수 (Python)](https://somjang.tistory.com/entry/BaekJoon-2985%EB%B2%88-%EC%84%B8-%EC%88%98-Python) <br>
