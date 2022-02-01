@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2022/1/31 - [leetCode] 2057. Smallest Index With Equal Value (Python](https://somjang.tistory.com/entry/leetCode-2057-Smallest-Index-With-Equal-Value-Python) <br>
+[2022/1/31 - 소니 WH-1000XM4 시리얼 번호(제조번호S/N) 위치와 정품등록 하는 방법](https://somjang.tistory.com/entry/%EC%86%8C%EB%8B%88-WH-1000XM4-%EC%8B%9C%EB%A6%AC%EC%96%BC-%EB%B2%88%ED%98%B8%EC%A0%9C%EC%A1%B0%EB%B2%88%ED%98%B8SN-%EC%9C%84%EC%B9%98%EC%99%80-%EC%A0%95%ED%92%88%EB%93%B1%EB%A1%9D-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) <br>
 [2022/1/30 - [leetCode] 1961. Check If String Is a Prefix of Array (Python)](https://somjang.tistory.com/entry/leetCode-1961-Check-If-String-Is-a-Prefix-of-Array-Python) <br>
 [2022/1/30 - 티스토리 블로그 무단 도용 게시글 신고하는 방법 ( feat. 다음 고객센터 )](https://somjang.tistory.com/entry/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%AC%B4%EB%8B%A8-%EB%8F%84%EC%9A%A9-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%8B%A0%EA%B3%A0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-feat-%EB%8B%A4%EC%9D%8C-%EA%B3%A0%EA%B0%9D%EC%84%BC%ED%84%B0) <br>
 [2022/1/29 - [BaekJoon] 13706번 : 제곱근 (Python)](https://somjang.tistory.com/entry/BaekJoon-13706%EB%B2%88-%EC%A0%9C%EA%B3%B1%EA%B7%BC-Python) <br>
@@ -17,5 +19,3 @@
 [2022/1/28 - [BaekJoon] 2163번 : 초콜릿 자르기 (Python)](https://somjang.tistory.com/entry/BaekJoon-2163%EB%B2%88-%EC%B4%88%EC%BD%9C%EB%A6%BF-%EC%9E%90%EB%A5%B4%EA%B8%B0-Python) <br>
 [2022/1/28 - 티스토리 블로그 코드 블럭 테마를 변경하는 방법! - 쉬운 티스토리 플러그인 활용 방식](https://somjang.tistory.com/entry/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%BD%94%EB%93%9C-%EB%B8%94%EB%9F%AD-%ED%85%8C%EB%A7%88%EB%A5%BC-%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%89%AC%EC%9A%B4-%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EC%8B%9D) <br>
 [2022/1/28 - [Docker] docker commit 명령어 사용하는 방법!](https://somjang.tistory.com/entry/Docker-docker-commit-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) <br>
-[2022/1/28 - macOS 12.3 Beta 와 iPad OS 15.4 Beta에서 Universal Control 기능 지원! - Beta Profile 설치방법, 베타버전 OS 설치 방법](https://somjang.tistory.com/entry/macOS-123-Beta-%EC%99%80-iPad-OS-154-Beta%EC%97%90%EC%84%9C-Universal-Control-%EA%B8%B0%EB%8A%A5-%EC%A7%80%EC%9B%90) <br>
-[2022/1/27 - [leetCode] 2000. Reverse Prefix of Word (Python)](https://somjang.tistory.com/entry/leetCode-2000-Reverse-Prefix-of-Word-Python) <br>
