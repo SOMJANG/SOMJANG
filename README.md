@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/2/5 - [leetCode] 1748. Sum of Unique Elements (Python)](https://somjang.tistory.com/entry/leetCode-1748-Sum-of-Unique-Elements-Python) <br>
 [2022/2/4 - [leetCode] 1880. Check if Word Equals Summation of Two Words (Python)](https://somjang.tistory.com/entry/leetCode-1880-Check-if-Word-Equals-Summation-of-Two-Words-Python) <br>
 [2022/2/2 - [leetCode] 1859. Sorting the Sentence (Python)](https://somjang.tistory.com/entry/leetCode-1859-Sorting-the-Sentence-Python) <br>
 [2022/2/2 - 네이버 도용 게시물 게시중단 요청 하는 방법 ( feat. 네이버 게시중단 요청 서비스 )](https://somjang.tistory.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%8F%84%EC%9A%A9-%EA%B2%8C%EC%8B%9C%EB%AC%BC-%EA%B2%8C%EC%8B%9C%EC%A4%91%EB%8B%A8-%EC%9A%94%EC%B2%AD-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-feat-%EB%84%A4%EC%9D%B4%EB%B2%84-%EA%B2%8C%EC%8B%9C%EC%A4%91%EB%8B%A8-%EC%9A%94%EC%B2%AD-%EC%84%9C%EB%B9%84%EC%8A%A4) <br>
@@ -18,4 +19,3 @@
 [2022/1/30 - [leetCode] 1961. Check If String Is a Prefix of Array (Python)](https://somjang.tistory.com/entry/leetCode-1961-Check-If-String-Is-a-Prefix-of-Array-Python) <br>
 [2022/1/30 - 티스토리 블로그 무단 도용 게시글 신고하는 방법 ( feat. 다음 고객센터 )](https://somjang.tistory.com/entry/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%AC%B4%EB%8B%A8-%EB%8F%84%EC%9A%A9-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%8B%A0%EA%B3%A0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-feat-%EB%8B%A4%EC%9D%8C-%EA%B3%A0%EA%B0%9D%EC%84%BC%ED%84%B0) <br>
 [2022/1/29 - [BaekJoon] 13706번 : 제곱근 (Python)](https://somjang.tistory.com/entry/BaekJoon-13706%EB%B2%88-%EC%A0%9C%EA%B3%B1%EA%B7%BC-Python) <br>
-[2022/1/29 - [논현역 맛집] 논현역 직장인 점심 추천 - 원강 - 맑은 국물의 나주곰탕이 정말 맛있는 곳! - 위치, 영업시간, 메뉴, 가격](https://somjang.tistory.com/entry/%EB%85%BC%ED%98%84%EC%97%AD-%EB%A7%9B%EC%A7%91-%EB%85%BC%ED%98%84%EC%97%AD-%EC%A7%81%EC%9E%A5%EC%9D%B8-%EC%A0%90%EC%8B%AC-%EC%B6%94%EC%B2%9C-%EC%9B%90%EA%B0%95-%EB%A7%91%EC%9D%80-%EA%B5%AD%EB%AC%BC%EC%9D%98-%EB%82%98%EC%A3%BC%EA%B3%B0%ED%83%95%EC%9D%B4-%EC%A0%95%EB%A7%90-%EB%A7%9B%EC%9E%88%EB%8A%94-%EA%B3%B3-%EC%9C%84%EC%B9%98-%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9) <br>
