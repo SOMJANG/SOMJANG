@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/2/9 - [BaekJoon] 2490번 : 윷놀이 (Python)](https://somjang.tistory.com/entry/BaekJoon-2490%EB%B2%88-%EC%9C%B7%EB%86%80%EC%9D%B4-Python) <br>
 [2022/2/8 - [BaekJoon] 5338번 : 마이크로소프트 로고 (Python)](https://somjang.tistory.com/entry/BaekJoon-5338%EB%B2%88-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-%EB%A1%9C%EA%B3%A0-Python) <br>
 [2022/2/8 - [국회의사당역/여의도 맛집] 진진 국회점 - 생각보다 자극적인 맛의 이북식 만두가 있는 곳 - 위치, 주차, 영업시간, 메뉴, 가격 ( 진진만두국 국회점 )](https://somjang.tistory.com/entry/%EA%B5%AD%ED%9A%8C%EC%9D%98%EC%82%AC%EB%8B%B9%EC%97%AD%EC%97%AC%EC%9D%98%EB%8F%84-%EB%A7%9B%EC%A7%91-%EC%A7%84%EC%A7%84-%EA%B5%AD%ED%9A%8C%EC%A0%90-%EC%83%9D%EA%B0%81%EB%B3%B4%EB%8B%A4-%EC%9E%90%EA%B7%B9%EC%A0%81%EC%9D%B8-%EB%A7%9B%EC%9D%98-%EC%9D%B4%EB%B6%81%EC%8B%9D-%EB%A7%8C%EB%91%90%EA%B0%80-%EC%9E%88%EB%8A%94-%EA%B3%B3-%EC%9C%84%EC%B9%98-%EC%A3%BC%EC%B0%A8-%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9-%EC%A7%84%EC%A7%84%EB%A7%8C%EB%91%90%EA%B5%AD-%EA%B5%AD%ED%9A%8C%EC%A0%90) <br>
 [2022/2/8 - [BaekJoon] 10926번 : ??! (Python)](https://somjang.tistory.com/entry/BaekJoon-10926%EB%B2%88-Python) <br>
@@ -18,4 +19,3 @@
 [2022/2/6 - [leetCode] 1844. Replace All Digits with Characters (Python)](https://somjang.tistory.com/entry/leetCode-1844-Replace-All-Digits-with-Characters-Python) <br>
 [2022/2/5 - [leetCode] 1748. Sum of Unique Elements (Python)](https://somjang.tistory.com/entry/leetCode-1748-Sum-of-Unique-Elements-Python) <br>
 [2022/2/4 - [leetCode] 1880. Check if Word Equals Summation of Two Words (Python)](https://somjang.tistory.com/entry/leetCode-1880-Check-if-Word-Equals-Summation-of-Two-Words-Python) <br>
-[2022/2/2 - [leetCode] 1859. Sorting the Sentence (Python)](https://somjang.tistory.com/entry/leetCode-1859-Sorting-the-Sentence-Python) <br>
