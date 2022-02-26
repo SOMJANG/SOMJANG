@@ -8,6 +8,9 @@
 
 🤩 Latest Blog Post
 
+[2022/2/26 - [BaekJoon] 10699번 : 오늘 날짜 (Python)](https://somjang.tistory.com/entry/BaekJoon-10699%EB%B2%88-%EC%98%A4%EB%8A%98-%EB%82%A0%EC%A7%9C-Python) <br>
+[2022/2/25 - [BaekJoon] 11718번 : 그대로 출력하기 (Python)](https://somjang.tistory.com/entry/BaekJoon-11718%EB%B2%88-%EA%B7%B8%EB%8C%80%EB%A1%9C-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0-Python) <br>
+[2022/2/25 - [BaekJoon] 11931번 : 수 정렬하기 4 (Python)](https://somjang.tistory.com/entry/BaekJoon-11931%EB%B2%88-%EC%88%98-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0-4-Python) <br>
 [2022/2/22 - [Programmers] 최솟값 만들기 (Python)](https://somjang.tistory.com/entry/Programmers-%EC%B5%9C%EC%86%9F%EA%B0%92-%EB%A7%8C%EB%93%A4%EA%B8%B0-Python) <br>
 [2022/2/22 - [Programmers] 탐욕법(Greedy) - 큰 수 만들기 (Python)](https://somjang.tistory.com/entry/Programmers-%ED%83%90%EC%9A%95%EB%B2%95Greedy-%ED%81%B0-%EC%88%98-%EB%A7%8C%EB%93%A4%EA%B8%B0-Python) <br>
 [2022/2/20 - [Programmers] 2019 KAKAO BLIND RECRUITMENT - 오픈채팅방 (Python)](https://somjang.tistory.com/entry/Programmers-2019-KAKAO-BLIND-RECRUITMENT-%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9-Python) <br>
@@ -16,6 +19,3 @@
 [2022/2/18 - [Programmers] 월간 코드 챌린지 시즌3 - n^2 배열 자르기 (Python)](https://somjang.tistory.com/entry/Programmers-%EC%9B%94%EA%B0%84-%EC%BD%94%EB%93%9C-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%8B%9C%EC%A6%8C3-n2-%EB%B0%B0%EC%97%B4-%EC%9E%90%EB%A5%B4%EA%B8%B0-Python) <br>
 [2022/2/16 - [Programmers] 2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임 (Python)](https://somjang.tistory.com/entry/Programmers-2018-KAKAO-BLIND-RECRUITMENT-1%EC%B0%A8-%EB%8B%A4%ED%8A%B8-%EA%B2%8C%EC%9E%84-Python) <br>
 [2022/2/16 - [Programmers] 찾아라 프로그래밍 마에스터 - 폰켓몬 (Python)](https://somjang.tistory.com/entry/Programmers-%EC%B0%BE%EC%95%84%EB%9D%BC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%A7%88%EC%97%90%EC%8A%A4%ED%84%B0-%ED%8F%B0%EC%BC%93%EB%AA%AC-Python) <br>
-[2022/2/15 - [Programmers] 탐욕법(Greedy) - 체육복 (Python)](https://somjang.tistory.com/entry/Programmers-%ED%83%90%EC%9A%95%EB%B2%95Greedy-%EC%B2%B4%EC%9C%A1%EB%B3%B5-Python) <br>
-[2022/2/14 - [Programmers] 2019 카카오 개발자 겨울 인턴십 - 크레인 인형뽑기 게임 (Python)](https://somjang.tistory.com/entry/Programmers-2019-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B2%A8%EC%9A%B8-%EC%9D%B8%ED%84%B4%EC%8B%AD-%ED%81%AC%EB%A0%88%EC%9D%B8-%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0-%EA%B2%8C%EC%9E%84-Python) <br>
-[2022/2/13 - [홍대/경의선 철길 맛집] 노사이드 - 히로시마풍 오꼬노미야끼가 있는 곳! - 오감을 자극하는 곳! - 위치, 메뉴 및 가격, 영업시간](https://somjang.tistory.com/entry/%ED%99%8D%EB%8C%80%EA%B2%BD%EC%9D%98%EC%84%A0-%EC%B2%A0%EA%B8%B8-%EB%A7%9B%EC%A7%91-%EB%85%B8%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%9E%88%EB%A1%9C%EC%8B%9C%EB%A7%88%ED%92%8D-%EC%98%A4%EA%BC%AC%EB%85%B8%EB%AF%B8%EC%95%BC%EB%81%BC%EA%B0%80-%EC%9E%88%EB%8A%94-%EA%B3%B3-%EC%98%A4%EA%B0%90%EC%9D%84-%EC%9E%90%EA%B7%B9%ED%95%98%EB%8A%94-%EA%B3%B3-%EC%9C%84%EC%B9%98-%EB%A9%94%EB%89%B4-%EB%B0%8F-%EA%B0%80%EA%B2%A9-%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84) <br>
