@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2022/3/4 - HOME, END 키 없는 키보드로 터미널에서 HOME, END 대신 같은 기능을 하는 단축키](https://somjang.tistory.com/entry/HOME-END-%ED%82%A4-%EC%97%86%EB%8A%94-%ED%82%A4%EB%B3%B4%EB%93%9C%EB%A1%9C-%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-HOME-END-%EB%8C%80%EC%8B%A0-%EC%9E%85%EB%A0%A5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) <br>
+[2022/3/4 - [BaekJoon] 2338번 : 긴자리 계산 (Python)](https://somjang.tistory.com/entry/BaekJoon-2338%EB%B2%88-%EA%B8%B4%EC%9E%90%EB%A6%AC-%EA%B3%84%EC%82%B0-Python) <br>
 [2022/3/2 - [BaekJoon] 2231번 : 분해합 (Python)](https://somjang.tistory.com/entry/BaekJoon-2231%EB%B2%88-%EB%B6%84%ED%95%B4%ED%95%A9-Python) <br>
 [2022/3/2 - [BaekJoon] 1431번 : 시리얼 번호 (Python)](https://somjang.tistory.com/entry/BaekJoon-1431%EB%B2%88-%EC%8B%9C%EB%A6%AC%EC%96%BC-%EB%B2%88%ED%98%B8-Python) <br>
 [2022/3/1 - 영화 더 배트맨 - 스포있는 솔직후기 - 2년차 배트맨 / 리들러 / 알프레드 / 쿠키영상 개수](https://somjang.tistory.com/entry/%EC%98%81%ED%99%94-%EB%8D%94-%EB%B0%B0%ED%8A%B8%EB%A7%A8-%EC%8A%A4%ED%8F%AC%EC%9E%88%EB%8A%94-%EC%86%94%EC%A7%81%ED%9B%84%EA%B8%B0-2%EB%85%84%EC%B0%A8-%EB%B0%B0%ED%8A%B8%EB%A7%A8-%EB%A6%AC%EB%93%A4%EB%9F%AC-%EC%BF%A0%ED%82%A4%EC%98%81%EC%83%81-%EA%B0%9C%EC%88%98) <br>
@@ -17,5 +19,3 @@
 [2022/3/1 - [Programmers] 탐욕법(Greedy) - 단속카메라 (Python)](https://somjang.tistory.com/entry/Programmers-%ED%83%90%EC%9A%95%EB%B2%95Greedy-%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC-Python) <br>
 [2022/2/28 - [BaekJoon] 2525번 : 오븐 시계 (Python)](https://somjang.tistory.com/entry/BaekJoon-2525%EB%B2%88-%EC%98%A4%EB%B8%90-%EC%8B%9C%EA%B3%84-Python) <br>
 [2022/2/26 - [BaekJoon] 4673번 : 셀프 넘버 (Python)](https://somjang.tistory.com/entry/BaekJoon-4673%EB%B2%88-%EC%85%80%ED%94%84-%EB%84%98%EB%B2%84-Python) <br>
-[2022/2/26 - [BaekJoon] 10699번 : 오늘 날짜 (Python)](https://somjang.tistory.com/entry/BaekJoon-10699%EB%B2%88-%EC%98%A4%EB%8A%98-%EB%82%A0%EC%A7%9C-Python) <br>
-[2022/2/25 - [BaekJoon] 11718번 : 그대로 출력하기 (Python)](https://somjang.tistory.com/entry/BaekJoon-11718%EB%B2%88-%EA%B7%B8%EB%8C%80%EB%A1%9C-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0-Python) <br>
