@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/3/9 - [BaekJoon] 1620번 : 나는야 포켓몬 마스터 이다솜 (Python)](https://somjang.tistory.com/entry/BaekJoon-1620%EB%B2%88-%EB%82%98%EB%8A%94%EC%95%BC-%ED%8F%AC%EC%BC%93%EB%AA%AC-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%9D%B4%EB%8B%A4%EC%86%9C-Python) <br>
 [2022/3/7 - [BaekJoon] 1312번 : 소수 (Python)](https://somjang.tistory.com/entry/BaekJoon-1312%EB%B2%88-%EC%86%8C%EC%88%98-Python) <br>
 [2022/3/7 - [BaekJoon] 9653번 : 스타워즈 로고 (Python)](https://somjang.tistory.com/entry/BaekJoon-9653%EB%B2%88-%EC%8A%A4%ED%83%80%EC%9B%8C%EC%A6%88-%EB%A1%9C%EA%B3%A0-Python) <br>
 [2022/3/6 - [CU] 편스토랑 37회차 우승상품! - 이영자의 트러플비빔쫄면 후기! - 가격, 구성품, 조리방법, 맛!](https://somjang.tistory.com/entry/CU-%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91-37%ED%9A%8C%EC%B0%A8-%EC%9A%B0%EC%8A%B9%EC%83%81%ED%92%88-%EC%9D%B4%EC%98%81%EC%9E%90%EC%9D%98-%ED%8A%B8%EB%9F%AC%ED%94%8C%EB%B9%84%EB%B9%94%EC%AB%84%EB%A9%B4-%ED%9B%84%EA%B8%B0-%EA%B0%80%EA%B2%A9-%EA%B5%AC%EC%84%B1%ED%92%88-%EC%A1%B0%EB%A6%AC%EB%B0%A9%EB%B2%95-%EB%A7%9B) <br>
@@ -18,4 +19,3 @@
 [2022/3/6 - [BaekJoon] 5622번 : 다이얼 (Python)](https://somjang.tistory.com/entry/BaekJoon-5622%EB%B2%88-%EB%8B%A4%EC%9D%B4%EC%96%BC-Python) <br>
 [2022/3/5 - vi 편집화면에서 문자열로 검색하는 방법!](https://somjang.tistory.com/entry/vi-%ED%8E%B8%EC%A7%91%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C-%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C-%EA%B2%80%EC%83%89%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) <br>
 [2022/3/5 - 터미널에서 내가 입력했던 명령어 검색하는 방법! ( reverse-i-search )](https://somjang.tistory.com/entry/%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-%EB%82%B4%EA%B0%80-%EC%9E%85%EB%A0%A5%ED%96%88%EB%8D%98-%EB%AA%85%EB%A0%B9%EC%96%B4-%EA%B2%80%EC%83%89%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-reverse-i-search) <br>
-[2022/3/5 - [Ubuntu] netplan 으로 고정 IP 설정하는 방법! (Ubuntu 17.10 버전 이상부터)](https://somjang.tistory.com/entry/Ubuntu-netplan-%EC%9C%BC%EB%A1%9C-%EA%B3%A0%EC%A0%95-IP-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-Ubuntu-1710-%EB%B2%84%EC%A0%84-%EC%9D%B4%EC%83%81%EB%B6%80%ED%84%B0) <br>
