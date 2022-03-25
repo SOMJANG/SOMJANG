@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/3/24 - [BaekJoon] 15894번 : 수학은 체육과목 입니다 (Python)](https://somjang.tistory.com/entry/BaekJoon-15894%EB%B2%88-%EC%88%98%ED%95%99%EC%9D%80-%EC%B2%B4%EC%9C%A1%EA%B3%BC%EB%AA%A9-%EC%9E%85%EB%8B%88%EB%8B%A4-Python) <br>
 [2022/3/22 - [BaekJoon] 15727번 : 조별과제를 하려는데 조장이 사라졌다 (Python)](https://somjang.tistory.com/entry/BaekJoon-15727%EB%B2%88-%EC%A1%B0%EB%B3%84%EA%B3%BC%EC%A0%9C%EB%A5%BC-%ED%95%98%EB%A0%A4%EB%8A%94%EB%8D%B0-%EC%A1%B0%EC%9E%A5%EC%9D%B4-%EC%82%AC%EB%9D%BC%EC%A1%8C%EB%8B%A4-Python) <br>
 [2022/3/22 - [BaekJoon] 11382번 : 꼬마 정민 (Python)](https://somjang.tistory.com/entry/BaekJoon-11382%EB%B2%88-%EA%BC%AC%EB%A7%88-%EC%A0%95%EB%AF%BC-Python) <br>
 [2022/3/21 - [BaekJoon] 16428번 : A/B - 3 (Python)](https://somjang.tistory.com/entry/BaekJoon-16428%EB%B2%88-AB-3-Python) <br>
@@ -18,4 +19,3 @@
 [2022/3/19 - [BaekJoon] 5532번 : 방학 숙제 (Python)](https://somjang.tistory.com/entry/BaekJoon-5532%EB%B2%88-%EB%B0%A9%ED%95%99-%EC%88%99%EC%A0%9C-Python) <br>
 [2022/3/18 - [BaekJoon] 11942번 : 고려대는 사랑입니다 (Python)](https://somjang.tistory.com/entry/BaekJoon-11942%EB%B2%88-%EA%B3%A0%EB%A0%A4%EB%8C%80%EB%8A%94-%EC%82%AC%EB%9E%91%EC%9E%85%EB%8B%88%EB%8B%A4-Python) <br>
 [2022/3/16 - [BaekJoon] 14928번 : 큰 수 (BIG) (Python)](https://somjang.tistory.com/entry/BaekJoon-14928%EB%B2%88-%ED%81%B0-%EC%88%98-BIG-Python) <br>
-[2022/3/13 - [BaekJoon] 13277번 : 큰 수 곱셈 (Python)](https://somjang.tistory.com/entry/BaekJoon-13277%EB%B2%88-%ED%81%B0-%EC%88%98-%EA%B3%B1%EC%85%88-Python) <br>
