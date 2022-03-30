@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/3/29 - [BaekJoon] 5575번 : 타임카드 (Python)](https://somjang.tistory.com/entry/BaekJoon-5575%EB%B2%88-%ED%83%80%EC%9E%84%EC%B9%B4%EB%93%9C-Python) <br>
 [2022/3/28 - [BaekJoon] 5337번 : 웰컴 (Python)](https://somjang.tistory.com/entry/BaekJoon-5337%EB%B2%88-%EC%9B%B0%EC%BB%B4-Python) <br>
 [2022/3/28 - [BaekJoon] 5554번 : 심부름 가는 길 (Python)](https://somjang.tistory.com/entry/BaekJoon-5554%EB%B2%88-%EC%8B%AC%EB%B6%80%EB%A6%84-%EA%B0%80%EB%8A%94-%EA%B8%B8-Python) <br>
 [2022/3/27 - [Python] pyodbc를 활용하여 Tibero 연결 시 발생하는 TBR-15146: PSM compilation error 해결 방법](https://somjang.tistory.com/entry/Python-pyodbc%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-Tibero-%EC%97%B0%EA%B2%B0-%EC%8B%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-TBR-15146-PSM-compilation-error-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95) <br>
@@ -18,4 +19,3 @@
 [2022/3/26 - [BaekJoon] 1271번 : 엄청난 부자2 (Python)](https://somjang.tistory.com/entry/BaekJoon-1271%EB%B2%88-%EC%97%84%EC%B2%AD%EB%82%9C-%EB%B6%80%EC%9E%902-Python) <br>
 [2022/3/25 - [BaekJoon] 5339번 : 콜센터 (Python)](https://somjang.tistory.com/entry/BaekJoon-5339%EB%B2%88-%EC%BD%9C%EC%84%BC%ED%84%B0-Python) <br>
 [2022/3/24 - [BaekJoon] 15894번 : 수학은 체육과목 입니다 (Python)](https://somjang.tistory.com/entry/BaekJoon-15894%EB%B2%88-%EC%88%98%ED%95%99%EC%9D%80-%EC%B2%B4%EC%9C%A1%EA%B3%BC%EB%AA%A9-%EC%9E%85%EB%8B%88%EB%8B%A4-Python) <br>
-[2022/3/22 - [BaekJoon] 15727번 : 조별과제를 하려는데 조장이 사라졌다 (Python)](https://somjang.tistory.com/entry/BaekJoon-15727%EB%B2%88-%EC%A1%B0%EB%B3%84%EA%B3%BC%EC%A0%9C%EB%A5%BC-%ED%95%98%EB%A0%A4%EB%8A%94%EB%8D%B0-%EC%A1%B0%EC%9E%A5%EC%9D%B4-%EC%82%AC%EB%9D%BC%EC%A1%8C%EB%8B%A4-Python) <br>
