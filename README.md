@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/4/14 - [BaekJoon] 2702번 : 초6 수학 (Python)](https://somjang.tistory.com/entry/BaekJoon-2702%EB%B2%88-%EC%B4%886-%EC%88%98%ED%95%99-Python) <br>
 [2022/4/11 - [BaekJoon] 5522번 : 카드 게임 (Python)](https://somjang.tistory.com/entry/BaekJoon-5522%EB%B2%88-%EC%B9%B4%EB%93%9C-%EA%B2%8C%EC%9E%84-Python) <br>
 [2022/4/10 - [BaekJoon] 10101번 : 삼각형 외우기 (Python)](https://somjang.tistory.com/entry/BaekJoon-10101%EB%B2%88-%EC%82%BC%EA%B0%81%ED%98%95-%EC%99%B8%EC%9A%B0%EA%B8%B0-Python) <br>
 [2022/4/10 - [Oracle] TO_DATE 사용 중 ORA-01810 - format code appears twice 발생 시 해결 방법](https://somjang.tistory.com/entry/Oracle-TODATE-%EC%82%AC%EC%9A%A9-%EC%A4%91-ORA-01810-format-code-appears-twice-%EB%B0%9C%EC%83%9D-%EC%8B%9C-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95) <br>
@@ -18,4 +19,3 @@
 [2022/4/9 - [BaekJoon] 10707번 : 수도요금 (Python)](https://somjang.tistory.com/entry/BaekJoon-10707%EB%B2%88-%EC%88%98%EB%8F%84%EC%9A%94%EA%B8%88-Python) <br>
 [2022/4/7 - [BaekJoon] 20429번 : 세금 (Python)](https://somjang.tistory.com/entry/BaekJoon-20429%EB%B2%88-%EC%84%B8%EA%B8%88-Python) <br>
 [2022/4/6 - [BaekJoon] 16430번 : 제리와 톰 (Python)](https://somjang.tistory.com/entry/BaekJoon-16430%EB%B2%88-%EC%A0%9C%EB%A6%AC%EC%99%80-%ED%86%B0-Python) <br>
-[2022/4/6 - [BaekJoon] 17496번 : 스타후르츠 (Python)](https://somjang.tistory.com/entry/BaekJoon-17496%EB%B2%88-%EC%8A%A4%ED%83%80%ED%9B%84%EB%A5%B4%EC%B8%A0-Python) <br>
