@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/4/17 - [BaekJoon] 2948번 : 2009년 (Python)](https://somjang.tistory.com/entry/BaekJoon-2948%EB%B2%88-2009%EB%85%84-Python) <br>
 [2022/4/16 - [BaekJoon] 1408번 : 24 (Python)](https://somjang.tistory.com/entry/BaekJoon-1408%EB%B2%88-24-Python) <br>
 [2022/4/15 - [BaekJoon] 4299번 : AFC 윔블던 (Python)](https://somjang.tistory.com/entry/BaekJoon-4299%EB%B2%88-AFC-%EC%9C%94%EB%B8%94%EB%8D%98-Python) <br>
 [2022/4/14 - [BaekJoon] 2702번 : 초6 수학 (Python)](https://somjang.tistory.com/entry/BaekJoon-2702%EB%B2%88-%EC%B4%886-%EC%88%98%ED%95%99-Python) <br>
@@ -18,4 +19,3 @@
 [2022/4/9 - [Python] PyMuPDF를 활용하여 PDF를 image로 변환하는 방법!](https://somjang.tistory.com/entry/Python-PyMuPDF%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-PDF%EB%A5%BC-image%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) <br>
 [2022/4/9 - [Ubuntu] 현재 접속해있는 사용자 확인 및 접속 해제 시키는 방법!](https://somjang.tistory.com/entry/Ubuntu-%ED%98%84%EC%9E%AC-%EC%A0%91%EC%86%8D%ED%95%B4%EC%9E%88%EB%8A%94-%EC%82%AC%EC%9A%A9%EC%9E%90-%ED%99%95%EC%9D%B8-%EB%B0%8F-%EC%A0%91%EC%86%8D-%ED%95%B4%EC%A0%9C-%EC%8B%9C%ED%82%A4%EB%8A%94-%EB%B0%A9%EB%B2%95) <br>
 [2022/4/9 - [Ubuntu] cli환경에서 USB 연결해서 사용하는 방법! ( feat. FAT32 )](https://somjang.tistory.com/entry/Ubuntu-cli%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-USB-%EC%97%B0%EA%B2%B0%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-feat-FAT32) <br>
-[2022/4/9 - [BaekJoon] 10707번 : 수도요금 (Python)](https://somjang.tistory.com/entry/BaekJoon-10707%EB%B2%88-%EC%88%98%EB%8F%84%EC%9A%94%EA%B8%88-Python) <br>
