@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/5/11 - [BaekJoon] 14645번 : 와이버스 부릉부릉 (Python)](https://somjang.tistory.com/entry/BaekJoon-14645%EB%B2%88-%EC%99%80%EC%9D%B4%EB%B2%84%EC%8A%A4-%EB%B6%80%EB%A6%89%EB%B6%80%EB%A6%89-Python) <br>
 [2022/5/10 - [BaekJoon] 8370번 : Plane (Python)](https://somjang.tistory.com/entry/BaekJoon-8370%EB%B2%88-Plane-Python) <br>
 [2022/5/9 - [BaekJoon] 6749번 : Next in line (Python)](https://somjang.tistory.com/entry/BaekJoon-6749%EB%B2%88-Next-in-line-Python) <br>
 [2022/5/8 - [BaekJoon] 5523번 : 경기 결과 (Python)](https://somjang.tistory.com/entry/BaekJoon-5523%EB%B2%88-%EA%B2%BD%EA%B8%B0-%EA%B2%B0%EA%B3%BC-Python) <br>
@@ -18,4 +19,3 @@
 [2022/5/7 - [BaekJoon] 1235번 : 학생 번호 (Python)](https://somjang.tistory.com/entry/BaekJoon-1235%EB%B2%88-%ED%95%99%EC%83%9D-%EB%B2%88%ED%98%B8-Python) <br>
 [2022/5/6 - 닥터스트레인지: 대혼돈의 멀티버스 스포 없는 솔직 후기! - 쿠키영상 개수, 이전 마블영화 봐야하는지?, 영화를 보러 가기 전 알고가면 좋은 것, IMAX, 4DX, 기념품](https://somjang.tistory.com/entry/%EB%8B%A5%ED%84%B0%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B8%EC%A7%80-%EB%8C%80%ED%98%BC%EB%8F%88%EC%9D%98-%EB%A9%80%ED%8B%B0%EB%B2%84%EC%8A%A4-%EC%8A%A4%ED%8F%AC-%EC%97%86%EB%8A%94-%EC%86%94%EC%A7%81-%ED%9B%84%EA%B8%B0-%EC%BF%A0%ED%82%A4%EC%98%81%EC%83%81-%EA%B0%9C%EC%88%98-%EC%98%81%ED%99%94%EB%A5%BC-%EB%B3%B4%EB%9F%AC-%EA%B0%80%EA%B8%B0-%EC%A0%84-%EC%95%8C%EA%B3%A0%EA%B0%80%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B2%83-IMAX-4DX) <br>
 [2022/5/6 - [BaekJoon] 14918번 : 더하기 (Python)](https://somjang.tistory.com/entry/BaekJoon-14918%EB%B2%88-%EB%8D%94%ED%95%98%EA%B8%B0-Python) <br>
-[2022/5/5 - 닥터스트레인지: 대혼돈의 멀티버스를 더 재미있게 보기위해 봐야하는 마블 영화, 드라마 목록! - 마블 영화 드라마 보는 순서, 쿠키영상 개수](https://somjang.tistory.com/entry/%EB%8B%A5%ED%84%B0%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B8%EC%A7%80-%EB%8C%80%ED%98%BC%EB%8F%88%EC%9D%98-%EB%A9%80%ED%8B%B0%EB%B2%84%EC%8A%A4%EB%A5%BC-%EB%8D%94-%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C-%EB%B3%B4%EA%B8%B0%EC%9C%84%ED%95%B4-%EB%B4%90%EC%95%BC%ED%95%98%EB%8A%94-%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%AA%A9%EB%A1%9D-%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%B3%B4%EB%8A%94-%EC%88%9C%EC%84%9C-%EC%BF%A0%ED%82%A4%EC%98%81%EC%83%81-%EA%B0%9C%EC%88%98) <br>
