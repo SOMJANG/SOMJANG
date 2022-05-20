@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/5/19 - [BaekJoon] 23234번 : The World Responds (Python)](https://somjang.tistory.com/entry/BaekJoon-23234%EB%B2%88-The-World-Responds-Python) <br>
 [2022/5/17 - [BaekJoon] 1267번 : 핸드폰 요금 (Python)](https://somjang.tistory.com/entry/BaekJoon-1267%EB%B2%88-%ED%95%B8%EB%93%9C%ED%8F%B0-%EC%9A%94%EA%B8%88-Python) <br>
 [2022/5/17 - [BaekJoon] 4821번 : 페이지 세기 (Python)](https://somjang.tistory.com/entry/BaekJoon-4821%EB%B2%88-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B8%EA%B8%B0-Python) <br>
 [2022/5/16 - [BaekJoon] 15680번 : 연세대학교 (Python)](https://somjang.tistory.com/entry/BaekJoon-15680%EB%B2%88-%EC%97%B0%EC%84%B8%EB%8C%80%ED%95%99%EA%B5%90-Python) <br>
@@ -18,4 +19,3 @@
 [2022/5/11 - [BaekJoon] 14645번 : 와이버스 부릉부릉 (Python)](https://somjang.tistory.com/entry/BaekJoon-14645%EB%B2%88-%EC%99%80%EC%9D%B4%EB%B2%84%EC%8A%A4-%EB%B6%80%EB%A6%89%EB%B6%80%EB%A6%89-Python) <br>
 [2022/5/10 - [BaekJoon] 8370번 : Plane (Python)](https://somjang.tistory.com/entry/BaekJoon-8370%EB%B2%88-Plane-Python) <br>
 [2022/5/9 - [BaekJoon] 6749번 : Next in line (Python)](https://somjang.tistory.com/entry/BaekJoon-6749%EB%B2%88-Next-in-line-Python) <br>
-[2022/5/8 - [BaekJoon] 5523번 : 경기 결과 (Python)](https://somjang.tistory.com/entry/BaekJoon-5523%EB%B2%88-%EA%B2%BD%EA%B8%B0-%EA%B2%B0%EA%B3%BC-Python) <br>
