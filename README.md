@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/5/21 - [BaekJoon] 5613번 : 계산기 프로그램 (Python)](https://somjang.tistory.com/entry/BaekJoon-5613%EB%B2%88-%EA%B3%84%EC%82%B0%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-Python) <br>
 [2022/5/20 - [BaekJoon] 4150번 : 피보나치 수 (Python)](https://somjang.tistory.com/entry/BaekJoon-4150%EB%B2%88-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98-Python) <br>
 [2022/5/19 - [BaekJoon] 23234번 : The World Responds (Python)](https://somjang.tistory.com/entry/BaekJoon-23234%EB%B2%88-The-World-Responds-Python) <br>
 [2022/5/17 - [BaekJoon] 1267번 : 핸드폰 요금 (Python)](https://somjang.tistory.com/entry/BaekJoon-1267%EB%B2%88-%ED%95%B8%EB%93%9C%ED%8F%B0-%EC%9A%94%EA%B8%88-Python) <br>
@@ -18,4 +19,3 @@
 [2022/5/13 - [BaekJoon] 10170번 : NFC West vs North (Python)](https://somjang.tistory.com/entry/BaekJoon-10170%EB%B2%88-NFC-West-vs-North-Python) <br>
 [2022/5/12 - [BaekJoon] 1252번 : 이진수 덧셈 (Python)](https://somjang.tistory.com/entry/BaekJoon-1252%EB%B2%88-%EC%9D%B4%EC%A7%84%EC%88%98-%EB%8D%A7%EC%85%88-Python) <br>
 [2022/5/11 - [BaekJoon] 14645번 : 와이버스 부릉부릉 (Python)](https://somjang.tistory.com/entry/BaekJoon-14645%EB%B2%88-%EC%99%80%EC%9D%B4%EB%B2%84%EC%8A%A4-%EB%B6%80%EB%A6%89%EB%B6%80%EB%A6%89-Python) <br>
-[2022/5/10 - [BaekJoon] 8370번 : Plane (Python)](https://somjang.tistory.com/entry/BaekJoon-8370%EB%B2%88-Plane-Python) <br>
