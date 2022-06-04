@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2022/6/3 - [BaekJoon] 14652번 : 나는 행복합니다~ (Python)](https://somjang.tistory.com/entry/BaekJoon-14652%EB%B2%88-%EB%82%98%EB%8A%94-%ED%96%89%EB%B3%B5%ED%95%A9%EB%8B%88%EB%8B%A4-Python) <br>
+[2022/6/3 - [Python] ModuleNotFoundError: No module named 'pip._internal.cli' 해결 방법](https://somjang.tistory.com/entry/Python-ModuleNotFoundError-No-module-named-pipinternalcli-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95) <br>
 [2022/6/2 - [BaekJoon] 18301번 : Rats (Python)](https://somjang.tistory.com/entry/BaekJoon-18301%EB%B2%88-Rats-Python) <br>
 [2022/5/31 - [BaekJoon] 14623번 : 감정이입 (Python)](https://somjang.tistory.com/entry/BaekJoon-14623%EB%B2%88-%EA%B0%90%EC%A0%95%EC%9D%B4%EC%9E%85-Python) <br>
 [2022/5/31 - [BaekJoon] 2145번 : 숫자 놀이 (Python)](https://somjang.tistory.com/entry/BaekJoon-2145%EB%B2%88-%EC%88%AB%EC%9E%90-%EB%86%80%EC%9D%B4-Python) <br>
@@ -17,5 +19,3 @@
 [2022/5/28 - [BaekJoon] 24568번 : Cupcake Party (Python)](https://somjang.tistory.com/entry/BaekJoon-24568%EB%B2%88-Cupcake-Party-Python) <br>
 [2022/5/27 - [넷플릭스] 기묘한 이야기 4 - 나오자마자 정주행 한 노스포 솔직후기! - 넷플릭스 강력 추천작품!!!!!! 꼭 스포일러 없이 보세요!!!!!!](https://somjang.tistory.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EA%B8%B0%EB%AC%98%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-4-%EB%82%98%EC%98%A4%EC%9E%90%EB%A7%88%EC%9E%90-%EC%A0%95%EC%A3%BC%ED%96%89-%ED%95%9C-%EB%85%B8%EC%8A%A4%ED%8F%AC-%EC%86%94%EC%A7%81%ED%9B%84%EA%B8%B0-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EA%B0%95%EB%A0%A5-%EC%B6%94%EC%B2%9C%EC%9E%91%ED%92%88-%EA%BC%AD-%EC%8A%A4%ED%8F%AC%EC%9D%BC%EB%9F%AC-%EC%97%86%EC%9D%B4-%EB%B3%B4%EC%84%B8%EC%9A%94) <br>
 [2022/5/27 - [BaekJoon] 21300번 : Bottle Return (Python)](https://somjang.tistory.com/entry/BaekJoon-21300%EB%B2%88-Bottle-Return-Python) <br>
-[2022/5/26 - [BaekJoon] 20254번 : Site Score (Python)](https://somjang.tistory.com/entry/BaekJoon-20254%EB%B2%88-Site-Score-Python) <br>
-[2022/5/25 - [GS25] 편스토랑 41회차 우승상품! - 이찬원의 진또배기 맵싹갈비 삼각김밥 솔직후기! - 판매처, 가격, 맛! ( feat. 생수 증정 이벤트! )](https://somjang.tistory.com/entry/GS25-%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91-41%ED%9A%8C%EC%B0%A8-%EC%9A%B0%EC%8A%B9%EC%83%81%ED%92%88-%EC%9D%B4%EC%B0%AC%EC%9B%90%EC%9D%98-%EC%A7%84%EB%98%90%EB%B0%B0%EA%B8%B0-%EB%A7%B5%EC%8B%B9%EA%B0%88%EB%B9%84-%EC%82%BC%EA%B0%81%EA%B9%80%EB%B0%A5-%EC%86%94%EC%A7%81%ED%9B%84%EA%B8%B0-%ED%8C%90%EB%A7%A4%EC%B2%98-%EA%B0%80%EA%B2%A9-%EB%A7%9B-feat-%EC%83%9D%EC%88%98-%EC%A6%9D%EC%A0%95-%EC%9D%B4%EB%B2%A4%ED%8A%B8) <br>
