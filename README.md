@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/6/13 - [BaekJoon] 5585번 : 거스름돈 (Python)](https://somjang.tistory.com/entry/BaekJoon-5585%EB%B2%88-%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88-Python) <br>
 [2022/6/12 - [BaekJoon] 25238번 : 가희와 방어율 무시 (Python)](https://somjang.tistory.com/entry/BaekJoon-25238%EB%B2%88-%EA%B0%80%ED%9D%AC%EC%99%80-%EB%B0%A9%EC%96%B4%EC%9C%A8-%EB%AC%B4%EC%8B%9C-Python) <br>
 [2022/6/11 - [BaekJoon] 2896번 : 무알콜 칵테일 (Python)](https://somjang.tistory.com/entry/BaekJoon-2896%EB%B2%88-%EB%AC%B4%EC%95%8C%EC%BD%9C-%EC%B9%B5%ED%85%8C%EC%9D%BC-Python) <br>
 [2022/6/9 - [BaekJoon] 4659번 : 비밀번호 발음하기 (Python)](https://somjang.tistory.com/entry/BaekJoon-4659%EB%B2%88-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EB%B0%9C%EC%9D%8C%ED%95%98%EA%B8%B0-Python) <br>
@@ -18,4 +19,3 @@
 [2022/6/7 - [WWDC 2022] 맥북 macOS 13 Ventura 베타 버전 설치 방법! ( feat. betaprofile ) - 지원 기기 목록 / 설치 방법 / 주의 사항](https://somjang.tistory.com/entry/WWDC-2022-%EB%A7%A5%EB%B6%81-macOS-13-Ventura-%EB%B2%A0%ED%83%80-%EB%B2%84%EC%A0%84-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95-feat-betaprofile-%EC%A7%80%EC%9B%90-%EA%B8%B0%EA%B8%B0-%EB%AA%A9%EB%A1%9D-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95-%EC%A3%BC%EC%9D%98-%EC%82%AC%ED%95%AD) <br>
 [2022/6/7 - [WWDC 2022] 아이패드 iPadOS 16 베타 버전 설치 방법! ( feat. betaprofile ) - 지원 기기 목록 / 설치 방법 / 주의 사항](https://somjang.tistory.com/entry/WWDC-2022-%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C-iPadOS-16-%EB%B2%A0%ED%83%80-%EB%B2%84%EC%A0%84-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95-feat-betaprofile-%EC%A7%80%EC%9B%90-%EA%B8%B0%EA%B8%B0-%EB%AA%A9%EB%A1%9D-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95-%EC%A3%BC%EC%9D%98-%EC%82%AC%ED%95%AD) <br>
 [2022/6/6 - [WWDC 2022] 아이폰 iOS 16 베타 버전 설치 방법! ( feat. betaprofile ) - 지원 기기 목록 / 설치 방법 / 주의 사항](https://somjang.tistory.com/entry/WWDC-2022-%EC%95%84%EC%9D%B4%ED%8F%B0-iOS-16-%EB%B2%A0%ED%83%80-%EB%B2%84%EC%A0%84-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95-feat-betaprofile-%EC%A7%80%EC%9B%90-%EA%B8%B0%EA%B8%B0-%EB%AA%A9%EB%A1%9D-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95-%EC%A3%BC%EC%9D%98-%EC%82%AC%ED%95%AD) <br>
-[2022/6/6 - [BaekJoon] 10807번 : 개수 세기 (Python)](https://somjang.tistory.com/entry/BaekJoon-10807%EB%B2%88-%EA%B0%9C%EC%88%98-%EC%84%B8%EA%B8%B0-Python) <br>
