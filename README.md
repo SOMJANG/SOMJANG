@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/6/17 - [BaekJoon] 14489번 : 치킨 두 마리 (...) (Python)](https://somjang.tistory.com/entry/BaekJoon-14489%EB%B2%88-%EC%B9%98%ED%82%A8-%EB%91%90-%EB%A7%88%EB%A6%AC-Python) <br>
 [2022/6/16 - [BaekJoon] 2997번 : 네 번째 수 (Python)](https://somjang.tistory.com/entry/BaekJoon-2997%EB%B2%88-%EB%84%A4-%EB%B2%88%EC%A7%B8-%EC%88%98-Python) <br>
 [2022/6/16 - 맥북 터미널에서 현재 위치의 파인더를 여는 방법!](https://somjang.tistory.com/entry/%EB%A7%A5%EB%B6%81-%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-%ED%98%84%EC%9E%AC-%EC%9C%84%EC%B9%98%EC%9D%98-%ED%8C%8C%EC%9D%B8%EB%8D%94%EB%A5%BC-%EC%97%AC%EB%8A%94-%EB%B0%A9%EB%B2%95) <br>
 [2022/6/15 - [BaekJoon] 10870번 : 피보나치 수 5 (Python)](https://somjang.tistory.com/entry/BaekJoon-10870%EB%B2%88-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98-5-Python) <br>
@@ -18,4 +19,3 @@
 [2022/6/12 - [BaekJoon] 25238번 : 가희와 방어율 무시 (Python)](https://somjang.tistory.com/entry/BaekJoon-25238%EB%B2%88-%EA%B0%80%ED%9D%AC%EC%99%80-%EB%B0%A9%EC%96%B4%EC%9C%A8-%EB%AC%B4%EC%8B%9C-Python) <br>
 [2022/6/11 - [BaekJoon] 2896번 : 무알콜 칵테일 (Python)](https://somjang.tistory.com/entry/BaekJoon-2896%EB%B2%88-%EB%AC%B4%EC%95%8C%EC%BD%9C-%EC%B9%B5%ED%85%8C%EC%9D%BC-Python) <br>
 [2022/6/9 - [BaekJoon] 4659번 : 비밀번호 발음하기 (Python)](https://somjang.tistory.com/entry/BaekJoon-4659%EB%B2%88-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EB%B0%9C%EC%9D%8C%ED%95%98%EA%B8%B0-Python) <br>
-[2022/6/7 - [압구정로데오역/청담 맛집] 성시경의 먹을텐데 등골과 우개장 - 우정 - 기가막힌 한우스지된장전골이 있는 곳! - 위치, 영업시간, 메뉴, 가격](https://somjang.tistory.com/entry/%EC%95%95%EA%B5%AC%EC%A0%95%EB%A1%9C%EB%8D%B0%EC%98%A4%EC%97%AD%EC%B2%AD%EB%8B%B4-%EB%A7%9B%EC%A7%91-%EC%84%B1%EC%8B%9C%EA%B2%BD%EC%9D%98-%EB%A8%B9%EC%9D%84%ED%85%90%EB%8D%B0-%EB%93%B1%EA%B3%A8%EA%B3%BC-%EC%9A%B0%EA%B0%9C%EC%9E%A5-%EC%9A%B0%EC%A0%95-%EA%B8%B0%EA%B0%80%EB%A7%89%ED%9E%8C-%ED%95%9C%EC%9A%B0%EC%8A%A4%EC%A7%80%EB%90%9C%EC%9E%A5%EC%A0%84%EA%B3%A8%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B3%B3-%EC%9C%84%EC%B9%98-%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9) <br>
