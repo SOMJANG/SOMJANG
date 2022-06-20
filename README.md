@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/6/19 - [BaekJoon] 3447번 : 버그왕 (Python)](https://somjang.tistory.com/entry/BaekJoon-3447%EB%B2%88-%EB%B2%84%EA%B7%B8%EC%99%95-Python) <br>
 [2022/6/18 - [BaekJoon] 10826번 : 피보나치 수 4 (Python)](https://somjang.tistory.com/entry/BaekJoon-10826%EB%B2%88-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98-4-Python) <br>
 [2022/6/17 - [BaekJoon] 14489번 : 치킨 두 마리 (...) (Python)](https://somjang.tistory.com/entry/BaekJoon-14489%EB%B2%88-%EC%B9%98%ED%82%A8-%EB%91%90-%EB%A7%88%EB%A6%AC-Python) <br>
 [2022/6/16 - [BaekJoon] 2997번 : 네 번째 수 (Python)](https://somjang.tistory.com/entry/BaekJoon-2997%EB%B2%88-%EB%84%A4-%EB%B2%88%EC%A7%B8-%EC%88%98-Python) <br>
@@ -18,4 +19,3 @@
 [2022/6/14 - [BaekJoon] 1292번 : 쉽게 푸는 문제 (Python)](https://somjang.tistory.com/entry/BaekJoon-1292%EB%B2%88-%EC%89%BD%EA%B2%8C-%ED%91%B8%EB%8A%94-%EB%AC%B8%EC%A0%9C-Python) <br>
 [2022/6/13 - [BaekJoon] 5585번 : 거스름돈 (Python)](https://somjang.tistory.com/entry/BaekJoon-5585%EB%B2%88-%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88-Python) <br>
 [2022/6/12 - [BaekJoon] 25238번 : 가희와 방어율 무시 (Python)](https://somjang.tistory.com/entry/BaekJoon-25238%EB%B2%88-%EA%B0%80%ED%9D%AC%EC%99%80-%EB%B0%A9%EC%96%B4%EC%9C%A8-%EB%AC%B4%EC%8B%9C-Python) <br>
-[2022/6/11 - [BaekJoon] 2896번 : 무알콜 칵테일 (Python)](https://somjang.tistory.com/entry/BaekJoon-2896%EB%B2%88-%EB%AC%B4%EC%95%8C%EC%BD%9C-%EC%B9%B5%ED%85%8C%EC%9D%BC-Python) <br>
