@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/6/20 - [BaekJoon] 2592번 : 대표값 (Python)](https://somjang.tistory.com/entry/BaekJoon-2592%EB%B2%88-%EB%8C%80%ED%91%9C%EA%B0%92-Python) <br>
 [2022/6/19 - [BaekJoon] 3447번 : 버그왕 (Python)](https://somjang.tistory.com/entry/BaekJoon-3447%EB%B2%88-%EB%B2%84%EA%B7%B8%EC%99%95-Python) <br>
 [2022/6/18 - [BaekJoon] 10826번 : 피보나치 수 4 (Python)](https://somjang.tistory.com/entry/BaekJoon-10826%EB%B2%88-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98-4-Python) <br>
 [2022/6/17 - [BaekJoon] 14489번 : 치킨 두 마리 (...) (Python)](https://somjang.tistory.com/entry/BaekJoon-14489%EB%B2%88-%EC%B9%98%ED%82%A8-%EB%91%90-%EB%A7%88%EB%A6%AC-Python) <br>
@@ -18,4 +19,3 @@
 [2022/6/15 - [GS25] 슈넬치킨 마요덮밥 솔직후기! - 판매처, 가격, 구성품, 조리방법, 맛!](https://somjang.tistory.com/entry/GS25-%EC%8A%88%EB%84%AC%EC%B9%98%ED%82%A8-%EB%A7%88%EC%9A%94%EB%8D%AE%EB%B0%A5-%EC%86%94%EC%A7%81%ED%9B%84%EA%B8%B0-%ED%8C%90%EB%A7%A4%EC%B2%98-%EA%B0%80%EA%B2%A9-%EA%B5%AC%EC%84%B1%ED%92%88-%EC%A1%B0%EB%A6%AC%EB%B0%A9%EB%B2%95-%EB%A7%9B) <br>
 [2022/6/14 - [BaekJoon] 1292번 : 쉽게 푸는 문제 (Python)](https://somjang.tistory.com/entry/BaekJoon-1292%EB%B2%88-%EC%89%BD%EA%B2%8C-%ED%91%B8%EB%8A%94-%EB%AC%B8%EC%A0%9C-Python) <br>
 [2022/6/13 - [BaekJoon] 5585번 : 거스름돈 (Python)](https://somjang.tistory.com/entry/BaekJoon-5585%EB%B2%88-%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88-Python) <br>
-[2022/6/12 - [BaekJoon] 25238번 : 가희와 방어율 무시 (Python)](https://somjang.tistory.com/entry/BaekJoon-25238%EB%B2%88-%EA%B0%80%ED%9D%AC%EC%99%80-%EB%B0%A9%EC%96%B4%EC%9C%A8-%EB%AC%B4%EC%8B%9C-Python) <br>
