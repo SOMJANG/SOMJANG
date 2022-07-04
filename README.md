@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2022/7/3 - [Python] with open TypeError: an integer is required (got type str) 해결 방법!](https://somjang.tistory.com/entry/Python-with-open-TypeError-an-integer-is-required-got-type-str-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95) <br>
+[2022/7/3 - [BaekJoon] 19944번 : 뉴비의 기준은 뭘까? (Python)](https://somjang.tistory.com/entry/BaekJoon-19944%EB%B2%88-%EB%89%B4%EB%B9%84%EC%9D%98-%EA%B8%B0%EC%A4%80%EC%9D%80-%EB%AD%98%EA%B9%8C-Python) <br>
 [2022/7/2 - [BaekJoon] 1850번 : 최대공약수 (Python)](https://somjang.tistory.com/entry/BaekJoon-1850%EB%B2%88-%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98-Python) <br>
 [2022/7/1 - [BaekJoon] 24883번 : 자동완성 (Python)](https://somjang.tistory.com/entry/BaekJoon-24883%EB%B2%88-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-Python) <br>
 [2022/6/30 - [BaekJoon] 25304번 : 영수증 (Python)](https://somjang.tistory.com/entry/BaekJoon-25304%EB%B2%88-%EC%98%81%EC%88%98%EC%A6%9D-Python) <br>
@@ -17,5 +19,3 @@
 [2022/6/23 - [BaekJoon] 13985번 : Equality (Python)](https://somjang.tistory.com/entry/BaekJoon-13985%EB%B2%88-Equality-Python) <br>
 [2022/6/21 - [BaekJoon] 2506번 : 점수계산 (Python)](https://somjang.tistory.com/entry/BaekJoon-2506%EB%B2%88-%EC%A0%90%EC%88%98%EA%B3%84%EC%82%B0-Python) <br>
 [2022/6/20 - [BaekJoon] 2592번 : 대표값 (Python)](https://somjang.tistory.com/entry/BaekJoon-2592%EB%B2%88-%EB%8C%80%ED%91%9C%EA%B0%92-Python) <br>
-[2022/6/19 - [BaekJoon] 3447번 : 버그왕 (Python)](https://somjang.tistory.com/entry/BaekJoon-3447%EB%B2%88-%EB%B2%84%EA%B7%B8%EC%99%95-Python) <br>
-[2022/6/18 - [BaekJoon] 10826번 : 피보나치 수 4 (Python)](https://somjang.tistory.com/entry/BaekJoon-10826%EB%B2%88-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98-4-Python) <br>
