@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/7/8 - [BaekJoon] 11945번 : 뜨거운 붕어빵 (Python)](https://somjang.tistory.com/entry/BaekJoon-11945%EB%B2%88-%EB%9C%A8%EA%B1%B0%EC%9A%B4-%EB%B6%95%EC%96%B4%EB%B9%B5-Python) <br>
 [2022/7/6 - [BaekJoon] 1362번 : 펫 (Python)](https://somjang.tistory.com/entry/BaekJoon-1362%EB%B2%88-%ED%8E%AB-Python) <br>
 [2022/7/5 - [BaekJoon] 2729번 : 이진수 덧셈 (Python)](https://somjang.tistory.com/entry/BaekJoon-2729%EB%B2%88-%EC%9D%B4%EC%A7%84%EC%88%98-%EB%8D%A7%EC%85%88-Python) <br>
 [2022/7/4 - [포티투마루] CLASS42 와린이 탈출을 위한 와인 입문 후기! - ( feat. 42마일스톤 3.0 )](https://somjang.tistory.com/entry/%ED%8F%AC%ED%8B%B0%ED%88%AC%EB%A7%88%EB%A3%A8-CLASS42-%EC%99%80%EB%A6%B0%EC%9D%B4-%ED%83%88%EC%B6%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%99%80%EC%9D%B8-%EC%9E%85%EB%AC%B8-%ED%9B%84%EA%B8%B0-feat-42%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4-30) <br>
@@ -18,4 +19,3 @@
 [2022/7/2 - [BaekJoon] 1850번 : 최대공약수 (Python)](https://somjang.tistory.com/entry/BaekJoon-1850%EB%B2%88-%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98-Python) <br>
 [2022/7/1 - [BaekJoon] 24883번 : 자동완성 (Python)](https://somjang.tistory.com/entry/BaekJoon-24883%EB%B2%88-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-Python) <br>
 [2022/6/30 - [BaekJoon] 25304번 : 영수증 (Python)](https://somjang.tistory.com/entry/BaekJoon-25304%EB%B2%88-%EC%98%81%EC%88%98%EC%A6%9D-Python) <br>
-[2022/6/28 - [BaekJoon] 4880번 : 다음수 (Python)](https://somjang.tistory.com/entry/BaekJoon-4880%EB%B2%88-%EB%8B%A4%EC%9D%8C%EC%88%98-Python) <br>
