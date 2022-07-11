@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/7/10 - [BaekJoon] 25314번 : 코딩은 체육과목 입니다 (Python)](https://somjang.tistory.com/entry/BaekJoon-25314%EB%B2%88-%EC%BD%94%EB%94%A9%EC%9D%80-%EC%B2%B4%EC%9C%A1%EA%B3%BC%EB%AA%A9-%EC%9E%85%EB%8B%88%EB%8B%A4-Python) <br>
 [2022/7/8 - [BaekJoon] 11945번 : 뜨거운 붕어빵 (Python)](https://somjang.tistory.com/entry/BaekJoon-11945%EB%B2%88-%EB%9C%A8%EA%B1%B0%EC%9A%B4-%EB%B6%95%EC%96%B4%EB%B9%B5-Python) <br>
 [2022/7/6 - [BaekJoon] 1362번 : 펫 (Python)](https://somjang.tistory.com/entry/BaekJoon-1362%EB%B2%88-%ED%8E%AB-Python) <br>
 [2022/7/5 - [BaekJoon] 2729번 : 이진수 덧셈 (Python)](https://somjang.tistory.com/entry/BaekJoon-2729%EB%B2%88-%EC%9D%B4%EC%A7%84%EC%88%98-%EB%8D%A7%EC%85%88-Python) <br>
@@ -18,4 +19,3 @@
 [2022/7/3 - [BaekJoon] 19944번 : 뉴비의 기준은 뭘까? (Python)](https://somjang.tistory.com/entry/BaekJoon-19944%EB%B2%88-%EB%89%B4%EB%B9%84%EC%9D%98-%EA%B8%B0%EC%A4%80%EC%9D%80-%EB%AD%98%EA%B9%8C-Python) <br>
 [2022/7/2 - [BaekJoon] 1850번 : 최대공약수 (Python)](https://somjang.tistory.com/entry/BaekJoon-1850%EB%B2%88-%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98-Python) <br>
 [2022/7/1 - [BaekJoon] 24883번 : 자동완성 (Python)](https://somjang.tistory.com/entry/BaekJoon-24883%EB%B2%88-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-Python) <br>
-[2022/6/30 - [BaekJoon] 25304번 : 영수증 (Python)](https://somjang.tistory.com/entry/BaekJoon-25304%EB%B2%88-%EC%98%81%EC%88%98%EC%A6%9D-Python) <br>
