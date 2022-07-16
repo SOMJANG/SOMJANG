@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/7/15 - [BaekJoon] 2684번 : 동전 게임 (Python)](https://somjang.tistory.com/entry/BaekJoon-2684%EB%B2%88-%EB%8F%99%EC%A0%84-%EA%B2%8C%EC%9E%84-Python) <br>
 [2022/7/14 - [BaekJoon] 25311번 : UCPC에서 가장 쉬운 문제 번호는? (Python)](https://somjang.tistory.com/entry/BaekJoon-25311%EB%B2%88-UCPC%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EB%AC%B8%EC%A0%9C-%EB%B2%88%ED%98%B8%EB%8A%94-Python) <br>
 [2022/7/13 - [블로그 업데이트 공지] 코드 블럭 내용 복사 버튼 추가! - 22.07.13](https://somjang.tistory.com/notice/1421) <br>
 [2022/7/12 - [BaekJoon] 4589번 : Gnome Sequencing (Python)](https://somjang.tistory.com/entry/BaekJoon-4589%EB%B2%88-Gnome-Sequencing-Python) <br>
@@ -18,4 +19,3 @@
 [2022/7/6 - [BaekJoon] 1362번 : 펫 (Python)](https://somjang.tistory.com/entry/BaekJoon-1362%EB%B2%88-%ED%8E%AB-Python) <br>
 [2022/7/5 - [BaekJoon] 2729번 : 이진수 덧셈 (Python)](https://somjang.tistory.com/entry/BaekJoon-2729%EB%B2%88-%EC%9D%B4%EC%A7%84%EC%88%98-%EB%8D%A7%EC%85%88-Python) <br>
 [2022/7/4 - [포티투마루] CLASS42 와린이 탈출을 위한 와인 입문 후기! - ( feat. 42마일스톤 3.0 )](https://somjang.tistory.com/entry/%ED%8F%AC%ED%8B%B0%ED%88%AC%EB%A7%88%EB%A3%A8-CLASS42-%EC%99%80%EB%A6%B0%EC%9D%B4-%ED%83%88%EC%B6%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%99%80%EC%9D%B8-%EC%9E%85%EB%AC%B8-%ED%9B%84%EA%B8%B0-feat-42%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4-30) <br>
-[2022/7/4 - [BaekJoon] 8974번 : 희주의 수학시험 (Python)](https://somjang.tistory.com/entry/BaekJoon-8974%EB%B2%88-%ED%9D%AC%EC%A3%BC%EC%9D%98-%EC%88%98%ED%95%99%EC%8B%9C%ED%97%98-Python) <br>
