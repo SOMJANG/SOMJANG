@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/7/19 - [BaekJoon] 25372번 : 성택이의 은밀한 비밀번호 (Python)](https://somjang.tistory.com/entry/BaekJoon-25372%EB%B2%88-%EC%84%B1%ED%83%9D%EC%9D%B4%EC%9D%98-%EC%9D%80%EB%B0%80%ED%95%9C-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-Python) <br>
 [2022/7/17 - [BaekJoon] 3058번 : 짝수를 찾아라 (Python)](https://somjang.tistory.com/entry/BaekJoon-3058%EB%B2%88-%EC%A7%9D%EC%88%98%EB%A5%BC-%EC%B0%BE%EC%95%84%EB%9D%BC-Python) <br>
 [2022/7/16 - [BaekJoon] 14581번 : 팬들에게 둘러싸인 홍준 (Python)](https://somjang.tistory.com/entry/BaekJoon-14581%EB%B2%88-%ED%8C%AC%EB%93%A4%EC%97%90%EA%B2%8C-%EB%91%98%EB%9F%AC%EC%8B%B8%EC%9D%B8-%ED%99%8D%EC%A4%80-Python) <br>
 [2022/7/15 - [BaekJoon] 2684번 : 동전 게임 (Python)](https://somjang.tistory.com/entry/BaekJoon-2684%EB%B2%88-%EB%8F%99%EC%A0%84-%EA%B2%8C%EC%9E%84-Python) <br>
@@ -18,4 +19,3 @@
 [2022/7/11 - [BaekJoon] 17009번 : Winning Score (Python)](https://somjang.tistory.com/entry/BaekJoon-17009%EB%B2%88-Winning-Score-Python) <br>
 [2022/7/10 - [BaekJoon] 25314번 : 코딩은 체육과목 입니다 (Python)](https://somjang.tistory.com/entry/BaekJoon-25314%EB%B2%88-%EC%BD%94%EB%94%A9%EC%9D%80-%EC%B2%B4%EC%9C%A1%EA%B3%BC%EB%AA%A9-%EC%9E%85%EB%8B%88%EB%8B%A4-Python) <br>
 [2022/7/8 - [BaekJoon] 11945번 : 뜨거운 붕어빵 (Python)](https://somjang.tistory.com/entry/BaekJoon-11945%EB%B2%88-%EB%9C%A8%EA%B1%B0%EC%9A%B4-%EB%B6%95%EC%96%B4%EB%B9%B5-Python) <br>
-[2022/7/6 - [BaekJoon] 1362번 : 펫 (Python)](https://somjang.tistory.com/entry/BaekJoon-1362%EB%B2%88-%ED%8E%AB-Python) <br>
