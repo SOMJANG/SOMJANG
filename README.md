@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2022/8/8 - [논현역 맛집] 논현역 직장인 점심 추천 - 성천막국수 - 성시경의 좋을텐데 - 야들야들한 제육과 맛있는 막국수가 있는 곳! - 위치, 영업시간, 메뉴, 가격](https://somjang.tistory.com/entry/%EB%85%BC%ED%98%84%EC%97%AD-%EB%A7%9B%EC%A7%91-%EB%85%BC%ED%98%84%EC%97%AD-%EC%A7%81%EC%9E%A5%EC%9D%B8-%EC%A0%90%EC%8B%AC-%EC%B6%94%EC%B2%9C-%EC%84%B1%EC%B2%9C%EB%A7%89%EA%B5%AD%EC%88%98-%EC%84%B1%EC%8B%9C%EA%B2%BD%EC%9D%98-%EC%A2%8B%EC%9D%84%ED%85%90%EB%8D%B0-%EC%95%BC%EB%93%A4%EC%95%BC%EB%93%A4%ED%95%9C-%EC%A0%9C%EC%9C%A1%EA%B3%BC-%EB%A7%9B%EC%9E%88%EB%8A%94-%EB%A7%89%EA%B5%AD%EC%88%98%EA%B0%80-%EC%9E%88%EB%8A%94-%EA%B3%B3-%EC%9C%84%EC%B9%98-%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9) <br>
+[2022/8/7 - [BaekJoon] 5524번 : 입실 관리 (Python)](https://somjang.tistory.com/entry/BaekJoon-5524%EB%B2%88-%EC%9E%85%EC%8B%A4-%EA%B4%80%EB%A6%AC-Python) <br>
 [2022/8/5 - [BaekJoon] 9506번 : 모든 약수의 합 (Python)](https://somjang.tistory.com/entry/BaekJoon-9506%EB%B2%88-%EB%AA%A8%EB%93%A0-%EC%95%BD%EC%88%98%EC%9D%98-%ED%95%A9-Python) <br>
 [2022/8/2 - [BaekJoon] 4096번 : 팰린드로미터 (Python)](https://somjang.tistory.com/entry/BaekJoon-4096%EB%B2%88-%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%9C%EB%AF%B8%ED%84%B0-Python) <br>
 [2022/8/1 - [BaekJoon] 2386번 : 도비의 영어 공부 (Python)](https://somjang.tistory.com/entry/BaekJoon-2386%EB%B2%88-%EB%8F%84%EB%B9%84%EC%9D%98-%EC%98%81%EC%96%B4-%EA%B3%B5%EB%B6%80-Python) <br>
@@ -17,5 +19,3 @@
 [2022/7/29 - [BaekJoon] 11283번 : 한글 2 (Python)](https://somjang.tistory.com/entry/BaekJoon-11283%EB%B2%88-%ED%95%9C%EA%B8%80-2-Python) <br>
 [2022/7/28 - [BaekJoon] 23795번 : 사장님 도박은 재미로 하셔야 합니다 (Python)](https://somjang.tistory.com/entry/BaekJoon-23795%EB%B2%88-%EC%82%AC%EC%9E%A5%EB%8B%98-%EB%8F%84%EB%B0%95%EC%9D%80-%EC%9E%AC%EB%AF%B8%EB%A1%9C-%ED%95%98%EC%85%94%EC%95%BC-%ED%95%A9%EB%8B%88%EB%8B%A4-Python) <br>
 [2022/7/26 - [BaekJoon] 17356번 : 욱 제 (Python)](https://somjang.tistory.com/entry/Baekjoon-17356%EB%B2%88-%EC%9A%B1-%EC%A0%9C-Python) <br>
-[2022/7/25 - [BaekJoon] 4766번 : 일반 화학 실험 (Python)](https://somjang.tistory.com/entry/BaekJoon-4766%EB%B2%88-%EC%9D%BC%EB%B0%98-%ED%99%94%ED%95%99-%EC%8B%A4%ED%97%98-Python) <br>
-[2022/7/24 - [BaekJoon] 4435번 : 중간계 전쟁 (Python)](https://somjang.tistory.com/entry/BaekJoon-4435%EB%B2%88-%EC%A4%91%EA%B0%84%EA%B3%84-%EC%A0%84%EC%9F%81-Python) <br>
