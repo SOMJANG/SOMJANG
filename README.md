@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2022/8/13 - vi 편집기에서 여러 위치에 존재하는 특정 문자열을 한번에 다른 문자열로 치환하는 방법!](https://somjang.tistory.com/entry/vi-%ED%8E%B8%EC%A7%91%EA%B8%B0%EC%97%90%EC%84%9C-%ED%8A%B9%EC%A0%95-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84-%ED%95%9C%EB%B2%88%EC%97%90-%EB%8B%A4%EB%A5%B8-%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C-%EC%B9%98%ED%99%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) <br>
+[2022/8/12 - [BaekJoon] 11966번 : 2의 제곱인가? (Python)](https://somjang.tistory.com/entry/BaekJoon-11966%EB%B2%88-2%EC%9D%98-%EC%A0%9C%EA%B3%B1%EC%9D%B8%EA%B0%80-Python) <br>
 [2022/8/11 - [BaekJoon] 2712번 : 미국 스타일 (Python)](https://somjang.tistory.com/entry/BaekJoon-2712%EB%B2%88-%EB%AF%B8%EA%B5%AD-%EC%8A%A4%ED%83%80%EC%9D%BC-Python) <br>
 [2022/8/10 - [BaekJoon] 2028번 : 자기복제수 (Python)](https://somjang.tistory.com/entry/BaekJoon-2028%EB%B2%88-%EC%9E%90%EA%B8%B0%EB%B3%B5%EC%A0%9C%EC%88%98-Python) <br>
 [2022/8/8 - [RedHat 8/Centos8] dnf 사용 중 Waiting for process with pid to finish 발생 시 해결 방법](https://somjang.tistory.com/entry/dnf-%EC%82%AC%EC%9A%A9-%EC%A4%91-Waiting-for-process-with-pid-to-finish-%EB%B0%9C%EC%83%9D-%EC%8B%9C-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95) <br>
@@ -17,5 +19,3 @@
 [2022/8/7 - [BaekJoon] 5524번 : 입실 관리 (Python)](https://somjang.tistory.com/entry/BaekJoon-5524%EB%B2%88-%EC%9E%85%EC%8B%A4-%EA%B4%80%EB%A6%AC-Python) <br>
 [2022/8/5 - [BaekJoon] 9506번 : 모든 약수의 합 (Python)](https://somjang.tistory.com/entry/BaekJoon-9506%EB%B2%88-%EB%AA%A8%EB%93%A0-%EC%95%BD%EC%88%98%EC%9D%98-%ED%95%A9-Python) <br>
 [2022/8/2 - [BaekJoon] 4096번 : 팰린드로미터 (Python)](https://somjang.tistory.com/entry/BaekJoon-4096%EB%B2%88-%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%9C%EB%AF%B8%ED%84%B0-Python) <br>
-[2022/8/1 - [BaekJoon] 2386번 : 도비의 영어 공부 (Python)](https://somjang.tistory.com/entry/BaekJoon-2386%EB%B2%88-%EB%8F%84%EB%B9%84%EC%9D%98-%EC%98%81%EC%96%B4-%EA%B3%B5%EB%B6%80-Python) <br>
-[2022/8/1 - [GS25] 편스토랑 우승상품! - 이유리의 더블새우 뚱드위치 & 추성훈의 허니 파이터 라떼 후기! - 판매처, 가격, 맛! ( feat. 나랑드 사이다 증정 이벤트! )](https://somjang.tistory.com/entry/GS25-%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91-%EC%9A%B0%EC%8A%B9%EC%83%81%ED%92%88-%EC%9D%B4%EC%9C%A0%EB%A6%AC%EC%9D%98-%EB%8D%94%EB%B8%94%EC%83%88%EC%9A%B0-%EB%9A%B1%EB%93%9C%EC%9C%84%EC%B9%98-%EC%B6%94%EC%84%B1%ED%9B%88%EC%9D%98-%ED%97%88%EB%8B%88-%ED%8C%8C%EC%9D%B4%ED%84%B0-%EB%9D%BC%EB%96%BC-%ED%9B%84%EA%B8%B0-%ED%8C%90%EB%A7%A4%EC%B2%98-%EA%B0%80%EA%B2%A9-%EB%A7%9B-feat-%EB%82%98%EB%9E%91%EB%93%9C-%EC%82%AC%EC%9D%B4%EB%8B%A4-%EC%A6%9D%EC%A0%95-%EC%9D%B4%EB%B2%A4%ED%8A%B8) <br>
