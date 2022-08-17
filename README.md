@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/8/16 - [BaekJoon] 24416번 : 알고리즘 수업 - 피보나치 수 1 (Python)](https://somjang.tistory.com/entry/BaekJoon-24416%EB%B2%88-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%88%98%EC%97%85-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98-1-Python) <br>
 [2022/8/15 - [LEGO] 레고 30455 - Batmobile 폴리백 후기! - 가격, 구성, 조립 모습](https://somjang.tistory.com/entry/LEGO-%EB%A0%88%EA%B3%A0-30455-Batmobile-%ED%8F%B4%EB%A6%AC%EB%B0%B1-%ED%9B%84%EA%B8%B0-%EA%B0%80%EA%B2%A9-%EA%B5%AC%EC%84%B1-%EC%A1%B0%EB%A6%BD-%EB%AA%A8%EC%8A%B5) <br>
 [2022/8/15 - [LEGO] 레고 30343 - McLaren Elva 폴리백 후기! - 가격, 구성, 조립 모습](https://somjang.tistory.com/entry/LEGO-%EB%A0%88%EA%B3%A0-30343-McLaren-Elva-%ED%8F%B4%EB%A6%AC%EB%B0%B1-%ED%9B%84%EA%B8%B0-%EA%B0%80%EA%B2%A9-%EA%B5%AC%EC%84%B1-%EC%A1%B0%EB%A6%BD-%EB%AA%A8%EC%8A%B5) <br>
 [2022/8/14 - [BaekJoon] 2083번 : 럭비 클럽 (Python)](https://somjang.tistory.com/entry/BaekJoon-2083%EB%B2%88-%EB%9F%AD%EB%B9%84-%ED%81%B4%EB%9F%BD-Python) <br>
@@ -18,4 +19,3 @@
 [2022/8/12 - [BaekJoon] 11966번 : 2의 제곱인가? (Python)](https://somjang.tistory.com/entry/BaekJoon-11966%EB%B2%88-2%EC%9D%98-%EC%A0%9C%EA%B3%B1%EC%9D%B8%EA%B0%80-Python) <br>
 [2022/8/11 - [BaekJoon] 2712번 : 미국 스타일 (Python)](https://somjang.tistory.com/entry/BaekJoon-2712%EB%B2%88-%EB%AF%B8%EA%B5%AD-%EC%8A%A4%ED%83%80%EC%9D%BC-Python) <br>
 [2022/8/10 - [BaekJoon] 2028번 : 자기복제수 (Python)](https://somjang.tistory.com/entry/BaekJoon-2028%EB%B2%88-%EC%9E%90%EA%B8%B0%EB%B3%B5%EC%A0%9C%EC%88%98-Python) <br>
-[2022/8/8 - [RedHat 8/Centos8] dnf 사용 중 Waiting for process with pid to finish 발생 시 해결 방법](https://somjang.tistory.com/entry/dnf-%EC%82%AC%EC%9A%A9-%EC%A4%91-Waiting-for-process-with-pid-to-finish-%EB%B0%9C%EC%83%9D-%EC%8B%9C-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95) <br>
