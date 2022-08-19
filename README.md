@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/8/18 - [BaekJoon] 4969번 : St. Ives (Python)](https://somjang.tistory.com/entry/BaekJoon-4969%EB%B2%88-St-Ives-Python) <br>
 [2022/8/16 - [BaekJoon] 24416번 : 알고리즘 수업 - 피보나치 수 1 (Python)](https://somjang.tistory.com/entry/BaekJoon-24416%EB%B2%88-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%88%98%EC%97%85-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98-1-Python) <br>
 [2022/8/15 - [LEGO] 레고 30455 - Batmobile 폴리백 후기! - 가격, 구성, 조립 모습](https://somjang.tistory.com/entry/LEGO-%EB%A0%88%EA%B3%A0-30455-Batmobile-%ED%8F%B4%EB%A6%AC%EB%B0%B1-%ED%9B%84%EA%B8%B0-%EA%B0%80%EA%B2%A9-%EA%B5%AC%EC%84%B1-%EC%A1%B0%EB%A6%BD-%EB%AA%A8%EC%8A%B5) <br>
 [2022/8/15 - [LEGO] 레고 30343 - McLaren Elva 폴리백 후기! - 가격, 구성, 조립 모습](https://somjang.tistory.com/entry/LEGO-%EB%A0%88%EA%B3%A0-30343-McLaren-Elva-%ED%8F%B4%EB%A6%AC%EB%B0%B1-%ED%9B%84%EA%B8%B0-%EA%B0%80%EA%B2%A9-%EA%B5%AC%EC%84%B1-%EC%A1%B0%EB%A6%BD-%EB%AA%A8%EC%8A%B5) <br>
@@ -18,4 +19,3 @@
 [2022/8/13 - vi 편집기에서 여러 위치에 존재하는 특정 문자열을 한번에 다른 문자열로 치환하는 방법!](https://somjang.tistory.com/entry/vi-%ED%8E%B8%EC%A7%91%EA%B8%B0%EC%97%90%EC%84%9C-%ED%8A%B9%EC%A0%95-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84-%ED%95%9C%EB%B2%88%EC%97%90-%EB%8B%A4%EB%A5%B8-%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C-%EC%B9%98%ED%99%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) <br>
 [2022/8/12 - [BaekJoon] 11966번 : 2의 제곱인가? (Python)](https://somjang.tistory.com/entry/BaekJoon-11966%EB%B2%88-2%EC%9D%98-%EC%A0%9C%EA%B3%B1%EC%9D%B8%EA%B0%80-Python) <br>
 [2022/8/11 - [BaekJoon] 2712번 : 미국 스타일 (Python)](https://somjang.tistory.com/entry/BaekJoon-2712%EB%B2%88-%EB%AF%B8%EA%B5%AD-%EC%8A%A4%ED%83%80%EC%9D%BC-Python) <br>
-[2022/8/10 - [BaekJoon] 2028번 : 자기복제수 (Python)](https://somjang.tistory.com/entry/BaekJoon-2028%EB%B2%88-%EC%9E%90%EA%B8%B0%EB%B3%B5%EC%A0%9C%EC%88%98-Python) <br>
