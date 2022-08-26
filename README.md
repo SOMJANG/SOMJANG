@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/8/25 - [BaekJoon] 2999번 : 비밀 이메일 (Python)](https://somjang.tistory.com/entry/BaekJoon-2999%EB%B2%88-%EB%B9%84%EB%B0%80-%EC%9D%B4%EB%A9%94%EC%9D%BC-Python) <br>
 [2022/8/24 - [BaekJoon] 4714번 : Lunacy (Python)](https://somjang.tistory.com/entry/BaekJoon-4714%EB%B2%88-Lunacy-Python) <br>
 [2022/8/23 - [BaekJoon] 6778번 : Which Alien? (Python)](https://somjang.tistory.com/entry/BaekJoon-6778%EB%B2%88-Which-Alien-Python) <br>
 [2022/8/22 - [BaekJoon] 11784번 : Hex Code (Python)](https://somjang.tistory.com/entry/BaekJoon-11784%EB%B2%88-Hex-Code-Python) <br>
@@ -18,4 +19,3 @@
 [2022/8/21 - [BaekJoon] 15792번 : A/B - 2 (Python)](https://somjang.tistory.com/entry/BaekJoon-15792%EB%B2%88-AB-2-Python) <br>
 [2022/8/20 - [BaekJoon] 17202번 : 핸드폰 번호 궁합 (Python)](https://somjang.tistory.com/entry/baekjoon-17202-%ED%95%B8%EB%93%9C%ED%8F%B0-%EB%B2%88%ED%98%B8-%EA%B6%81%ED%95%A9-python) <br>
 [2022/8/18 - [BaekJoon] 4969번 : St. Ives (Python)](https://somjang.tistory.com/entry/BaekJoon-4969%EB%B2%88-St-Ives-Python) <br>
-[2022/8/16 - [BaekJoon] 24416번 : 알고리즘 수업 - 피보나치 수 1 (Python)](https://somjang.tistory.com/entry/BaekJoon-24416%EB%B2%88-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%88%98%EC%97%85-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98-1-Python) <br>
