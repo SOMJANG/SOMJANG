@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2022/8/28 - [BaekJoon] 1837번 : 암호제작 (Python)](https://somjang.tistory.com/entry/BaekJoon-1837%EB%B2%88-%EC%95%94%ED%98%B8%EC%A0%9C%EC%9E%91-Python) <br>
+[2022/8/28 - [BaekJoon] 23825번 : SASA 모형을 만들어보자 (Python)](https://somjang.tistory.com/entry/BaekJoon-23825%EB%B2%88-SASA-%EB%AA%A8%ED%98%95%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90-Python) <br>
 [2022/8/25 - [BaekJoon] 2999번 : 비밀 이메일 (Python)](https://somjang.tistory.com/entry/BaekJoon-2999%EB%B2%88-%EB%B9%84%EB%B0%80-%EC%9D%B4%EB%A9%94%EC%9D%BC-Python) <br>
 [2022/8/24 - [BaekJoon] 4714번 : Lunacy (Python)](https://somjang.tistory.com/entry/BaekJoon-4714%EB%B2%88-Lunacy-Python) <br>
 [2022/8/23 - [BaekJoon] 6778번 : Which Alien? (Python)](https://somjang.tistory.com/entry/BaekJoon-6778%EB%B2%88-Which-Alien-Python) <br>
@@ -17,5 +19,3 @@
 [2022/8/22 - [LEGO] 레고 30525 - The Guardians' Ship 폴리백 후기! - 가격, 구성, 조립 완성 모습 ( Feat. 레고 90주년 전시 )](https://somjang.tistory.com/entry/LEGO-%EB%A0%88%EA%B3%A0-30525-The-Guardians-Ship-%ED%8F%B4%EB%A6%AC%EB%B0%B1-%ED%9B%84%EA%B8%B0-%EA%B0%80%EA%B2%A9-%EA%B5%AC%EC%84%B1-%EC%A1%B0%EB%A6%BD-%EC%99%84%EC%84%B1-%EB%AA%A8%EC%8A%B5-Feat-%EB%A0%88%EA%B3%A0-90%EC%A3%BC%EB%85%84-%EC%A0%84%EC%8B%9C) <br>
 [2022/8/22 - [LEGO] 레고 76902 - SPEED CHAMPIONS McLaren Elva 후기! - 가격, 구성, 조립 시간, 조립 완성 모습](https://somjang.tistory.com/entry/LEGO-%EB%A0%88%EA%B3%A0-76902-SPEED-CHAMPIONS-McLaren-Elva-%ED%9B%84%EA%B8%B0-%EA%B0%80%EA%B2%A9-%EA%B5%AC%EC%84%B1-%EC%A1%B0%EB%A6%BD-%EC%8B%9C%EA%B0%84-%EC%A1%B0%EB%A6%BD-%EC%99%84%EC%84%B1-%EB%AA%A8%EC%8A%B5) <br>
 [2022/8/21 - [BaekJoon] 15792번 : A/B - 2 (Python)](https://somjang.tistory.com/entry/BaekJoon-15792%EB%B2%88-AB-2-Python) <br>
-[2022/8/20 - [BaekJoon] 17202번 : 핸드폰 번호 궁합 (Python)](https://somjang.tistory.com/entry/baekjoon-17202-%ED%95%B8%EB%93%9C%ED%8F%B0-%EB%B2%88%ED%98%B8-%EA%B6%81%ED%95%A9-python) <br>
-[2022/8/18 - [BaekJoon] 4969번 : St. Ives (Python)](https://somjang.tistory.com/entry/BaekJoon-4969%EB%B2%88-St-Ives-Python) <br>
