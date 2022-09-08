@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/9/7 - [BaekJoon] 4740번 : 거울, 오! 거울 (Python)](https://somjang.tistory.com/entry/BaekJoon-4740%EB%B2%88-%EA%B1%B0%EC%9A%B8-%EC%98%A4-%EA%B1%B0%EC%9A%B8-Python) <br>
 [2022/9/5 - [BaekJoon] 6764번 : Sounds fishy! (Python)](https://somjang.tistory.com/entry/BaekJoon-6764%EB%B2%88-Sounds-fishy-Python) <br>
 [2022/9/5 - [대전/대흥동 카페 추천] 카페사나고 - 아이들과 놀러가기 좋은 카페! - 위치, 영업시간, 메뉴, 가격 ( feat. 피카피카피카츄! )](https://somjang.tistory.com/entry/%EB%8C%80%EC%A0%84%EB%8C%80%ED%9D%A5%EB%8F%99-%EC%B9%B4%ED%8E%98-%EC%B6%94%EC%B2%9C-%EC%B9%B4%ED%8E%98%EC%82%AC%EB%82%98%EA%B3%A0-%EC%95%84%EC%9D%B4%EB%93%A4%EA%B3%BC-%EB%86%80%EB%9F%AC%EA%B0%80%EA%B8%B0-%EC%A2%8B%EC%9D%80-%EC%B9%B4%ED%8E%98-%EC%9C%84%EC%B9%98-%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9-feat-%ED%94%BC%EC%B9%B4%ED%94%BC%EC%B9%B4%ED%94%BC%EC%B9%B4%EC%B8%84) <br>
 [2022/9/5 - [BaekJoon] 2547번 : 사탕 선생 고창영 (Python)](https://somjang.tistory.com/entry/BaekJoon-2547%EB%B2%88-%EC%82%AC%ED%83%95-%EC%84%A0%EC%83%9D-%EA%B3%A0%EC%B0%BD%EC%98%81-Python) <br>
@@ -18,4 +19,3 @@
 [2022/9/3 - [BaekJoon] 24262번 : 알고리즘 수업 - 알고리즘의 수행 시간 1 (Python)](https://somjang.tistory.com/entry/BaekJoon-24262%EB%B2%88-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%88%98%EC%97%85-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98-%EC%88%98%ED%96%89-%EC%8B%9C%EA%B0%84-1-Python) <br>
 [2022/9/2 - [BaekJoon] 3733번 : Shares (Python)](https://somjang.tistory.com/entry/BaekJoon-3733%EB%B2%88-Shares-Python) <br>
 [2022/8/31 - [BaekJoon] 5361번 : 전투 드로이드 가격 (Pyhton)](https://somjang.tistory.com/entry/BaekJoon-5361%EB%B2%88-%EC%A0%84%ED%88%AC-%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%80%EA%B2%A9-Pyhton) <br>
-[2022/8/30 - [BaekJoon] 1718번 : 암호 (Python)](https://somjang.tistory.com/entry/BaekJoon-1718-%EC%95%94%ED%98%B8-python) <br>
