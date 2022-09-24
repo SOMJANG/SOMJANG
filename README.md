@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/9/23 - [BaekJoon] 25591번 : 푸앙이와 종윤이 (Python)](https://somjang.tistory.com/entry/BaekJoon-25591%EB%B2%88-%ED%91%B8%EC%95%99%EC%9D%B4%EC%99%80-%EC%A2%85%EC%9C%A4%EC%9D%B4-Python) <br>
 [2022/9/22 - [BaekJoon] 2355번 : 시그마 (Python)](https://somjang.tistory.com/entry/BaekJoon-2355%EB%B2%88-%EC%8B%9C%EA%B7%B8%EB%A7%88-Python) <br>
 [2022/9/21 - [BaekJoon] 25305번 : 커트라인 (Python)](https://somjang.tistory.com/entry/BaekJoon-25305%EB%B2%88-%EC%BB%A4%ED%8A%B8%EB%9D%BC%EC%9D%B8-Python) <br>
 [2022/9/20 - [BaekJoon] 20949번 : 효정과 새 모니터 (Python)](https://somjang.tistory.com/entry/BaekJoon-20949%EB%B2%88-%ED%9A%A8%EC%A0%95%EA%B3%BC-%EC%83%88-%EB%AA%A8%EB%8B%88%ED%84%B0-Python) <br>
@@ -18,4 +19,3 @@
 [2022/9/15 - [Docker] Apache Tomcat 8.5 에서 java war 파일 배포하는 방법!](https://somjang.tistory.com/entry/Docker-Apache-Tomcat-85-%EC%97%90%EC%84%9C-java-war-%ED%8C%8C%EC%9D%BC-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) <br>
 [2022/9/15 - [BaekJoon] 25325번 : 학생 인기도 측정 (Python)](https://somjang.tistory.com/entry/BaekJoon-25325%EB%B2%88-%ED%95%99%EC%83%9D-%EC%9D%B8%EA%B8%B0%EB%8F%84-%EC%B8%A1%EC%A0%95-Python) <br>
 [2022/9/14 - [Python] 파일을 생성하고 삭제하는 다양한 방법! ( open / os / pathlib )](https://somjang.tistory.com/entry/Python-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%83%9D%EC%84%B1%ED%95%98%EA%B3%A0-%EC%82%AD%EC%A0%9C%ED%95%98%EB%8A%94-%EB%8B%A4%EC%96%91%ED%95%9C-%EB%B0%A9%EB%B2%95-os-open-pathlib) <br>
-[2022/9/14 - [BaekJoon] 25206번 : 너의 평점은 (Python)](https://somjang.tistory.com/entry/BaekJoon-25206%EB%B2%88-%EB%84%88%EC%9D%98-%ED%8F%89%EC%A0%90%EC%9D%80-Python) <br>
