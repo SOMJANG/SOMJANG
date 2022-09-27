@@ -8,6 +8,9 @@
 
 🤩 Latest Blog Post
 
+[2022/9/26 - [LEGO] 레고 76181 - 배트모빌™: 펭귄™ 추격전 후기! - 가격, 구성, 브릭수, 조립시간, 조립 완성 모습](https://somjang.tistory.com/entry/LEGO-%EB%A0%88%EA%B3%A0-76181-%EB%B0%B0%ED%8A%B8%EB%AA%A8%EB%B9%8C%E2%84%A2-%ED%8E%AD%EA%B7%84%E2%84%A2-%EC%B6%94%EA%B2%A9%EC%A0%84-%ED%9B%84%EA%B8%B0-%EA%B0%80%EA%B2%A9-%EA%B5%AC%EC%84%B1-%EB%B8%8C%EB%A6%AD%EC%88%98-%EC%A1%B0%EB%A6%BD%EC%8B%9C%EA%B0%84-%EC%A1%B0%EB%A6%BD-%EC%99%84%EC%84%B1-%EB%AA%A8%EC%8A%B5) <br>
+[2022/9/26 - [BaekJoon] 9243번 : 파일 완전 삭제 (Python)](https://somjang.tistory.com/entry/BaekJoon-9243%EB%B2%88-%ED%8C%8C%EC%9D%BC-%EC%99%84%EC%A0%84-%EC%82%AD%EC%A0%9C-Python) <br>
+[2022/9/26 - [GS25] 편스토랑 우승상품! - 이찬원의 진또배기 마늘계란프라이 짜장밥 솔직후기! - 판매처, 가격, 맛! ( feat. 생수 증정 이벤트! )](https://somjang.tistory.com/entry/GS25-%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91-%EC%9A%B0%EC%8A%B9%EC%83%81%ED%92%88-%EC%9D%B4%EC%B0%AC%EC%9B%90%EC%9D%98-%EC%A7%84%EB%98%90%EB%B0%B0%EA%B8%B0-%EB%A7%88%EB%8A%98%EA%B3%84%EB%9E%80%ED%94%84%EB%9D%BC%EC%9D%B4-%EC%A7%9C%EC%9E%A5%EB%B0%A5-%EC%86%94%EC%A7%81%ED%9B%84%EA%B8%B0-%ED%8C%90%EB%A7%A4%EC%B2%98-%EA%B0%80%EA%B2%A9-%EB%A7%9B-feat-%EC%83%9D%EC%88%98-%EC%A6%9D%EC%A0%95-%EC%9D%B4%EB%B2%A4%ED%8A%B8) <br>
 [2022/9/25 - [BaekJoon] 15270번 : 카우버거 (Python)](https://somjang.tistory.com/entry/BaekJoon-15270%EB%B2%88-%EC%B9%B4%EC%9A%B0%EB%B2%84%EA%B1%B0-Python) <br>
 [2022/9/23 - [BaekJoon] 25591번 : 푸앙이와 종윤이 (Python)](https://somjang.tistory.com/entry/BaekJoon-25591%EB%B2%88-%ED%91%B8%EC%95%99%EC%9D%B4%EC%99%80-%EC%A2%85%EC%9C%A4%EC%9D%B4-Python) <br>
 [2022/9/22 - [BaekJoon] 2355번 : 시그마 (Python)](https://somjang.tistory.com/entry/BaekJoon-2355%EB%B2%88-%EC%8B%9C%EA%B7%B8%EB%A7%88-Python) <br>
@@ -16,6 +19,3 @@
 [2022/9/19 - [BaekJoon] 21866번 : 추첨을 통해 커피를 받자 (Python)](https://somjang.tistory.com/entry/BaekJoon-21866%EB%B2%88-%EC%B6%94%EC%B2%A8%EC%9D%84-%ED%86%B5%ED%95%B4-%EC%BB%A4%ED%94%BC%EB%A5%BC-%EB%B0%9B%EC%9E%90-Python) <br>
 [2022/9/18 - [BaekJoon] 21964번 : 선린인터넷고등학교 교가 (Python)](https://somjang.tistory.com/entry/baekjoon-21964-%EC%84%A0%EB%A6%B0%EC%9D%B8%ED%84%B0%EB%84%B7%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90-%EA%B5%90%EA%B0%80-python) <br>
 [2022/9/17 - [BaekJoon] 20953번 : 고고학자 예린 (Python)](https://somjang.tistory.com/entry/BaekJoon-20953%EB%B2%88-%EA%B3%A0%EA%B3%A0%ED%95%99%EC%9E%90-%EC%98%88%EB%A6%B0-Python) <br>
-[2022/9/16 - [BaekJoon] 15702번 : 중간고사 채점 (Python)](https://somjang.tistory.com/entry/BaekJoon-15702%EB%B2%88-%EC%A4%91%EA%B0%84%EA%B3%A0%EC%82%AC-%EC%B1%84%EC%A0%90-Python) <br>
-[2022/9/15 - [Docker] Apache Tomcat 8.5 에서 java war 파일 배포하는 방법!](https://somjang.tistory.com/entry/Docker-Apache-Tomcat-85-%EC%97%90%EC%84%9C-java-war-%ED%8C%8C%EC%9D%BC-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) <br>
-[2022/9/15 - [BaekJoon] 25325번 : 학생 인기도 측정 (Python)](https://somjang.tistory.com/entry/BaekJoon-25325%EB%B2%88-%ED%95%99%EC%83%9D-%EC%9D%B8%EA%B8%B0%EB%8F%84-%EC%B8%A1%EC%A0%95-Python) <br>
