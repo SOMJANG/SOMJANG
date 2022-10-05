@@ -8,6 +8,9 @@
 
 🤩 Latest Blog Post
 
+[2022/10/4 - [BaekJoon] 25703번 : 포인터 공부 (Python)](https://somjang.tistory.com/entry/BaekJoon-25703%EB%B2%88-%ED%8F%AC%EC%9D%B8%ED%84%B0-%EA%B3%B5%EB%B6%80-Python) <br>
+[2022/10/4 - [LEGO] 레고 40517 - Vespa 후기! - 가격, 구성, 브릭수, 조립시간, 조립 완성 모습](https://somjang.tistory.com/entry/LEGO-%EB%A0%88%EA%B3%A0-40517-Vespa-%ED%9B%84%EA%B8%B0-%EA%B0%80%EA%B2%A9-%EA%B5%AC%EC%84%B1-%EB%B8%8C%EB%A6%AD%EC%88%98-%EC%A1%B0%EB%A6%BD%EC%8B%9C%EA%B0%84-%EC%A1%B0%EB%A6%BD-%EC%99%84%EC%84%B1-%EB%AA%A8%EC%8A%B5) <br>
+[2022/10/4 - [BaekJoon] 24544번 : 카카오뷰 큐레이팅 효용성 분석 (Python)](https://somjang.tistory.com/entry/BaekJoon-24544%EB%B2%88-%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B7%B0-%ED%81%90%EB%A0%88%EC%9D%B4%ED%8C%85-%ED%9A%A8%EC%9A%A9%EC%84%B1-%EB%B6%84%EC%84%9D-Python) <br>
 [2022/10/3 - [BaekJoon] 25704번 : 출석 이벤트 (Python)](https://somjang.tistory.com/entry/BaekJoon-25704%EB%B2%88-%EC%B6%9C%EC%84%9D-%EC%9D%B4%EB%B2%A4%ED%8A%B8-Python) <br>
 [2022/10/2 - [BaekJoon] 25628번 : 햄버거 만들기 (Python)](https://somjang.tistory.com/entry/BaekJoon-25628%EB%B2%88-%ED%96%84%EB%B2%84%EA%B1%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0-Python) <br>
 [2022/10/1 - [BaekJoon] 25640번 : MBTI (Python)](https://somjang.tistory.com/entry/BaekJoon-25640%EB%B2%88-MBTI-Python) <br>
@@ -16,6 +19,3 @@
 [2022/9/29 - [Python] 파이썬에서 java 라이브러리를 사용하는 방법! ( feat. Google-json jar 파일 )](https://somjang.tistory.com/entry/Python-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%97%90%EC%84%9C-java-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-feat-Google-json-jar-%ED%8C%8C%EC%9D%BC) <br>
 [2022/9/29 - [BaekJoon] 13241번 : 최소공배수 (Python)](https://somjang.tistory.com/entry/BaekJoon-13241%EB%B2%88-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98-Python) <br>
 [2022/9/29 - [LEGO] 레고 76906 - SPEED CHAMPIONS 1970 Ferrari 512 M 후기! - 가격, 구성, 브릭수, 조립 시간, 조립 완성 모습](https://somjang.tistory.com/entry/LEGO-%EB%A0%88%EA%B3%A0-76906-SPEED-CHAMPIONS-1970-Ferrari-512-M-%ED%9B%84%EA%B8%B0-%EA%B0%80%EA%B2%A9-%EA%B5%AC%EC%84%B1-%EB%B8%8C%EB%A6%AD%EC%88%98-%EC%A1%B0%EB%A6%BD-%EC%8B%9C%EA%B0%84-%EC%A1%B0%EB%A6%BD-%EC%99%84%EC%84%B1-%EB%AA%A8%EC%8A%B5) <br>
-[2022/9/28 - [BaekJoon] 18883번 : N M 찍기 (Python)](https://somjang.tistory.com/entry/BaekJoon-18883%EB%B2%88-N-M-%EC%B0%8D%EA%B8%B0-Python) <br>
-[2022/9/27 - [BaekJoon] 25166번 : 배고픈 아리의 샌드위치 구매하기 (Python)](https://somjang.tistory.com/entry/BaekJoon-25166%EB%B2%88-%EB%B0%B0%EA%B3%A0%ED%94%88-%EC%95%84%EB%A6%AC%EC%9D%98-%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98-%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0-Python) <br>
-[2022/9/26 - [LEGO] 레고 76181 - 배트모빌™: 펭귄™ 추격전 후기! - 가격, 구성, 브릭수, 조립시간, 조립 완성 모습](https://somjang.tistory.com/entry/LEGO-%EB%A0%88%EA%B3%A0-76181-%EB%B0%B0%ED%8A%B8%EB%AA%A8%EB%B9%8C%E2%84%A2-%ED%8E%AD%EA%B7%84%E2%84%A2-%EC%B6%94%EA%B2%A9%EC%A0%84-%ED%9B%84%EA%B8%B0-%EA%B0%80%EA%B2%A9-%EA%B5%AC%EC%84%B1-%EB%B8%8C%EB%A6%AD%EC%88%98-%EC%A1%B0%EB%A6%BD%EC%8B%9C%EA%B0%84-%EC%A1%B0%EB%A6%BD-%EC%99%84%EC%84%B1-%EB%AA%A8%EC%8A%B5) <br>
