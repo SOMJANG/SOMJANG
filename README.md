@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/10/13 - [BaekJoon] 11943번 : 파일 옮기기 (Python)](https://somjang.tistory.com/entry/BaekJoon-11943%EB%B2%88-%ED%8C%8C%EC%9D%BC-%EC%98%AE%EA%B8%B0%EA%B8%B0-Python) <br>
 [2022/10/12 - [BaekJoon] 8871번 : Zadanie próbne 2 (Python)](https://somjang.tistory.com/entry/BaekJoon-8871%EB%B2%88-Zadanie-pr%C3%B3bne-2-Python) <br>
 [2022/10/11 - [LEGO] 레고 30434 - SPEED CHAMPIONS Aston Martin Valkyrie AMR Pro 후기! - 가격, 구성, 조립](https://somjang.tistory.com/entry/LEGO-%EB%A0%88%EA%B3%A0-30434-SPEED-CHAMPIONS-Aston-Martin-Valkyrie-AMR-Pro-%ED%9B%84%EA%B8%B0-%EA%B0%80%EA%B2%A9-%EA%B5%AC%EC%84%B1-%EC%A1%B0%EB%A6%BD) <br>
 [2022/10/11 - [BaekJoon] 24309번 : РАВЕНСТВО (Python)](https://somjang.tistory.com/entry/BaekJoon-24309%EB%B2%88-%D0%A0%D0%90%D0%92%D0%95%D0%9D%D0%A1%D0%A2%D0%92%D0%9E-Python) <br>
@@ -18,4 +19,3 @@
 [2022/10/8 - [BaekJoon] 24082번 : 立方体 (Cube) (Python)](https://somjang.tistory.com/entry/BaekJoon-24082%EB%B2%88-%E7%AB%8B%E6%96%B9%E4%BD%93-Cube-Python) <br>
 [2022/10/7 - [BaekJoon] 24086번 : 身長 (Height) (Python)](https://somjang.tistory.com/entry/BaekJoon-24086%EB%B2%88-%E8%BA%AB%E9%95%B7-Height-Python) <br>
 [2022/10/6 - [BaekJoon] 24078번 : 余り (Remainder) (Python)](https://somjang.tistory.com/entry/BaekJoon-24078%EB%B2%88-%E4%BD%99%E3%82%8A-Remainder-Python) <br>
-[2022/10/4 - [BaekJoon] 25703번 : 포인터 공부 (Python)](https://somjang.tistory.com/entry/BaekJoon-25703%EB%B2%88-%ED%8F%AC%EC%9D%B8%ED%84%B0-%EA%B3%B5%EB%B6%80-Python) <br>
