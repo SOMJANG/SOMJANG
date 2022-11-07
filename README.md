@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/11/6 - [BaekJoon] 11536번 : 줄 세우기 (Python)](https://somjang.tistory.com/entry/BaekJoon-11536%EB%B2%88-%EC%A4%84-%EC%84%B8%EC%9A%B0%EA%B8%B0-Python) <br>
 [2022/11/5 - [BaekJoon] 23235번 : The Fastest Sorting Algorithm In The World (Python)](https://somjang.tistory.com/entry/BaekJoon-23235%EB%B2%88-The-Fastest-Sorting-Algorithm-In-The-World-Python) <br>
 [2022/11/4 - [Python] MissingSchema: Invalid URL : No scheme supplied. Perhaps you meant 원인과 해결방법! ( feat. requests )](https://somjang.tistory.com/entry/Python-MissingSchema-Invalid-URL-No-scheme-supplied-Perhaps-you-meant-%EC%9B%90%EC%9D%B8%EA%B3%BC-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95-feat-requests) <br>
 [2022/11/4 - [BaekJoon] 15080번 : Every Second Counts (Python)](https://somjang.tistory.com/entry/BaekJoon-15080%EB%B2%88-Every-Second-Counts-Python) <br>
@@ -18,4 +19,3 @@
 [2022/10/30 - [BaekJoon] 24745번 : Morse Code Palindromes (Python)](https://somjang.tistory.com/entry/BaekJoon-24745%EB%B2%88-Morse-Code-Palindromes-Python) <br>
 [2022/10/29 - [Python] pandas 0으로 시작하는 값에서 0을 살려서 read 하는 방법! ( feat. pandas dtype )](https://somjang.tistory.com/entry/Python-pandas-0%EC%9C%BC%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EA%B0%92%EC%97%90%EC%84%9C-0%EC%9D%84-%EC%82%B4%EB%A0%A4%EC%84%9C-read-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) <br>
 [2022/10/29 - [BaekJoon] 25893번 : Majestic 10 (Python)](https://somjang.tistory.com/entry/BaekJoon-25893%EB%B2%88-Majestic-10-Python) <br>
-[2022/10/29 - [Python] M1 Mac PyMuPDF 설치 방법 ( feat. brew )](https://somjang.tistory.com/entry/Python-M1-Mac-PyMuPDF-%EC%84%A4%EC%B9%98-%EB%B0%A9%EB%B2%95-feat-brew) <br>
