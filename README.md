@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2022/11/11 - [GS25] 편스토랑 우승상품! - 어남선생 마늘굽닭 솔직 후기! - 판매처, 가격, 맛!](https://somjang.tistory.com/entry/GS25-%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91-%EC%9A%B0%EC%8A%B9%EC%83%81%ED%92%88-%EC%96%B4%EB%82%A8%EC%84%A0%EC%83%9D-%EB%A7%88%EB%8A%98%EA%B5%BD%EB%8B%AD-%EC%86%94%EC%A7%81-%ED%9B%84%EA%B8%B0-%ED%8C%90%EB%A7%A4%EC%B2%98-%EA%B0%80%EA%B2%A9-%EB%A7%9B) <br>
+[2022/11/11 - [BaekJoon] 11006번 : 남욱이의 닭장 (Python)](https://somjang.tistory.com/entry/BaekJoon-11006%EB%B2%88-%EB%82%A8%EC%9A%B1%EC%9D%B4%EC%9D%98-%EB%8B%AD%EC%9E%A5-Python) <br>
 [2022/11/10 - [BaekJoon] 17206번 : 준석이의 수학 숙제 (Python)](https://somjang.tistory.com/entry/BaekJoon-17206%EB%B2%88-%EC%A4%80%EC%84%9D%EC%9D%B4%EC%9D%98-%EC%88%98%ED%95%99-%EC%88%99%EC%A0%9C-Python) <br>
 [2022/11/10 - [원주 단구동 맛집] 까치둥지 - 쯔양도 인정한 뜨끈한 원주 제일의 알탕이 있는 곳! - 위치, 주차, 영업시간, 웨이팅, 메뉴, 가격](https://somjang.tistory.com/entry/%EC%9B%90%EC%A3%BC-%EB%8B%A8%EA%B5%AC%EB%8F%99-%EB%A7%9B%EC%A7%91-%EA%B9%8C%EC%B9%98%EB%91%A5%EC%A7%80-%EC%AF%94%EC%96%91%EB%8F%84-%EC%9D%B8%EC%A0%95%ED%95%9C-%EB%9C%A8%EB%81%88%ED%95%9C-%EC%9B%90%EC%A3%BC-%EC%A0%9C%EC%9D%BC%EC%9D%98-%EC%95%8C%ED%83%95%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B3%B3-%EC%9C%84%EC%B9%98-%EC%A3%BC%EC%B0%A8-%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84-%EC%9B%A8%EC%9D%B4%ED%8C%85-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9) <br>
 [2022/11/9 - [BaekJoon] 24405번 : Eye of Sauron (Python)](https://somjang.tistory.com/entry/BaekJoon-24405%EB%B2%88-Eye-of-Sauron-Python) <br>
@@ -17,5 +19,3 @@
 [2022/11/6 - [BaekJoon] 11536번 : 줄 세우기 (Python)](https://somjang.tistory.com/entry/BaekJoon-11536%EB%B2%88-%EC%A4%84-%EC%84%B8%EC%9A%B0%EA%B8%B0-Python) <br>
 [2022/11/5 - [BaekJoon] 23235번 : The Fastest Sorting Algorithm In The World (Python)](https://somjang.tistory.com/entry/BaekJoon-23235%EB%B2%88-The-Fastest-Sorting-Algorithm-In-The-World-Python) <br>
 [2022/11/4 - [Python] MissingSchema: Invalid URL : No scheme supplied. Perhaps you meant 원인과 해결방법! ( feat. requests )](https://somjang.tistory.com/entry/Python-MissingSchema-Invalid-URL-No-scheme-supplied-Perhaps-you-meant-%EC%9B%90%EC%9D%B8%EA%B3%BC-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95-feat-requests) <br>
-[2022/11/4 - [BaekJoon] 15080번 : Every Second Counts (Python)](https://somjang.tistory.com/entry/BaekJoon-15080%EB%B2%88-Every-Second-Counts-Python) <br>
-[2022/11/3 - [BaekJoon] 24263번 : 알고리즘 수업 - 알고리즘의 수행 시간 2 (Python)](https://somjang.tistory.com/entry/BaekJoon-24263%EB%B2%88-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%88%98%EC%97%85-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98-%EC%88%98%ED%96%89-%EC%8B%9C%EA%B0%84-2-Python) <br>
