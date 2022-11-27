@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/11/26 - [BaekJoon] 24389번 : 2의 보수 (Python)](https://somjang.tistory.com/entry/BaekJoon-24389%EB%B2%88-2%EC%9D%98-%EB%B3%B4%EC%88%98-Python) <br>
 [2022/11/25 - [BaekJoon] 24608번 : Average Character (Python)](https://somjang.tistory.com/entry/BaekJoon-24608%EB%B2%88-Average-Character-Python) <br>
 [2022/11/24 - [BaekJoon] 25773번 : Number Maximization (Python)](https://somjang.tistory.com/entry/BaekJoon-25773%EB%B2%88-Number-Maximization-Python) <br>
 [2022/11/22 - [BaekJoon] 25859번 : Sort by Frequency (Python)](https://somjang.tistory.com/entry/BaekJoon-25859%EB%B2%88-Sort-by-Frequency-Python) <br>
@@ -18,4 +19,3 @@
 [2022/11/18 - [BaekJoon] 21567번 : 숫자의 개수 2 (Python)](https://somjang.tistory.com/entry/BaekJoon-21567%EB%B2%88-%EC%88%AB%EC%9E%90%EC%9D%98-%EA%B0%9C%EC%88%98-2-Python) <br>
 [2022/11/17 - [BaekJoon] 9948번 : Have you had your birthday yet? (Python)](https://somjang.tistory.com/entry/BaekJoon-9948%EB%B2%88-Have-you-had-your-birthday-yet-Python) <br>
 [2022/11/16 - [BaekJoon] 6763번 : Speed fines are not fine! (Python)](https://somjang.tistory.com/entry/BaekJoon-6763%EB%B2%88-Speed-fines-are-not-fine-Python) <br>
-[2022/11/15 - [BaekJoon] 21612번 : Boiling Water (Python)](https://somjang.tistory.com/entry/BaekJoon-21612%EB%B2%88-Boiling-Water-Python) <br>
