@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/11/28 - [BaekJoon] 18398번 : HOMWRK (Python)](https://somjang.tistory.com/entry/BaekJoon-18398%EB%B2%88-HOMWRK-Python) <br>
 [2022/11/27 - [BaekJoon] 25955번 : APC는 쉬운 난이도 순일까, 아닐까? (Python)](https://somjang.tistory.com/entry/BaekJoon-25955%EB%B2%88-APC%EB%8A%94-%EC%89%AC%EC%9A%B4-%EB%82%9C%EC%9D%B4%EB%8F%84-%EC%88%9C%EC%9D%BC%EA%B9%8C-%EC%95%84%EB%8B%90%EA%B9%8C-Python) <br>
 [2022/11/26 - [BaekJoon] 24389번 : 2의 보수 (Python)](https://somjang.tistory.com/entry/BaekJoon-24389%EB%B2%88-2%EC%9D%98-%EB%B3%B4%EC%88%98-Python) <br>
 [2022/11/25 - [BaekJoon] 24608번 : Average Character (Python)](https://somjang.tistory.com/entry/BaekJoon-24608%EB%B2%88-Average-Character-Python) <br>
@@ -18,4 +19,3 @@
 [2022/11/20 - [BaekJoon] 6324번 : URLs (Python)](https://somjang.tistory.com/entry/BaekJoon-6324%EB%B2%88-URLs-Python) <br>
 [2022/11/19 - [BaekJoon] 26040번 : 특정 대문자를 소문자로 바꾸기 (Python)](https://somjang.tistory.com/entry/BaekJoon-26040%EB%B2%88-%ED%8A%B9%EC%A0%95-%EB%8C%80%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%86%8C%EB%AC%B8%EC%9E%90%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0-Python) <br>
 [2022/11/18 - [BaekJoon] 21567번 : 숫자의 개수 2 (Python)](https://somjang.tistory.com/entry/BaekJoon-21567%EB%B2%88-%EC%88%AB%EC%9E%90%EC%9D%98-%EA%B0%9C%EC%88%98-2-Python) <br>
-[2022/11/17 - [BaekJoon] 9948번 : Have you had your birthday yet? (Python)](https://somjang.tistory.com/entry/BaekJoon-9948%EB%B2%88-Have-you-had-your-birthday-yet-Python) <br>
