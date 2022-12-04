@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/12/3 - [BaekJoon] 25756번 : 방어율 무시 계산하기 (Python)](https://somjang.tistory.com/entry/BaekJoon-25756%EB%B2%88-%EB%B0%A9%EC%96%B4%EC%9C%A8-%EB%AC%B4%EC%8B%9C-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0-Python) <br>
 [2022/12/2 - [BaekJoon] 26082번 : WARBOY (Python)](https://somjang.tistory.com/entry/BaekJoon-26082%EB%B2%88-WARBOY-Python) <br>
 [2022/12/1 - [BaekJoon] 14495번 : 피보나치 비스무리한 수열 (Python)](https://somjang.tistory.com/entry/BaekJoon-14495%EB%B2%88-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EB%B9%84%EC%8A%A4%EB%AC%B4%EB%A6%AC%ED%95%9C-%EC%88%98%EC%97%B4-Python) <br>
 [2022/11/30 - [BaekJoon] 18408번 : 3 つの整数 (Three Integers) (Python)](https://somjang.tistory.com/entry/BaekJoon-18408%EB%B2%88-3-%E3%81%A4%E3%81%AE%E6%95%B4%E6%95%B0-Three-Integers-Python) <br>
@@ -18,4 +19,3 @@
 [2022/11/25 - [BaekJoon] 24608번 : Average Character (Python)](https://somjang.tistory.com/entry/BaekJoon-24608%EB%B2%88-Average-Character-Python) <br>
 [2022/11/24 - [BaekJoon] 25773번 : Number Maximization (Python)](https://somjang.tistory.com/entry/BaekJoon-25773%EB%B2%88-Number-Maximization-Python) <br>
 [2022/11/22 - [BaekJoon] 25859번 : Sort by Frequency (Python)](https://somjang.tistory.com/entry/BaekJoon-25859%EB%B2%88-Sort-by-Frequency-Python) <br>
-[2022/11/21 - [BaekJoon] 25785번 : Easy-to-Pronounce Words (Python)](https://somjang.tistory.com/entry/BaekJoon-25785%EB%B2%88-Easy-to-Pronounce-Words-Python) <br>
