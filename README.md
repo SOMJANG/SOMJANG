@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/12/7 - [BaekJoon] 23804번 : 골뱅이 찍기 - ㄷ (Python)](https://somjang.tistory.com/entry/BaekJoon-23804%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%E3%84%B7-Python) <br>
 [2022/12/6 - [BaekJoon] 23803번 : 골뱅이 찍기 - ㄴ (Python)](https://somjang.tistory.com/entry/BaekJoon-23803%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%E3%84%B4-Python) <br>
 [2022/12/5 - [BaekJoon] 23802번 : 골뱅이 찍기 - 뒤집힌 ㄱ (Python)](https://somjang.tistory.com/entry/BaekJoon-23802%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%EB%92%A4%EC%A7%91%ED%9E%8C-%E3%84%B1-Python) <br>
 [2022/12/4 - [BaekJoon] 23794번 : 골뱅이 찍기 - 정사각형 (Python)](https://somjang.tistory.com/entry/BaekJoon-23794%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95-Python) <br>
@@ -18,4 +19,3 @@
 [2022/11/29 - [BaekJoon] 1340번 : 연도 진행바 (Python)](https://somjang.tistory.com/entry/BaekJoon-1340%EB%B2%88-%EC%97%B0%EB%8F%84-%EC%A7%84%ED%96%89%EB%B0%94-Python) <br>
 [2022/11/28 - [BaekJoon] 18398번 : HOMWRK (Python)](https://somjang.tistory.com/entry/BaekJoon-18398%EB%B2%88-HOMWRK-Python) <br>
 [2022/11/27 - [BaekJoon] 25955번 : APC는 쉬운 난이도 순일까, 아닐까? (Python)](https://somjang.tistory.com/entry/BaekJoon-25955%EB%B2%88-APC%EB%8A%94-%EC%89%AC%EC%9A%B4-%EB%82%9C%EC%9D%B4%EB%8F%84-%EC%88%9C%EC%9D%BC%EA%B9%8C-%EC%95%84%EB%8B%90%EA%B9%8C-Python) <br>
-[2022/11/26 - [BaekJoon] 24389번 : 2의 보수 (Python)](https://somjang.tistory.com/entry/BaekJoon-24389%EB%B2%88-2%EC%9D%98-%EB%B3%B4%EC%88%98-Python) <br>
