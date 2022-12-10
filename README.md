@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/12/9 - [BaekJoon] 25814번 : Heavy Numbers (Python)](https://somjang.tistory.com/entry/BaekJoon-25814%EB%B2%88-Heavy-Numbers-Python) <br>
 [2022/12/8 - [BaekJoon] 23805번 : 골뱅이 찍기 - 돌아간 ㄹ (Python)](https://somjang.tistory.com/entry/BaekJoon-23805%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%EB%8F%8C%EC%95%84%EA%B0%84-%E3%84%B9-Python) <br>
 [2022/12/7 - [BaekJoon] 23804번 : 골뱅이 찍기 - ㄷ (Python)](https://somjang.tistory.com/entry/BaekJoon-23804%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%E3%84%B7-Python) <br>
 [2022/12/6 - [BaekJoon] 23803번 : 골뱅이 찍기 - ㄴ (Python)](https://somjang.tistory.com/entry/BaekJoon-23803%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%E3%84%B4-Python) <br>
@@ -18,4 +19,3 @@
 [2022/12/1 - [BaekJoon] 14495번 : 피보나치 비스무리한 수열 (Python)](https://somjang.tistory.com/entry/BaekJoon-14495%EB%B2%88-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EB%B9%84%EC%8A%A4%EB%AC%B4%EB%A6%AC%ED%95%9C-%EC%88%98%EC%97%B4-Python) <br>
 [2022/11/30 - [BaekJoon] 18408번 : 3 つの整数 (Three Integers) (Python)](https://somjang.tistory.com/entry/BaekJoon-18408%EB%B2%88-3-%E3%81%A4%E3%81%AE%E6%95%B4%E6%95%B0-Three-Integers-Python) <br>
 [2022/11/29 - [BaekJoon] 1340번 : 연도 진행바 (Python)](https://somjang.tistory.com/entry/BaekJoon-1340%EB%B2%88-%EC%97%B0%EB%8F%84-%EC%A7%84%ED%96%89%EB%B0%94-Python) <br>
-[2022/11/28 - [BaekJoon] 18398번 : HOMWRK (Python)](https://somjang.tistory.com/entry/BaekJoon-18398%EB%B2%88-HOMWRK-Python) <br>
