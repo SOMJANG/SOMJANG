@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/12/18 - [BaekJoon] 26489번 : Gum Gum for Jay Jay (Python)](https://somjang.tistory.com/entry/BaekJoon-26489%EB%B2%88-Gum-Gum-for-Jay-Jay-Python) <br>
 [2022/12/16 - [BaekJoon] 6840번 : Who is in the middle? (Python)](https://somjang.tistory.com/entry/BaekJoon-6840%EB%B2%88-Who-is-in-the-middle-Python) <br>
 [2022/12/15 - [BaekJoon] 26307번 : Correct (Python)](https://somjang.tistory.com/entry/BaekJoon-26307%EB%B2%88-Correct-Python) <br>
 [2022/12/14 - [BaekJoon] 2033번 : 반올림 (Python)](https://somjang.tistory.com/entry/BaekJoon-2033%EB%B2%88-%EB%B0%98%EC%98%AC%EB%A6%BC-Python) <br>
@@ -18,4 +19,3 @@
 [2022/12/9 - [BaekJoon] 25814번 : Heavy Numbers (Python)](https://somjang.tistory.com/entry/BaekJoon-25814%EB%B2%88-Heavy-Numbers-Python) <br>
 [2022/12/8 - [BaekJoon] 23805번 : 골뱅이 찍기 - 돌아간 ㄹ (Python)](https://somjang.tistory.com/entry/BaekJoon-23805%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%EB%8F%8C%EC%95%84%EA%B0%84-%E3%84%B9-Python) <br>
 [2022/12/7 - [BaekJoon] 23804번 : 골뱅이 찍기 - ㄷ (Python)](https://somjang.tistory.com/entry/BaekJoon-23804%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%E3%84%B7-Python) <br>
-[2022/12/6 - [BaekJoon] 23803번 : 골뱅이 찍기 - ㄴ (Python)](https://somjang.tistory.com/entry/BaekJoon-23803%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%E3%84%B4-Python) <br>
