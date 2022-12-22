@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/12/21 - [BaekJoon] 26545번 : Mathematics (Python)](https://somjang.tistory.com/entry/BaekJoon-26545%EB%B2%88-Mathematics-Python) <br>
 [2022/12/20 - [BaekJoon] 5358번 : Football Team (Python)](https://somjang.tistory.com/entry/BaekJoon-5358%EB%B2%88-Football-Team-Python) <br>
 [2022/12/18 - [BaekJoon] 26489번 : Gum Gum for Jay Jay (Python)](https://somjang.tistory.com/entry/BaekJoon-26489%EB%B2%88-Gum-Gum-for-Jay-Jay-Python) <br>
 [2022/12/16 - [BaekJoon] 6840번 : Who is in the middle? (Python)](https://somjang.tistory.com/entry/BaekJoon-6840%EB%B2%88-Who-is-in-the-middle-Python) <br>
@@ -18,4 +19,3 @@
 [2022/12/11 - [Programmers] 가장 가까운 같은 글자 (Python)](https://somjang.tistory.com/entry/Programmers-%EA%B0%80%EC%9E%A5-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EA%B0%99%EC%9D%80-%EA%B8%80%EC%9E%90-Python) <br>
 [2022/12/10 - [BaekJoon] 26004번 : HI-ARC (Python)](https://somjang.tistory.com/entry/BaekJoon-26004%EB%B2%88-HI-ARC-Python) <br>
 [2022/12/9 - [BaekJoon] 25814번 : Heavy Numbers (Python)](https://somjang.tistory.com/entry/BaekJoon-25814%EB%B2%88-Heavy-Numbers-Python) <br>
-[2022/12/8 - [BaekJoon] 23805번 : 골뱅이 찍기 - 돌아간 ㄹ (Python)](https://somjang.tistory.com/entry/BaekJoon-23805%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%EB%8F%8C%EC%95%84%EA%B0%84-%E3%84%B9-Python) <br>
