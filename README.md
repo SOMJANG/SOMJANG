@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2022/12/26 - [BaekJoon] 5357번 : Dedupe (Python)](https://somjang.tistory.com/entry/BaekJoon-5357%EB%B2%88-Dedupe-Python) <br>
 [2022/12/24 - [BaekJoon] 26545번 : Reverse (Python)](https://somjang.tistory.com/entry/BaekJoon-26545%EB%B2%88-Reverse-Python) <br>
 [2022/12/22 - [BaekJoon] 10189번 : Hook (Python)](https://somjang.tistory.com/entry/BaekJoon-10189%EB%B2%88-Hook-Python) <br>
 [2022/12/21 - [BaekJoon] 26545번 : Mathematics (Python)](https://somjang.tistory.com/entry/BaekJoon-26545%EB%B2%88-Mathematics-Python) <br>
@@ -18,4 +19,3 @@
 [2022/12/14 - [BaekJoon] 2033번 : 반올림 (Python)](https://somjang.tistory.com/entry/BaekJoon-2033%EB%B2%88-%EB%B0%98%EC%98%AC%EB%A6%BC-Python) <br>
 [2022/12/13 - [BaekJoon] 25801번 : Odd/Even Strings (Python)](https://somjang.tistory.com/entry/BaekJoon-25801%EB%B2%88-OddEven-Strings-Python) <br>
 [2022/12/12 - [BaekJoon] 24937번 : SciComLove (2022) (Python)](https://somjang.tistory.com/entry/BaekJoon-24937%EB%B2%88-SciComLove-2022-Python) <br>
-[2022/12/11 - [Programmers] 가장 가까운 같은 글자 (Python)](https://somjang.tistory.com/entry/Programmers-%EA%B0%80%EC%9E%A5-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EA%B0%99%EC%9D%80-%EA%B8%80%EC%9E%90-Python) <br>
