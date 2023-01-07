@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2023/1/6 - [BaekJoon] 5344번 : GCD (Python)](https://somjang.tistory.com/entry/BaekJoon-5344%EB%B2%88-GCD-Python) <br>
 [2023/1/3 - [BaekJoon] 26768번 : H4x0r (Python)](https://somjang.tistory.com/entry/BaekJoon-26768%EB%B2%88-H4x0r-Python) <br>
 [2023/1/2 - [BaekJoon] 13717번 : 포켓몬 GO (Python)](https://somjang.tistory.com/entry/BaekJoon-13717%EB%B2%88-%ED%8F%AC%EC%BC%93%EB%AA%AC-GO-Python) <br>
 [2023/1/1 - [서대문역 맛집] 새봄떡국국수 - 인왕산 새해 일출 보고 떡국 먹기 좋은 곳! - 위치, 영업시간, 웨이팅, 메뉴, 가격](https://somjang.tistory.com/entry/%EC%84%9C%EB%8C%80%EB%AC%B8%EC%97%AD-%EB%A7%9B%EC%A7%91-%EC%83%88%EB%B4%84%EB%96%A1%EA%B5%AD%EA%B5%AD%EC%88%98-%EC%9D%B8%EC%99%95%EC%82%B0-%EC%83%88%ED%95%B4-%EC%9D%BC%EC%B6%9C-%EB%B3%B4%EA%B3%A0-%EB%96%A1%EA%B5%AD-%EB%A8%B9%EA%B8%B0-%EC%A2%8B%EC%9D%80-%EA%B3%B3-%EC%9C%84%EC%B9%98-%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84-%EC%9B%A8%EC%9D%B4%ED%8C%85-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9) <br>
@@ -18,4 +19,3 @@
 [2022/12/30 - [BaekJoon] 11557번 : Yangjojang of The Year (Python)](https://somjang.tistory.com/entry/BaekJoon-11557%EB%B2%88-Yangjojang-of-The-Year-Python) <br>
 [2022/12/29 - [BaekJoon] 6825번 : Body Mass Index (Python)](https://somjang.tistory.com/entry/BaekJoon-6825%EB%B2%88-Body-Mass-Index-Python) <br>
 [2022/12/28 - [BaekJoon] 26711번 : A+B (Python)](https://somjang.tistory.com/entry/BaekJoon-26711%EB%B2%88-AB-Python) <br>
-[2022/12/27 - [BaekJoon] 26574번 : Copier (Python)](https://somjang.tistory.com/entry/BaekJoon-26574%EB%B2%88-Copier-Python) <br>
