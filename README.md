@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2023/1/7 - [BaekJoon] 26500번 : Absolutely (Python)](https://somjang.tistory.com/entry/BaekJoon-26500%EB%B2%88-Absolutely-Python) <br>
 [2023/1/6 - [BaekJoon] 5344번 : GCD (Python)](https://somjang.tistory.com/entry/BaekJoon-5344%EB%B2%88-GCD-Python) <br>
 [2023/1/3 - [BaekJoon] 26768번 : H4x0r (Python)](https://somjang.tistory.com/entry/BaekJoon-26768%EB%B2%88-H4x0r-Python) <br>
 [2023/1/2 - [BaekJoon] 13717번 : 포켓몬 GO (Python)](https://somjang.tistory.com/entry/BaekJoon-13717%EB%B2%88-%ED%8F%AC%EC%BC%93%EB%AA%AC-GO-Python) <br>
@@ -18,4 +19,3 @@
 [2022/12/31 - [BaekJoon] 5691번 : 평균 중앙값 문제 (Python)](https://somjang.tistory.com/entry/BaekJoon-5691%EB%B2%88-%ED%8F%89%EA%B7%A0-%EC%A4%91%EC%95%99%EA%B0%92-%EB%AC%B8%EC%A0%9C-Python) <br>
 [2022/12/30 - [BaekJoon] 11557번 : Yangjojang of The Year (Python)](https://somjang.tistory.com/entry/BaekJoon-11557%EB%B2%88-Yangjojang-of-The-Year-Python) <br>
 [2022/12/29 - [BaekJoon] 6825번 : Body Mass Index (Python)](https://somjang.tistory.com/entry/BaekJoon-6825%EB%B2%88-Body-Mass-Index-Python) <br>
-[2022/12/28 - [BaekJoon] 26711번 : A+B (Python)](https://somjang.tistory.com/entry/BaekJoon-26711%EB%B2%88-AB-Python) <br>
