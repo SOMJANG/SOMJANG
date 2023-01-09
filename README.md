@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2023/1/8 - [제주 삼도이동 맛집] 우진해장국 - 걸죽한 고사리해장국이 정말 맛있는 곳! - 위치, 주차, 영업시간, 웨이팅, 메뉴, 가격](https://somjang.tistory.com/entry/%EC%A0%9C%EC%A3%BC-%EC%82%BC%EB%8F%84%EC%9D%B4%EB%8F%99-%EB%A7%9B%EC%A7%91-%EC%9A%B0%EC%A7%84%ED%95%B4%EC%9E%A5%EA%B5%AD-%EA%B1%B8%EC%A3%BD%ED%95%9C-%EA%B3%A0%EC%82%AC%EB%A6%AC%ED%95%B4%EC%9E%A5%EA%B5%AD%EC%9D%B4-%EC%A0%95%EB%A7%90-%EB%A7%9B%EC%9E%88%EB%8A%94-%EA%B3%B3-%EC%9C%84%EC%B9%98-%EC%A3%BC%EC%B0%A8-%EC%9B%A8%EC%9D%B4%ED%8C%85-%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9) <br>
+[2023/1/8 - [BaekJoon] 10570번 : Favorite Number (Python)](https://somjang.tistory.com/entry/BaekJoon-10570%EB%B2%88-Favorite-Number-Python) <br>
 [2023/1/7 - [BaekJoon] 26500번 : Absolutely (Python)](https://somjang.tistory.com/entry/BaekJoon-26500%EB%B2%88-Absolutely-Python) <br>
 [2023/1/6 - [BaekJoon] 5344번 : GCD (Python)](https://somjang.tistory.com/entry/BaekJoon-5344%EB%B2%88-GCD-Python) <br>
 [2023/1/3 - [BaekJoon] 26768번 : H4x0r (Python)](https://somjang.tistory.com/entry/BaekJoon-26768%EB%B2%88-H4x0r-Python) <br>
@@ -17,5 +19,3 @@
 [2023/1/1 - [BaekJoon] 2947번 : 나무 조각 (Python)](https://somjang.tistory.com/entry/BaekJoon-2947%EB%B2%88-%EB%82%98%EB%AC%B4-%EC%A1%B0%EA%B0%81-Python) <br>
 [2022/12/31 - 서울 근교 일몰 명소 추천! - 오이도 빨간등대! - 위치 ( feat. 2022년 마지막 일몰 )](https://somjang.tistory.com/entry/%EC%84%9C%EC%9A%B8-%EA%B7%BC%EA%B5%90-%EC%9D%BC%EB%AA%B0-%EB%AA%85%EC%86%8C-%EC%B6%94%EC%B2%9C-%EC%98%A4%EC%9D%B4%EB%8F%84-%EB%B9%A8%EA%B0%84%EB%93%B1%EB%8C%80-%EC%9C%84%EC%B9%98-feat-2022%EB%85%84-%EB%A7%88%EC%A7%80%EB%A7%89-%EC%9D%BC%EB%AA%B0) <br>
 [2022/12/31 - [BaekJoon] 5691번 : 평균 중앙값 문제 (Python)](https://somjang.tistory.com/entry/BaekJoon-5691%EB%B2%88-%ED%8F%89%EA%B7%A0-%EC%A4%91%EC%95%99%EA%B0%92-%EB%AC%B8%EC%A0%9C-Python) <br>
-[2022/12/30 - [BaekJoon] 11557번 : Yangjojang of The Year (Python)](https://somjang.tistory.com/entry/BaekJoon-11557%EB%B2%88-Yangjojang-of-The-Year-Python) <br>
-[2022/12/29 - [BaekJoon] 6825번 : Body Mass Index (Python)](https://somjang.tistory.com/entry/BaekJoon-6825%EB%B2%88-Body-Mass-Index-Python) <br>
