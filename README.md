@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2023/1/15 - [macOS Ventura] f1-f12 키를 fn 누르지 않고 사용하도록 설정하는 방법 ( fn 키 설정 )](https://somjang.tistory.com/entry/macOS-Ventura-f1-f12-%ED%82%A4%EB%A5%BC-fn-%EB%88%84%EB%A5%B4%EC%A7%80-%EC%95%8A%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8F%84%EB%A1%9D-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-fn-%ED%82%A4-%EC%84%A4%EC%A0%95) <br>
+[2023/1/15 - [BaekJoon] 5300번 : Fill the Rowboats! (Python)](https://somjang.tistory.com/entry/BaekJoon-5300%EB%B2%88-Fill-the-Rowboats-Python) <br>
 [2023/1/14 - [BaekJoon] 5618번 : 공약수 (Python)](https://somjang.tistory.com/entry/BaekJoon-5618%EB%B2%88-%EA%B3%B5%EC%95%BD%EC%88%98-Python) <br>
 [2023/1/13 - [BaekJoon] 23808번 : 골뱅이 찍기 - ㅂ (Python)](https://somjang.tistory.com/entry/BaekJoon-23808-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%E3%85%82-python) <br>
 [2023/1/11 - [BaekJoon] 23806번 : 골뱅이 찍기 - ㅁ (Python)](https://somjang.tistory.com/entry/BaekJoon-23806%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%E3%85%81-Python) <br>
@@ -17,5 +19,3 @@
 [2023/1/8 - [BaekJoon] 10570번 : Favorite Number (Python)](https://somjang.tistory.com/entry/BaekJoon-10570%EB%B2%88-Favorite-Number-Python) <br>
 [2023/1/7 - [BaekJoon] 26500번 : Absolutely (Python)](https://somjang.tistory.com/entry/BaekJoon-26500%EB%B2%88-Absolutely-Python) <br>
 [2023/1/6 - [BaekJoon] 5344번 : GCD (Python)](https://somjang.tistory.com/entry/BaekJoon-5344%EB%B2%88-GCD-Python) <br>
-[2023/1/3 - [BaekJoon] 26768번 : H4x0r (Python)](https://somjang.tistory.com/entry/BaekJoon-26768%EB%B2%88-H4x0r-Python) <br>
-[2023/1/2 - [BaekJoon] 13717번 : 포켓몬 GO (Python)](https://somjang.tistory.com/entry/BaekJoon-13717%EB%B2%88-%ED%8F%AC%EC%BC%93%EB%AA%AC-GO-Python) <br>
