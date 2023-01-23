@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2023/1/22 - [BaekJoon] 23811번 : 골뱅이 찍기 - ㅌ (Python)](https://somjang.tistory.com/entry/BaekJoon-23811%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%E3%85%8C-Python) <br>
 [2023/1/21 - [BaekJoon] 4072번 : Words (Python)](https://somjang.tistory.com/entry/BaekJoon-4072%EB%B2%88-Words-Python) <br>
 [2023/1/20 - [BaekJoon] 23812번 : 골뱅이 찍기 - 돌아간 ㅍ (Python)](https://somjang.tistory.com/entry/BaekJoon-23812%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%EB%8F%8C%EC%95%84%EA%B0%84-%E3%85%8D-Python) <br>
 [2023/1/18 - [BaekJoon] 10093번 : 숫자 (Python)](https://somjang.tistory.com/entry/BaekJoon-10093%EB%B2%88-%EC%88%AB%EC%9E%90-Python) <br>
@@ -18,4 +19,3 @@
 [2023/1/15 - [macOS Ventura] f1-f12 키를 fn 누르지 않고 사용하도록 설정하는 방법 ( fn 키 설정 )](https://somjang.tistory.com/entry/macOS-Ventura-f1-f12-%ED%82%A4%EB%A5%BC-fn-%EB%88%84%EB%A5%B4%EC%A7%80-%EC%95%8A%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8F%84%EB%A1%9D-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-fn-%ED%82%A4-%EC%84%A4%EC%A0%95) <br>
 [2023/1/15 - [BaekJoon] 5300번 : Fill the Rowboats! (Python)](https://somjang.tistory.com/entry/BaekJoon-5300%EB%B2%88-Fill-the-Rowboats-Python) <br>
 [2023/1/14 - [BaekJoon] 5618번 : 공약수 (Python)](https://somjang.tistory.com/entry/BaekJoon-5618%EB%B2%88-%EA%B3%B5%EC%95%BD%EC%88%98-Python) <br>
-[2023/1/13 - [BaekJoon] 23808번 : 골뱅이 찍기 - ㅂ (Python)](https://somjang.tistory.com/entry/BaekJoon-23808-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%E3%85%82-python) <br>
