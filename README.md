@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2023/2/2 - [BaekJoon] 27331번 : 2 桁の整数 (Two-digit Integer) (Python)](https://somjang.tistory.com/entry/BaekJoon-27331%EB%B2%88-2-%E6%A1%81%E3%81%AE%E6%95%B4%E6%95%B0-Two-digit-Integer-Python) <br>
+[2023/2/1 - [BaekJoon] 27323번 : 長方形 (Rectangle) (Python)](https://somjang.tistory.com/entry/BaekJoon-27323%EB%B2%88-%E9%95%B7%E6%96%B9%E5%BD%A2-Rectangle-Python) <br>
 [2023/1/31 - [BaekJoon] 27327번 : 時間 (Hour) (Python)](https://somjang.tistory.com/entry/BaekJoon-27327%EB%B2%88-%E6%99%82%E9%96%93-Hour-Python) <br>
 [2023/1/30 - [BaekJoon] 27294번 : 몇개고? (Python)](https://somjang.tistory.com/entry/BaekJoon-27294%EB%B2%88-%EB%AA%87%EA%B0%9C%EA%B3%A0-Python) <br>
 [2023/1/28 - [Programmers] 최빈값 구하기 (Python)](https://somjang.tistory.com/entry/Programmers-%EC%B5%9C%EB%B9%88%EA%B0%92-%EA%B5%AC%ED%95%98%EA%B8%B0-Python) <br>
@@ -17,5 +19,3 @@
 [2023/1/24 - [GS25] 편스토랑 우승상품! - 차장금의 K불고기 라자냐 솔직 후기! - 판매처, 가격, 구성, 조리방법, 맛](https://somjang.tistory.com/entry/GS25-%ED%8E%B8%EC%8A%A4%ED%86%A0%EB%9E%91-%EC%9A%B0%EC%8A%B9%EC%83%81%ED%92%88-%EC%B0%A8%EC%9E%A5%EA%B8%88%EC%9D%98-K%EB%B6%88%EA%B3%A0%EA%B8%B0-%EB%9D%BC%EC%9E%90%EB%83%90-%EC%86%94%EC%A7%81-%ED%9B%84%EA%B8%B0-%ED%8C%90%EB%A7%A4%EC%B2%98-%EA%B0%80%EA%B2%A9-%EA%B5%AC%EC%84%B1-%EC%A1%B0%EB%A6%AC%EB%B0%A9%EB%B2%95-%EB%A7%9B) <br>
 [2023/1/24 - [BaekJoon] 26561번 : Population (Python)](https://somjang.tistory.com/entry/BaekJoon-26561%EB%B2%88-Population-Python) <br>
 [2023/1/23 - [Adobe] Creative Cloud Desktop App 301 Error 해결 방법 ( 업데이트 불가 문제 )](https://somjang.tistory.com/entry/Adobe-Creative-Cloud-Desktop-App-301-Error-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95) <br>
-[2023/1/23 - [BaekJoon] 23810번 : 골뱅이 찍기 - ㅋ (Python)](https://somjang.tistory.com/entry/BaekJoon-23810%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%E3%85%8B-Python) <br>
-[2023/1/22 - [BaekJoon] 23811번 : 골뱅이 찍기 - ㅌ (Python)](https://somjang.tistory.com/entry/BaekJoon-23811%EB%B2%88-%EA%B3%A8%EB%B1%85%EC%9D%B4-%EC%B0%8D%EA%B8%B0-%E3%85%8C-Python) <br>
