@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2023/2/12 - [Programmers] 배열 회전시키기 (Python)](https://somjang.tistory.com/entry/Programmers-%EB%B0%B0%EC%97%B4-%ED%9A%8C%EC%A0%84%EC%8B%9C%ED%82%A4%EA%B8%B0-Python) <br>
 [2023/2/11 - [Programmers] 잘라서 배열로 지정하기 (Python)](https://somjang.tistory.com/entry/Programmers-%EC%9E%98%EB%9D%BC%EC%84%9C-%EB%B0%B0%EC%97%B4%EB%A1%9C-%EC%A7%80%EC%A0%95%ED%95%98%EA%B8%B0-Python) <br>
 [2023/2/9 - [BaekJoon] 25957번 : 단어 우월 효과 (캠브릿지 대학의 연구결과) (Python)](https://somjang.tistory.com/entry/BaekJoon-25957%EB%B2%88-%EB%8B%A8%EC%96%B4-%EC%9A%B0%EC%9B%94-%ED%9A%A8%EA%B3%BC-%EC%BA%A0%EB%B8%8C%EB%A6%BF%EC%A7%80-%EB%8C%80%ED%95%99%EC%9D%98-%EC%97%B0%EA%B5%AC%EA%B2%B0%EA%B3%BC-Python) <br>
 [2023/2/9 - [Programmers] 등수 매기기 (Python)](https://somjang.tistory.com/entry/Programmers-%EB%93%B1%EC%88%98-%EB%A7%A4%EA%B8%B0%EA%B8%B0-Python) <br>
@@ -18,4 +19,3 @@
 [2023/2/3 - [BaekJoon] 27324번 : ゾロ目 (Same Numbers) (Python)](https://somjang.tistory.com/entry/BaekJoon-27324%EB%B2%88-%E3%82%BE%E3%83%AD%E7%9B%AE-Same-Numbers-Python) <br>
 [2023/2/2 - [BaekJoon] 27331번 : 2 桁の整数 (Two-digit Integer) (Python)](https://somjang.tistory.com/entry/BaekJoon-27331%EB%B2%88-2-%E6%A1%81%E3%81%AE%E6%95%B4%E6%95%B0-Two-digit-Integer-Python) <br>
 [2023/2/1 - [BaekJoon] 27323번 : 長方形 (Rectangle) (Python)](https://somjang.tistory.com/entry/BaekJoon-27323%EB%B2%88-%E9%95%B7%E6%96%B9%E5%BD%A2-Rectangle-Python) <br>
-[2023/1/31 - [BaekJoon] 27327번 : 時間 (Hour) (Python)](https://somjang.tistory.com/entry/BaekJoon-27327%EB%B2%88-%E6%99%82%E9%96%93-Hour-Python) <br>
