@@ -8,6 +8,9 @@
 
 🤩 Latest Blog Post
 
+[2023/2/21 - [Programmers] 분수의 덧셈 (Python)](https://somjang.tistory.com/entry/Programmers-%EB%B6%84%EC%88%98%EC%9D%98-%EB%8D%A7%EC%85%88-Python) <br>
+[2023/2/20 - [Programmers] 옹알이 (2) (Python)](https://somjang.tistory.com/entry/Programmers-%EC%98%B9%EC%95%8C%EC%9D%B4-2-Python) <br>
+[2023/2/19 - [Programmers] 카드 뭉치 (Python)](https://somjang.tistory.com/entry/Programmers-%EC%B9%B4%EB%93%9C-%EB%AD%89%EC%B9%98-Python) <br>
 [2023/2/18 - [Programmers] 컨트롤 제트 (Python)](https://somjang.tistory.com/entry/Programmers-%EC%BB%A8%ED%8A%B8%EB%A1%A4-%EC%A0%9C%ED%8A%B8-Python) <br>
 [2023/2/16 - [Programmers] OX퀴즈 (Python)](https://somjang.tistory.com/entry/Programmers-OX%ED%80%B4%EC%A6%88-Python) <br>
 [2023/2/15 - [Programmers] 연속된 수의 합 (Python)](https://somjang.tistory.com/entry/Programmers-%EC%97%B0%EC%86%8D%EB%90%9C-%EC%88%98%EC%9D%98-%ED%95%A9-Python) <br>
@@ -16,6 +19,3 @@
 [2023/2/11 - [Programmers] 잘라서 배열로 지정하기 (Python)](https://somjang.tistory.com/entry/Programmers-%EC%9E%98%EB%9D%BC%EC%84%9C-%EB%B0%B0%EC%97%B4%EB%A1%9C-%EC%A7%80%EC%A0%95%ED%95%98%EA%B8%B0-Python) <br>
 [2023/2/9 - [BaekJoon] 25957번 : 단어 우월 효과 (캠브릿지 대학의 연구결과) (Python)](https://somjang.tistory.com/entry/BaekJoon-25957%EB%B2%88-%EB%8B%A8%EC%96%B4-%EC%9A%B0%EC%9B%94-%ED%9A%A8%EA%B3%BC-%EC%BA%A0%EB%B8%8C%EB%A6%BF%EC%A7%80-%EB%8C%80%ED%95%99%EC%9D%98-%EC%97%B0%EA%B5%AC%EA%B2%B0%EA%B3%BC-Python) <br>
 [2023/2/9 - [Programmers] 등수 매기기 (Python)](https://somjang.tistory.com/entry/Programmers-%EB%93%B1%EC%88%98-%EB%A7%A4%EA%B8%B0%EA%B8%B0-Python) <br>
-[2023/2/6 - [BaekJoon] 27433번 : 팩토리얼 2 (Python)](https://somjang.tistory.com/entry/BaekJoon-27433%EB%B2%88-%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC-2-Python) <br>
-[2023/2/6 - [제주 바다뷰 카페] 울트라 마린 - 지나가다가 멈추고 방문한 바다 뷰 맛집! - 위치, 주차, 영업시간, 메뉴, 가격 (feat. 노키즈존, 멋진 풍경)](https://somjang.tistory.com/entry/%EC%A0%9C%EC%A3%BC-%EB%B0%94%EB%8B%A4%EB%B7%B0-%EC%B9%B4%ED%8E%98-%EC%9A%B8%ED%8A%B8%EB%9D%BC-%EB%A7%88%EB%A6%B0-%EC%A7%80%EB%82%98%EA%B0%80%EB%8B%A4%EA%B0%80-%EB%A9%88%EC%B6%94%EA%B3%A0-%EB%B0%A9%EB%AC%B8%ED%95%9C-%EB%B0%94%EB%8B%A4-%EB%B7%B0-%EB%A7%9B%EC%A7%91-%EC%9C%84%EC%B9%98-%EC%A3%BC%EC%B0%A8-%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9) <br>
-[2023/2/5 - [BaekJoon] 25775번 : Letter Frequency (Python)](https://somjang.tistory.com/entry/BaekJoon-25775%EB%B2%88-Letter-Frequency-Python) <br>
