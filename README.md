@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2023/2/27 - [Programmers] 문자열 계산하기 (Python)](https://somjang.tistory.com/entry/Programmers-%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0-Python) <br>
+[2023/2/26 - [BaekJoon] 6581번 : HTML (Python)](https://somjang.tistory.com/entry/BaekJoon-6581%EB%B2%88-HTML-Python) <br>
 [2023/2/25 - [Programmers] 7의 개수 (Python)](https://somjang.tistory.com/entry/Programmers-7%EC%9D%98-%EA%B0%9C%EC%88%98-Python) <br>
 [2023/2/23 - [Programmers] 짝수 홀수 개수 (Python)](https://somjang.tistory.com/entry/Programmers-%EC%A7%9D%EC%88%98-%ED%99%80%EC%88%98-%EA%B0%9C%EC%88%98-Python) <br>
 [2023/2/22 - [Programmers] 명예의 전당 (1) (Python)](https://somjang.tistory.com/entry/Programmers-%EB%AA%85%EC%98%88%EC%9D%98-%EC%A0%84%EB%8B%B9-1-Python) <br>
@@ -17,5 +19,3 @@
 [2023/2/18 - [Programmers] 컨트롤 제트 (Python)](https://somjang.tistory.com/entry/Programmers-%EC%BB%A8%ED%8A%B8%EB%A1%A4-%EC%A0%9C%ED%8A%B8-Python) <br>
 [2023/2/16 - [Programmers] OX퀴즈 (Python)](https://somjang.tistory.com/entry/Programmers-OX%ED%80%B4%EC%A6%88-Python) <br>
 [2023/2/15 - [Programmers] 연속된 수의 합 (Python)](https://somjang.tistory.com/entry/Programmers-%EC%97%B0%EC%86%8D%EB%90%9C-%EC%88%98%EC%9D%98-%ED%95%A9-Python) <br>
-[2023/2/14 - [Programmers] 로그인 성공? (Python)](https://somjang.tistory.com/entry/Programmers-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%84%B1%EA%B3%B5-Python) <br>
-[2023/2/12 - [Programmers] 배열 회전시키기 (Python)](https://somjang.tistory.com/entry/Programmers-%EB%B0%B0%EC%97%B4-%ED%9A%8C%EC%A0%84%EC%8B%9C%ED%82%A4%EA%B8%B0-Python) <br>
