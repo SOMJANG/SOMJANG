@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2023/3/7 - [BaekJoon] 26264번 : 빅데이터? 정보보호! (Python)](https://somjang.tistory.com/entry/BaekJoon-26264%EB%B2%88-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8-Python) <br>
 [2023/3/6 - [Programmers] 바탕화면 정리 (Python)](https://somjang.tistory.com/entry/Programmers-%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4-%EC%A0%95%EB%A6%AC-Python) <br>
 [2023/3/5 - [Programmers] 가위 바위 보 (Python)](https://somjang.tistory.com/entry/Programmers-%EA%B0%80%EC%9C%84-%EB%B0%94%EC%9C%84-%EB%B3%B4-Python) <br>
 [2023/3/5 - [JAVA] brew 를 활용하여 M1 맥북에 OpenJDK8 (JDK1.8) 설치하고 환경변수 설정하는 방법!](https://somjang.tistory.com/entry/JAVA-brew-%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-M1-%EB%A7%A5%EB%B6%81%EC%97%90-OpenJDK8-JDK18-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) <br>
@@ -18,4 +19,3 @@
 [2023/3/2 - [Programmers] 숨어있는 숫자의 덧셈 (2) (Python)](https://somjang.tistory.com/entry/Programmers-%EC%88%A8%EC%96%B4%EC%9E%88%EB%8A%94-%EC%88%AB%EC%9E%90%EC%9D%98-%EB%8D%A7%EC%85%88-2-Python) <br>
 [2023/3/1 - [C] gcc 컴파일러로 c 파일 컴파일하고 실행하는 방법!](https://somjang.tistory.com/entry/C-gcc-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%EB%A1%9C-c-%ED%8C%8C%EC%9D%BC-%EC%BB%B4%ED%8C%8C%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) <br>
 [2023/3/1 - [GCC] macOS 에 gcc 컴파일러 설치하는 방법!](https://somjang.tistory.com/entry/GCC-macOS-%EC%97%90-gcc-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) <br>
-[2023/3/1 - [Programmers] 다항식 더하기 (Python)](https://somjang.tistory.com/entry/Programmers-%EB%8B%A4%ED%95%AD%EC%8B%9D-%EB%8D%94%ED%95%98%EA%B8%B0-Python) <br>
