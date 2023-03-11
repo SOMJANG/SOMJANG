@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2023/3/10 - [BaekJoon] 27522번 : 카트라이더: 드리프트 (Python)](https://somjang.tistory.com/entry/BaekJoon-27522%EB%B2%88-%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94-%EB%93%9C%EB%A6%AC%ED%94%84%ED%8A%B8-Python) <br>
 [2023/3/9 - [BaekJoon] 27866번 : 문자와 문자열 (Python)](https://somjang.tistory.com/entry/BaekJoon-27866%EB%B2%88-%EB%AC%B8%EC%9E%90%EC%99%80-%EB%AC%B8%EC%9E%90%EC%97%B4-Python) <br>
 [2023/3/8 - [BaekJoon] 6841번 : I Speak TXTMSG (Python)](https://somjang.tistory.com/entry/BaekJoon-6841%EB%B2%88-I-Speak-TXTMSG-Python) <br>
 [2023/3/7 - [BaekJoon] 26264번 : 빅데이터? 정보보호! (Python)](https://somjang.tistory.com/entry/BaekJoon-26264%EB%B2%88-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8-Python) <br>
@@ -18,4 +19,3 @@
 [2023/3/4 - [GCC/C] error: implicit declaration of function 'wait' is invalid in C99 [-Werror,-Wimplicit-function-declaration] 해결 방법](https://somjang.tistory.com/entry/GCCC-error-implicit-declaration-of-function-wait-is-invalid-in-C99-Werror-Wimplicit-function-declaration-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95) <br>
 [2023/3/4 - [Programmers] 한 번만 등장한 문자 (Python)](https://somjang.tistory.com/entry/Programmers-%ED%95%9C-%EB%B2%88%EB%A7%8C-%EB%93%B1%EC%9E%A5%ED%95%9C-%EB%AC%B8%EC%9E%90-Python) <br>
 [2023/3/3 - [Programmers] 순서쌍의 개수 (Python)](https://somjang.tistory.com/entry/Programmers-%EC%88%9C%EC%84%9C%EC%8C%8D%EC%9D%98-%EA%B0%9C%EC%88%98-Python) <br>
-[2023/3/2 - [Programmers] 숨어있는 숫자의 덧셈 (2) (Python)](https://somjang.tistory.com/entry/Programmers-%EC%88%A8%EC%96%B4%EC%9E%88%EB%8A%94-%EC%88%AB%EC%9E%90%EC%9D%98-%EB%8D%A7%EC%85%88-2-Python) <br>
