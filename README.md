@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2023/3/17 - [BaekJoon] 10480번 : Oddities (Python)](https://somjang.tistory.com/entry/BaekJoon-10480%EB%B2%88-Oddities-Python) <br>
+[2023/3/16 - [BaekJoon] 1247번 : 부호 (Python)](https://somjang.tistory.com/entry/BaekJoon-1247%EB%B2%88-%EB%B6%80%ED%98%B8-Python) <br>
 [2023/3/15 - [BaekJoon] 4388번 : 받아올림 (Python)](https://somjang.tistory.com/entry/BaekJoon-4388%EB%B2%88-%EB%B0%9B%EC%95%84%EC%98%AC%EB%A6%BC-Python) <br>
 [2023/3/14 - [BaekJoon] 5341번 : Pyramids (Python)](https://somjang.tistory.com/entry/BaekJoon-5341%EB%B2%88-Pyramids-Python) <br>
 [2023/3/13 - [Programmers] 배열의 유사도 (Python)](https://somjang.tistory.com/entry/Programmers-%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%9C%A0%EC%82%AC%EB%8F%84-Python) <br>
@@ -17,5 +19,3 @@
 [2023/3/9 - [BaekJoon] 27866번 : 문자와 문자열 (Python)](https://somjang.tistory.com/entry/BaekJoon-27866%EB%B2%88-%EB%AC%B8%EC%9E%90%EC%99%80-%EB%AC%B8%EC%9E%90%EC%97%B4-Python) <br>
 [2023/3/8 - [BaekJoon] 6841번 : I Speak TXTMSG (Python)](https://somjang.tistory.com/entry/BaekJoon-6841%EB%B2%88-I-Speak-TXTMSG-Python) <br>
 [2023/3/7 - [BaekJoon] 26264번 : 빅데이터? 정보보호! (Python)](https://somjang.tistory.com/entry/BaekJoon-26264%EB%B2%88-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8-Python) <br>
-[2023/3/6 - [Programmers] 바탕화면 정리 (Python)](https://somjang.tistory.com/entry/Programmers-%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4-%EC%A0%95%EB%A6%AC-Python) <br>
-[2023/3/5 - [Programmers] 가위 바위 보 (Python)](https://somjang.tistory.com/entry/Programmers-%EA%B0%80%EC%9C%84-%EB%B0%94%EC%9C%84-%EB%B3%B4-Python) <br>
