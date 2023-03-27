@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2023/3/26 - [leetCode] 2215. Find the Difference of Two Arrays (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-2215-Find-the-Difference-of-Two-Arrays-Python-featChatGPT) <br>
 [2023/3/25 - [leetCode] 2133. Check if Every Row and Column Contains All Numbers (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-2133-Check-if-Every-Row-and-Column-Contains-All-Numbers-Python-featChatGPT) <br>
 [2023/3/22 - [leetCode] 2348. Number of Zero-Filled Subarrays (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-2348-Number-of-Zero-Filled-Subarrays-Python-featChatGPT) <br>
 [2023/3/22 - [leetCode] 1073. Adding Two Negabinary Numbers (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-1073-Adding-Two-Negabinary-Numbers-Python-featChatGPT) <br>
@@ -18,4 +19,3 @@
 [2023/3/15 - [BaekJoon] 4388번 : 받아올림 (Python)](https://somjang.tistory.com/entry/BaekJoon-4388%EB%B2%88-%EB%B0%9B%EC%95%84%EC%98%AC%EB%A6%BC-Python) <br>
 [2023/3/14 - [BaekJoon] 5341번 : Pyramids (Python)](https://somjang.tistory.com/entry/BaekJoon-5341%EB%B2%88-Pyramids-Python) <br>
 [2023/3/13 - [Programmers] 배열의 유사도 (Python)](https://somjang.tistory.com/entry/Programmers-%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%9C%A0%EC%82%AC%EB%8F%84-Python) <br>
-[2023/3/12 - [BaekJoon] 5347번 : LCM (Python)](https://somjang.tistory.com/entry/BaekJoon-5347%EB%B2%88-LCM-Python) <br>
