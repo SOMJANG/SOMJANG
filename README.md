@@ -8,6 +8,10 @@
 
 🤩 Latest Blog Post
 
+[2023/3/28 - [leetCode] 796. Rotate String (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-796-Rotate-String-Python-featChatGPT) <br>
+[2023/3/27 - [leetCode] 2490. Circular Sentence (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-2490-Circular-Sentence-Python-featChatGPT) <br>
+[2023/3/27 - [제주 모슬포 맛집] 만선식당 - 맛있는 고등어회를 먹고싶다면! - 위치, 주차, 영업시간, 메뉴, 가격](https://somjang.tistory.com/entry/%EC%A0%9C%EC%A3%BC-%EB%AA%A8%EC%8A%AC%ED%8F%AC-%EB%A7%9B%EC%A7%91-%EB%A7%8C%EC%84%A0%EC%8B%9D%EB%8B%B9-%EB%A7%9B%EC%9E%88%EB%8A%94-%EA%B3%A0%EB%93%B1%EC%96%B4%ED%9A%8C%EB%A5%BC-%EB%A8%B9%EA%B3%A0%EC%8B%B6%EB%8B%A4%EB%A9%B4-%EC%9C%84%EC%B9%98-%EC%A3%BC%EC%B0%A8-%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9) <br>
+[2023/3/27 - [LEGO] 레고 76914 - SPEED CHAMPIONS Ferrari 812 Competizione 후기! - 가격, 구성, 브릭수, 조립 시간, 조립 완성 모습](https://somjang.tistory.com/entry/LEGO-%EB%A0%88%EA%B3%A0-76914-SPEED-CHAMPIONS-Ferrari-812-Competizione-%ED%9B%84%EA%B8%B0-%EA%B0%80%EA%B2%A9-%EA%B5%AC%EC%84%B1-%EB%B8%8C%EB%A6%AD%EC%88%98-%EC%A1%B0%EB%A6%BD-%EC%8B%9C%EA%B0%84-%EC%A1%B0%EB%A6%BD-%EC%99%84%EC%84%B1-%EB%AA%A8%EC%8A%B5) <br>
 [2023/3/26 - [leetCode] 2215. Find the Difference of Two Arrays (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-2215-Find-the-Difference-of-Two-Arrays-Python-featChatGPT) <br>
 [2023/3/25 - [leetCode] 2133. Check if Every Row and Column Contains All Numbers (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-2133-Check-if-Every-Row-and-Column-Contains-All-Numbers-Python-featChatGPT) <br>
 [2023/3/22 - [leetCode] 2348. Number of Zero-Filled Subarrays (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-2348-Number-of-Zero-Filled-Subarrays-Python-featChatGPT) <br>
@@ -15,7 +19,3 @@
 [2023/3/21 - [leetCode] 1200. Minimum Absolute Difference (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-1200-Minimum-Absolute-Difference-Python-featChatGPT) <br>
 [2023/3/20 - [BaekJoon] 17588번 : Missing Numbers (Python)](https://somjang.tistory.com/entry/BaekJoon-17588%EB%B2%88-Missing-Numbers-Python) <br>
 [2023/3/17 - [BaekJoon] 10480번 : Oddities (Python)](https://somjang.tistory.com/entry/BaekJoon-10480%EB%B2%88-Oddities-Python) <br>
-[2023/3/16 - [BaekJoon] 1247번 : 부호 (Python)](https://somjang.tistory.com/entry/BaekJoon-1247%EB%B2%88-%EB%B6%80%ED%98%B8-Python) <br>
-[2023/3/15 - [BaekJoon] 4388번 : 받아올림 (Python)](https://somjang.tistory.com/entry/BaekJoon-4388%EB%B2%88-%EB%B0%9B%EC%95%84%EC%98%AC%EB%A6%BC-Python) <br>
-[2023/3/14 - [BaekJoon] 5341번 : Pyramids (Python)](https://somjang.tistory.com/entry/BaekJoon-5341%EB%B2%88-Pyramids-Python) <br>
-[2023/3/13 - [Programmers] 배열의 유사도 (Python)](https://somjang.tistory.com/entry/Programmers-%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%9C%A0%EC%82%AC%EB%8F%84-Python) <br>
