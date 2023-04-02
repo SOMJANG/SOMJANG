@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2023/4/1 - [BaekJoon] 3107번 : IPv6 (Python) (feat. ChatGPT)](https://somjang.tistory.com/entry/BaekJoon-3107%EB%B2%88-IPv6-Python-feat-ChatGPT) <br>
+[2023/3/30 - [BaekJoon] 10425번 : 피보나치 인버스 (Python) (feat. ChatGPT)](https://somjang.tistory.com/entry/BaekJoon-10425%EB%B2%88-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%9D%B8%EB%B2%84%EC%8A%A4-Python-feat-ChatGPT) <br>
 [2023/3/28 - [leetCode] 796. Rotate String (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-796-Rotate-String-Python-featChatGPT) <br>
 [2023/3/27 - [leetCode] 2490. Circular Sentence (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-2490-Circular-Sentence-Python-featChatGPT) <br>
 [2023/3/27 - [제주 모슬포 맛집] 만선식당 - 맛있는 고등어회를 먹고싶다면! - 위치, 주차, 영업시간, 메뉴, 가격](https://somjang.tistory.com/entry/%EC%A0%9C%EC%A3%BC-%EB%AA%A8%EC%8A%AC%ED%8F%AC-%EB%A7%9B%EC%A7%91-%EB%A7%8C%EC%84%A0%EC%8B%9D%EB%8B%B9-%EB%A7%9B%EC%9E%88%EB%8A%94-%EA%B3%A0%EB%93%B1%EC%96%B4%ED%9A%8C%EB%A5%BC-%EB%A8%B9%EA%B3%A0%EC%8B%B6%EB%8B%A4%EB%A9%B4-%EC%9C%84%EC%B9%98-%EC%A3%BC%EC%B0%A8-%EC%98%81%EC%97%85%EC%8B%9C%EA%B0%84-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9) <br>
@@ -17,5 +19,3 @@
 [2023/3/22 - [leetCode] 2348. Number of Zero-Filled Subarrays (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-2348-Number-of-Zero-Filled-Subarrays-Python-featChatGPT) <br>
 [2023/3/22 - [leetCode] 1073. Adding Two Negabinary Numbers (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-1073-Adding-Two-Negabinary-Numbers-Python-featChatGPT) <br>
 [2023/3/21 - [leetCode] 1200. Minimum Absolute Difference (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-1200-Minimum-Absolute-Difference-Python-featChatGPT) <br>
-[2023/3/20 - [BaekJoon] 17588번 : Missing Numbers (Python)](https://somjang.tistory.com/entry/BaekJoon-17588%EB%B2%88-Missing-Numbers-Python) <br>
-[2023/3/17 - [BaekJoon] 10480번 : Oddities (Python)](https://somjang.tistory.com/entry/BaekJoon-10480%EB%B2%88-Oddities-Python) <br>
