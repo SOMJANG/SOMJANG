@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2023/4/2 - [Programmers] 2차원으로 만들기 (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/Programmers-2%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-Python-featChatGPT) <br>
 [2023/4/1 - [BaekJoon] 3107번 : IPv6 (Python) (feat. ChatGPT)](https://somjang.tistory.com/entry/BaekJoon-3107%EB%B2%88-IPv6-Python-feat-ChatGPT) <br>
 [2023/3/30 - [BaekJoon] 10425번 : 피보나치 인버스 (Python) (feat. ChatGPT)](https://somjang.tistory.com/entry/BaekJoon-10425%EB%B2%88-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%9D%B8%EB%B2%84%EC%8A%A4-Python-feat-ChatGPT) <br>
 [2023/3/28 - [leetCode] 796. Rotate String (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-796-Rotate-String-Python-featChatGPT) <br>
@@ -18,4 +19,3 @@
 [2023/3/25 - [leetCode] 2133. Check if Every Row and Column Contains All Numbers (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-2133-Check-if-Every-Row-and-Column-Contains-All-Numbers-Python-featChatGPT) <br>
 [2023/3/22 - [leetCode] 2348. Number of Zero-Filled Subarrays (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-2348-Number-of-Zero-Filled-Subarrays-Python-featChatGPT) <br>
 [2023/3/22 - [leetCode] 1073. Adding Two Negabinary Numbers (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-1073-Adding-Two-Negabinary-Numbers-Python-featChatGPT) <br>
-[2023/3/21 - [leetCode] 1200. Minimum Absolute Difference (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-1200-Minimum-Absolute-Difference-Python-featChatGPT) <br>
