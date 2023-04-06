@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2023/4/5 - [Programmers] 제곱수 판별하기 (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/Programmers-%EC%A0%9C%EA%B3%B1%EC%88%98-%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0-Python-featChatGPT) <br>
 [2023/4/4 - [BaekJoon] 27889번 : 특별한 학교 이름 (Python)](https://somjang.tistory.com/entry/BaekJoon-27889%EB%B2%88-%ED%8A%B9%EB%B3%84%ED%95%9C-%ED%95%99%EA%B5%90-%EC%9D%B4%EB%A6%84-Python) <br>
 [2023/4/2 - [Programmers] 2차원으로 만들기 (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/Programmers-2%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-Python-featChatGPT) <br>
 [2023/4/1 - [BaekJoon] 3107번 : IPv6 (Python) (feat. ChatGPT)](https://somjang.tistory.com/entry/BaekJoon-3107%EB%B2%88-IPv6-Python-feat-ChatGPT) <br>
@@ -18,4 +19,3 @@
 [2023/3/27 - [LEGO] 레고 76914 - SPEED CHAMPIONS Ferrari 812 Competizione 후기! - 가격, 구성, 브릭수, 조립 시간, 조립 완성 모습](https://somjang.tistory.com/entry/LEGO-%EB%A0%88%EA%B3%A0-76914-SPEED-CHAMPIONS-Ferrari-812-Competizione-%ED%9B%84%EA%B8%B0-%EA%B0%80%EA%B2%A9-%EA%B5%AC%EC%84%B1-%EB%B8%8C%EB%A6%AD%EC%88%98-%EC%A1%B0%EB%A6%BD-%EC%8B%9C%EA%B0%84-%EC%A1%B0%EB%A6%BD-%EC%99%84%EC%84%B1-%EB%AA%A8%EC%8A%B5) <br>
 [2023/3/26 - [leetCode] 2215. Find the Difference of Two Arrays (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-2215-Find-the-Difference-of-Two-Arrays-Python-featChatGPT) <br>
 [2023/3/25 - [leetCode] 2133. Check if Every Row and Column Contains All Numbers (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-2133-Check-if-Every-Row-and-Column-Contains-All-Numbers-Python-featChatGPT) <br>
-[2023/3/22 - [leetCode] 2348. Number of Zero-Filled Subarrays (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-2348-Number-of-Zero-Filled-Subarrays-Python-featChatGPT) <br>
