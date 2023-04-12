@@ -8,6 +8,8 @@
 
 🤩 Latest Blog Post
 
+[2023/4/11 - [Programmers] 외계행성의 나이 (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/Programmers-%EC%99%B8%EA%B3%84%ED%96%89%EC%84%B1%EC%9D%98-%EB%82%98%EC%9D%B4-Python-feat-ChatGPT) <br>
+[2023/4/10 - [Programmers] 진료순서 정하기 (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/Programmers-%EC%A7%84%EB%A3%8C%EC%88%9C%EC%84%9C-%EC%A0%95%ED%95%98%EA%B8%B0-Python-featChatGPT) <br>
 [2023/4/9 - [Programmers] 팩토리얼 (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/Programmers-%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC-Python-featChatGPT) <br>
 [2023/4/8 - [Programmers] 약수 구하기 (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/Programmers-%EC%95%BD%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0-Python-feat-ChatGPT) <br>
 [2023/4/7 - [Programmers] 369게임 (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/Programmers-369%EA%B2%8C%EC%9E%84-Python-featChatGPT) <br>
@@ -17,5 +19,3 @@
 [2023/4/2 - [Programmers] 2차원으로 만들기 (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/Programmers-2%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-Python-featChatGPT) <br>
 [2023/4/1 - [BaekJoon] 3107번 : IPv6 (Python) (feat. ChatGPT)](https://somjang.tistory.com/entry/BaekJoon-3107%EB%B2%88-IPv6-Python-feat-ChatGPT) <br>
 [2023/3/30 - [BaekJoon] 10425번 : 피보나치 인버스 (Python) (feat. ChatGPT)](https://somjang.tistory.com/entry/BaekJoon-10425%EB%B2%88-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%9D%B8%EB%B2%84%EC%8A%A4-Python-feat-ChatGPT) <br>
-[2023/3/28 - [leetCode] 796. Rotate String (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-796-Rotate-String-Python-featChatGPT) <br>
-[2023/3/27 - [leetCode] 2490. Circular Sentence (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/leetCode-2490-Circular-Sentence-Python-featChatGPT) <br>
