@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2023/4/16 - [BaekJoon] 3613번 : Java vs C++ (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/BaekJoon-3613%EB%B2%88-Java-vs-C-Python-featChatGPT) <br>
 [2023/4/15 - [BaekJoon] 15913번 : 가위 바위 보 999 (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/BaekJoon-15913%EB%B2%88-%EA%B0%80%EC%9C%84-%EB%B0%94%EC%9C%84-%EB%B3%B4-999-Python-featChatGPT) <br>
 [2023/4/14 - [Programmers] 공 던지기 (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/Programmers-%EA%B3%B5-%EB%8D%98%EC%A7%80%EA%B8%B0-Python-featChatGPT) <br>
 [2023/4/13 - [Programmers] 구슬을 나누는 경우 (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/Programmers-%EA%B5%AC%EC%8A%AC%EC%9D%84-%EB%82%98%EB%88%84%EB%8A%94-%EA%B2%BD%EC%9A%B0-Python-feat-ChatGPT) <br>
@@ -18,4 +19,3 @@
 [2023/4/8 - [Programmers] 약수 구하기 (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/Programmers-%EC%95%BD%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0-Python-feat-ChatGPT) <br>
 [2023/4/7 - [Programmers] 369게임 (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/Programmers-369%EA%B2%8C%EC%9E%84-Python-featChatGPT) <br>
 [2023/4/6 - [Programmers] 다음에 올 숫자 (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/Programmers-%EB%8B%A4%EC%9D%8C%EC%97%90-%EC%98%AC-%EC%88%AB%EC%9E%90-Python-featChatGPT) <br>
-[2023/4/5 - [Programmers] 제곱수 판별하기 (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/Programmers-%EC%A0%9C%EA%B3%B1%EC%88%98-%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0-Python-featChatGPT) <br>
