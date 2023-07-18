@@ -1,7 +1,7 @@
 import feedparser
 import os
 
-test_env = os.environ.get("TEST_ENV", "somjang")
+test_env = os.environ.get("TEST_ENV", "🤩 Latest Blog Post 🤩")
 
 print(f"test_env = {test_env}")
 
