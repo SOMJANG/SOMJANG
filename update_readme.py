@@ -1,4 +1,9 @@
 import feedparser
+import os
+
+test_env = os.environ.get("TEST_ENV", "somjang")
+
+print(f"test_env = {test_env}")
 
 somjang_blog_rss_url = "https://somjang.tistory.com/rss"
 rss_feed = feedparser.parse(somjang_blog_rss_url)
