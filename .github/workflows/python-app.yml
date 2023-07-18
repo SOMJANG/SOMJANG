@@ -28,6 +28,7 @@ jobs:
         pip install feedparser
     - name: Install dependencies
       run: |
+        export TEST_ENV=somjanggithub
         python update_readme.py
     - name: Update README.md file
       run: |
