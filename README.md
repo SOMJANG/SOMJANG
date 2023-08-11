@@ -8,6 +8,7 @@
 
 🤩 Latest Blog Post
 
+[2023/8/10 - [GitHub] actions-runner svc.sh 활용하여 서비스 등록 후 실행 시 발생하는 Active: failed (code=exited, status=203/EXEC) 해결 방법](https://somjang.tistory.com/entry/GitHub-actions-runner-svcsh-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%93%B1%EB%A1%9D-%ED%9B%84-%EC%8B%A4%ED%96%89-%EC%8B%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-Active-failed-codeexited-status203EXEC-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95) <br>
 [2023/5/7 - [GitHub] Two-factor authentication (2FA)is required for your GitHub account 설정 방법!](https://somjang.tistory.com/entry/GitHub-Two-factor-authentication-2FAis-required-for-your-GitHub-account-%EC%84%A4%EC%A0%95-%EB%B0%A9%EB%B2%95) <br>
 [2023/5/7 - [Programmers] 문자열 정렬하기 (1) (Python)](https://somjang.tistory.com/entry/Programmers-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0-1-Python) <br>
 [2023/4/29 - [BaekJoon] 27959번 : 초코바 (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/BaekJoon-27959%EB%B2%88-%EC%B4%88%EC%BD%94%EB%B0%94-Python-featChatGPT) <br>
@@ -18,4 +19,3 @@
 [2023/4/22 - [Programmers] 추억 점수 (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/Programmers-%EC%B6%94%EC%96%B5-%EC%A0%90%EC%88%98-Python-featChatGPT) <br>
 [2023/4/21 - [Programmers] 숨어있는 숫자의 덧셈 (1) (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/Programmers-%EC%88%A8%EC%96%B4%EC%9E%88%EB%8A%94-%EC%88%AB%EC%9E%90%EC%9D%98-%EB%8D%A7%EC%85%88-1-Python) <br>
 [2023/4/18 - [Programmers] 모스부호 (1) (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/Programmers-%EB%AA%A8%EC%8A%A4%EB%B6%80%ED%98%B8-1-Python-featChatGPT) <br>
-[2023/4/16 - [BaekJoon] 3613번 : Java vs C++ (Python) (feat.ChatGPT)](https://somjang.tistory.com/entry/BaekJoon-3613%EB%B2%88-Java-vs-C-Python-featChatGPT) <br>
